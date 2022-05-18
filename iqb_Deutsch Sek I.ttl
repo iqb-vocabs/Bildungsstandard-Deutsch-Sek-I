@@ -1,1172 +1,1172 @@
-@base <https://example.com/7d23713d-7655-476d-801d-7d289f2d7db7/> .
+@base <https://example.com/iqb/bista2004d1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-
-<https://example.com/018a64c8-b6cb-437e-87ca-d8d46fc52f60/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden, insbesondere Erzähler, Erzählperspektive, Monolog, Dialog, sprachliche Bilder, Metapher, Reim, lyrisches Ich," .
-
-<https://example.com/029a6ba8-bede-4791-9c52-be89b48fa20b/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "gedanklich geordnet schreiben," .
-
-<https://example.com/038bc43b-d717-4019-a3c8-4586d72e0af1/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "Redestrategien einsetzen: z.B. Fünfsatz, Anknüpfungen formulieren, rhetorische Mittel verwenden," .
-
-<https://example.com/03fe7397-5b4c-417b-8b4d-234006f85233/> skos:narrower "https://example.com/fbc8bea6-8c0a-4c42-958d-42d838b789d2/" ;
-    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben," .
-
-<https://example.com/0461f33c-f9ac-4e70-83fa-52b58e021c5b/> skos:narrower "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/" ;
-    skos:prefLabel "die eigene Meinung begründet vertreten," .
-
-<https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/> skos:broader "https://example.com/1abf2fdf-73bf-4db3-b449-33b43ee38cab/",
-        "https://example.com/301ba46f-2e73-4e13-ae87-a6bc336067a8/",
-        "https://example.com/3eab98bb-f253-44b1-a67e-73e423ee42ea/",
-        "https://example.com/656615af-83b4-4509-8b63-a6b0a41b6e38/",
-        "https://example.com/6ea30e3b-52de-4f53-ad87-741e29a30cf9/",
-        "https://example.com/79251f28-4612-472c-a5ca-509bacc83d87/",
-        "https://example.com/8cffed41-7244-4a1d-ae65-47f7d77dc15c/",
-        "https://example.com/eefb9767-77b2-4630-8773-6cd05015138d/",
-        "https://example.com/f554626b-3003-47a4-b37b-2f66f1d4e886/",
-        "https://example.com/fc7b3d13-97ad-4d02-9cf0-712b1d83bfd3/" ;
-    skos:narrower "https://example.com/88633a86-305d-4019-b310-00db69214fc0/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
-
-<https://example.com/06cf4598-8258-40f8-afda-280e5956daf4/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "Präsentationstechniken kennen und nutzen: z. B. Tafel, Plakat, Folie" .
-
-<https://example.com/08cf333d-0220-4d9b-949b-1dd530635d39/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "Lesetechniken und Strategien zum Leseverstehen kennen und anwenden," .
-
-<https://example.com/09b38288-fe6f-4d34-8cde-3b649964108b/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "kreative Schreibformen nutzen: z.B. Figurengeschichten, Verwandlungsgeschichten, Schreiben zu Bildern," .
-
-<https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/> skos:broader "https://example.com/27c8e4ce-cfd1-43d6-8de9-a514da6b9322/",
-        "https://example.com/499f97ef-e110-4997-b0ef-4c77e394823e/",
-        "https://example.com/50a144d6-2e11-4c02-a8a6-ab64702610ff/",
-        "https://example.com/8bdac6a3-12a5-4f64-b659-dd4144366c7f/",
-        "https://example.com/c61c81b9-01f0-4526-9bc1-d5769daaea47/" ;
-    skos:narrower "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/" ;
-    skos:prefLabel "zu anderen sprechen" .
-
-<https://example.com/0a8c86b5-bea9-4ebd-ae8c-e98bede5c892/> skos:narrower "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:prefLabel "nichtlineare Texte (auch im Zusammenhang mit linearen Texten) auswerten: z.B. Schaubilder," .
-
-<https://example.com/0bc1b6d1-5221-4d43-8ca0-b2a85633dc7a/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "Notizen selbstständig strukturieren und Notizen zur Reproduktion des Gehörten nutzen, dabei sachlogische sprachliche Verknüpfungen herstellen," .
-
-<https://example.com/0bfbb730-2da3-4190-926a-58ddb21a62d0/> skos:narrower "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/" ;
-    skos:prefLabel "Medien für die eigene Produktion kreativ nutzen." .
-
-<https://example.com/0c952438-c793-4358-9b15-7a8fa5200a32/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "analytische Methoden anwenden: z.B. Texte untersuchen, vergleichen, kommentieren," .
-
-<https://example.com/0d041cd9-4bb8-49c1-9167-036a817f053a/> skos:narrower "https://example.com/c083ec01-c8f6-472f-a135-3957446f924f/" ;
-    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung kennen und anwenden," .
-
-<https://example.com/0e01c0f0-90e6-454c-b0b1-634539cc7c51/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Texte inhaltlich und sprachlich überarbeiten: z. B. Textpassagen umstellen, Wirksamkeit und Angemessenheit sprachlicher Gestaltungsmittel prüfen," .
-
-<https://example.com/0e7966ed-1b40-47a9-8ee0-490a74376471/> skos:narrower "https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/" ;
-    skos:prefLabel "Verfahren zur Textstrukturierung kennen und selbstständig anwenden: z.B. Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textteilen herstellen, Fragen aus dem Text ableiten und beantworten," .
-
-<https://example.com/0ece5b29-9f5c-4559-9e4b-e51651c22ab7/> skos:narrower "https://example.com/f4c59d3b-e5c3-4e87-b170-ceff2639ecce/" ;
-    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen," .
-
-<https://example.com/0f837dd2-a301-488b-b053-5b4c93075b70/> skos:broader "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/",
-        "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/",
-        "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:narrower "https://example.com/fc818edd-ce53-4575-8f95-cc6be0076b0c/" ;
-    skos:prefLabel "Texte verstehen und nutzen" .
-
-<https://example.com/120ab8d0-aca7-4006-bbe4-30e654cca541/> a skos:Concept ;
-    skos:broader "https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/",
-        "https://example.com/632409d6-edc1-4176-8384-53b6aada1f6f/",
-        "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/",
-        "https://example.com/a9cc7896-4b36-4ae6-9252-4230c5379162/" ;
-    skos:prefLabel "Mittlerer Schulabschluss" .
-
-<https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/> skos:broader "https://example.com/0e01c0f0-90e6-454c-b0b1-634539cc7c51/",
-        "https://example.com/18a5b2cf-a556-4ac7-b831-0cc8a18329b3/",
-        "https://example.com/1b85597c-c9d6-4a24-a966-348d9e925c85/",
-        "https://example.com/44f87068-4903-47d6-bd6c-2e30d8355269/",
-        "https://example.com/45f6a054-91ef-4418-92f7-05c25c9db82f/",
-        "https://example.com/5fe258c9-6f77-48e2-bc15-d7346428cc20/",
-        "https://example.com/8e44f640-f167-4280-b4f2-33621470c9fe/",
-        "https://example.com/ba544c0e-29a1-435f-adf3-4be49d03d273/",
-        "https://example.com/fcd7d953-ce5e-4563-837d-5daa2bdbd920/" ;
-    skos:narrower "https://example.com/a9cc7896-4b36-4ae6-9252-4230c5379162/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
-
-<https://example.com/1249372d-97a5-42a3-9611-44055e274986/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "Bedingungen und Regeln für kommunikative Situationen im Alltag kennen," .
-
-<https://example.com/131a6409-fa68-4f80-a028-37cabaf4d038/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "ein Spektrum altersangemessener Werke – auch Jugendliteratur – bedeutender Autorinnen und Autoren kennen," .
-
-<https://example.com/13b2a0f8-ae55-47a3-b833-7a4edd045d3e/> skos:narrower "https://example.com/fbc8bea6-8c0a-4c42-958d-42d838b789d2/" ;
-    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze," .
-
-<https://example.com/15bf57c4-ead8-4bdd-80ca-91e98677b797/> skos:narrower "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:prefLabel "Information und Wertung in Texten unterscheiden: z.B. in Zeitungen." .
-
-<https://example.com/160b42a4-f5d5-4d51-b7d1-864d7a6ae9b7/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z. B. Textverarbeitungs- und Mailprogramme." .
-
-<https://example.com/16c4ddc1-ff1c-4b8a-a039-fb17419cf73d/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Inhalte veranschaulichen: z. B. durch Mindmap, Flussdiagramm," .
-
-<https://example.com/18a5b2cf-a556-4ac7-b831-0cc8a18329b3/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "mit Textverarbeitungsprogrammen umgehen," .
-
-<https://example.com/194c7eea-c11f-45a9-8fe6-c38a51e144af/> skos:narrower "https://example.com/35990970-9625-41ca-952d-82bfcd0acaed/" ;
-    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen," .
-
-<https://example.com/1abf2fdf-73bf-4db3-b449-33b43ee38cab/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "unterschiedliche Informationsquellen nutzen," .
-
-<https://example.com/1b85597c-c9d6-4a24-a966-348d9e925c85/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Zitate in den eigenen Text integrieren," .
-
-<https://example.com/1c23a120-dd97-410e-b6b0-9f1fccb05258/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "Handlung und Verhaltensweisen beschreiben und werten," .
-
-<https://example.com/1c355004-c283-47c5-b495-8f015cf83a34/> skos:narrower "https://example.com/a04f7f56-f135-49dd-8df9-21d64e369441/" ;
-    skos:prefLabel "Formulare ausfüllen." .
-
-<https://example.com/1cd6be7a-75fc-4084-8dab-c7c2edb590b2/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten," .
-
-<https://example.com/1da99286-9e1f-4dd6-a995-958dfa91c3f8/> skos:narrower "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/" ;
-    skos:prefLabel "Gesprächsregeln einhalten," .
-
-<https://example.com/1ea940f7-20b1-4e9e-9808-f343651f3e60/> skos:narrower "https://example.com/d7991f84-3f50-4a44-bf3c-482daf1bae75/" ;
-    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und mit Hilfe von Rechtschreibstrategien abbauen, insbesondere Nachschlagen, Ableiten, Wortverwandtschaften suchen, grammatisches Wissen anwenden." .
-
-<https://example.com/1eb1ab15-9bda-4405-9bca-ba33364e2062/> skos:narrower "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/" ;
-    skos:prefLabel "zentrale Schreibformen beherrschen und sachgerecht nutzen: informierende (berichten, beschreiben, schildern), argumentierende (erörtern, kommentieren), appellierende, untersuchende (analysieren, interpretieren), gestaltende (erzählen, kreativ schreiben)," .
-
-<https://example.com/1ebb0410-ebb0-478a-b02d-8c967cb4869e/> skos:narrower "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/" ;
-    skos:prefLabel "auf Gesprächsbeiträge sachlich und argumentierend eingehen," .
-
-<https://example.com/1ef53636-55da-4fde-ad39-03305159abef/> skos:broader "https://example.com/78d86ef8-39dc-446d-b5b9-745c23819bfb/",
-        "https://example.com/da39574e-bc81-4097-8123-83cf4696e935/" ;
-    skos:narrower "https://example.com/90e81682-9336-4d02-b547-95e92328c281/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
-
-<https://example.com/1f9ab8e8-cccd-4ed1-befe-e820cb853ef2/> skos:narrower "https://example.com/c083ec01-c8f6-472f-a135-3957446f924f/" ;
-    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und Fehler durch Anwendung von Rechtschreibstrategien vermeiden: z.B. Ableiten, Wortverwandtschaften suchen, grammatisches Wissen nutzen." .
-
-<https://example.com/1fd52ef3-3b65-4a6f-a1c3-84d557657db4/> skos:narrower "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/" ;
-    skos:prefLabel "Lebenswirklichkeit von Realitätsdarstellungen und der Darstellung fiktionaler Welten in Medien unterscheiden," .
-
-<https://example.com/201a79f1-0780-4d84-9e2f-8507725359af/> skos:narrower "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/" ;
-    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z.B. E-Mails, Chatroom." .
-
-<https://example.com/2236fd4d-3afa-43cd-8612-459fdb2eba62/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: z.B. informieren: Nachricht; appellieren: Kommentar, Rede; regulieren: Gesetz, Vertrag; instruieren: Gebrauchsanweisung," .
-
-<https://example.com/23713078-bb5e-422c-86b7-076e2d34265a/> skos:narrower "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen," .
-
-<https://example.com/23ca501b-5658-4364-9315-60ccd1b6dc65/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "Lesehilfen nutzen: z.B. Textsorte, Aufbau, Überschrift, Illustration, Layout," .
-
-<https://example.com/25c91302-9af7-4115-807a-31953ff35eca/> skos:broader "https://example.com/1c23a120-dd97-410e-b6b0-9f1fccb05258/",
-        "https://example.com/25dd5186-3935-47b4-ae6c-e39d798f4654/",
-        "https://example.com/2904b354-faff-4d55-b58c-2a3202acb799/",
-        "https://example.com/3a34015d-c244-4270-bf52-b99a6d64588d/",
-        "https://example.com/48c8df63-f814-4a07-8d45-c99363000b7d/",
-        "https://example.com/4b14cfb0-ae4f-48c0-9f36-d98723e0805b/",
-        "https://example.com/759f1e4b-cf9b-4a33-9bf8-f978775ff47e/",
-        "https://example.com/cc84d6c2-2111-48b9-8fa6-641f9ecaad1a/",
-        "https://example.com/daef23fb-6956-4f87-ad1f-7e0b44f1a3ca/",
-        "https://example.com/fac5c603-e5ce-42a3-b2d3-956148191f74/" ;
-    skos:narrower "https://example.com/0f837dd2-a301-488b-b053-5b4c93075b70/" ;
-    skos:prefLabel "Literarische Texte verstehen und nutzen" .
-
-<https://example.com/25dd5186-3935-47b4-ae6c-e39d798f4654/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "untersuchende und produktive Methoden kennen und anwenden: z.B. Texte vergleichen, weiterschreiben, Paralleltext verfassen, szenische Umsetzung," .
-
-<https://example.com/26439208-ee87-401c-853d-c8a410c3fde0/> skos:broader "https://example.com/27351273-2988-40d4-95cc-035e2f5b75e9/",
-        "https://example.com/d33e6144-e092-4a64-8ef9-7fec40f0df85/" ;
-    skos:narrower "https://example.com/eab3ef25-12f0-47ad-bffb-7ad7818b26dd/" ;
-    skos:prefLabel "Texte überarbeiten" .
-
-<https://example.com/27351273-2988-40d4-95cc-035e2f5b75e9/> skos:narrower "https://example.com/26439208-ee87-401c-853d-c8a410c3fde0/" ;
-    skos:prefLabel "eigene und fremde Texte hinsichtlich Aufbau, Inhalt und Formulierungen revidieren," .
-
-<https://example.com/27c8e4ce-cfd1-43d6-8de9-a514da6b9322/> skos:narrower "https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/" ;
-    skos:prefLabel "über einen für die Bewältigung schulischer, beruflicher und gesellschaftlicher Sprechsituationen angemessenen Wortschatz verfügen," .
-
-<https://example.com/27d2adec-0bba-4529-aa05-15e052917346/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "sich gezielt sachgerechte Stichwörter aufschreiben," .
-
-<https://example.com/28fce6b1-ba34-4498-bd84-5c76aba96899/> skos:narrower "https://example.com/887b34c4-f277-420d-94b2-551797443918/" ;
-    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen," .
-
-<https://example.com/2904b354-faff-4d55-b58c-2a3202acb799/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "zentrale Aussagen erschließen," .
-
-<https://example.com/2ab2446e-5a6d-44db-a877-2494b9871afb/> a skos:Concept ;
-    skos:broader "https://example.com/88633a86-305d-4019-b310-00db69214fc0/",
-        "https://example.com/90e81682-9336-4d02-b547-95e92328c281/",
-        "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/",
-        "https://example.com/fc818edd-ce53-4575-8f95-cc6be0076b0c/" ;
-    skos:definition "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden: (I) Reproduzieren, (II) Zusammenhänge herstellen sowie (III) Verallgemeinern und Reflektieren. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:" ;
-    skos:prefLabel "Hauptschule" .
-
-<https://example.com/2bf52d53-0adf-443a-8fc8-4853c03d281e/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "Wesentliches markieren," .
-
-<https://example.com/2c3315f1-1208-4536-ac7e-c2a2f9bf5cdf/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "grundlegende Textfunktionen erfassen, insbesondere Information (z.B. Zeitungsmeldung), Regulierung (z.B. Gesetzestext), Appell (z.B. Werbeanzeige), Kontakt (z.B. Beschwerde), Selbstdarstellung (z.B. Tagebuch); ästhetische Funktion (z.B. Gedicht)," .
-
-<https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/> skos:broader "https://example.com/038bc43b-d717-4019-a3c8-4586d72e0af1/",
-        "https://example.com/0bc1b6d1-5221-4d43-8ca0-b2a85633dc7a/",
-        "https://example.com/27d2adec-0bba-4529-aa05-15e052917346/",
-        "https://example.com/44406838-ecbd-42e5-b69c-43d0816b6bc6/",
-        "https://example.com/5599ab5e-e3ca-47f9-a542-48ba519591a0/",
-        "https://example.com/698c704d-dfa0-42d3-8328-88bbab16929a/",
-        "https://example.com/705d68fb-6035-4823-9972-fdebfc871699/",
-        "https://example.com/788b7c64-7528-45cf-8cb3-6825b92b8a20/" ;
-    skos:narrower "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
-
-<https://example.com/2e4280ca-dc5c-4bb4-95d7-e575ca560d44/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "wesentliche Darstellungsmittel kennen und deren Wirkungen einschätzen," .
-
-<https://example.com/301ba46f-2e73-4e13-ae87-a6bc336067a8/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Texte formal gestalten/überarbeiten: z.B. Blattaufteilung, Rand, Absätze, Schriftbild," .
-
-<https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/> skos:broader "https://example.com/0e7966ed-1b40-47a9-8ee0-490a74376471/",
-        "https://example.com/7e0e63af-2061-4414-b2b8-4f0b85a41d74/",
-        "https://example.com/ae47ed91-a351-4bef-adbe-043ba12ae1b6/",
-        "https://example.com/bcd258bf-c781-4b95-a187-5a6dd8985bb4/",
-        "https://example.com/f2a6ceb7-ad1c-43e8-b470-8fad93dca9bc/" ;
-    skos:narrower "https://example.com/632409d6-edc1-4176-8384-53b6aada1f6f/" ;
-    skos:prefLabel "Strategien zum Leseverstehen kennen und anwenden" .
-
-<https://example.com/30b72fb7-0138-4c68-8a18-06da0afa7747/> skos:narrower "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/" ;
-    skos:prefLabel "das eigene Gesprächsverhalten und das anderer kriterienorientiert beobachten und bewerten." .
-
-<https://example.com/3131cb01-6875-49bc-af02-7b369d044ae7/> skos:narrower "https://example.com/a04f7f56-f135-49dd-8df9-21d64e369441/" ;
-    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze," .
-
-<https://example.com/31c7959e-9806-473e-9b35-6ee617b1ec83/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "Video-Feedback nutzen," .
-
-<https://example.com/334f529b-227e-41d8-abc3-7cee08ae1a67/> skos:narrower "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/" ;
-    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten," .
-
-<https://example.com/3409b2fe-cf84-4835-858c-ca7bb431351b/> skos:narrower "https://example.com/be6673a7-f27f-46b7-b68f-c80241019b76/" ;
-    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen," .
-
-<https://example.com/35990970-9625-41ca-952d-82bfcd0acaed/> skos:broader "https://example.com/194c7eea-c11f-45a9-8fe6-c38a51e144af/",
-        "https://example.com/a8a85515-aba1-4846-b6c1-4f88f430f838/",
-        "https://example.com/aa37fb92-d038-47b1-a13e-761bc57b8752/" ;
-    skos:narrower "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/" ;
-    skos:prefLabel "verstehend zuhören" .
-
-<https://example.com/378d7741-c520-4d42-8ba6-8a347f887e3d/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "Verfahren zur Textstrukturierung kennen und nutzen: Inhalte zusammenfassen, Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textstellen herstellen, Fragen aus dem Text ableiten und beantworten," .
-
-<https://example.com/37c19404-8812-4e07-acd7-5a15d89599a3/> skos:narrower "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/" ;
-    skos:prefLabel "Informationen zu einem Thema/Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten," .
-
-<https://example.com/3a34015d-c244-4270-bf52-b99a6d64588d/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "aktuelle und klassische Werke der Jugendliteratur und altersangemessene Texte bedeutender Autorinnen und Autoren kennen," .
-
-<https://example.com/3aa212de-6ff1-4d32-987d-446f0aaaadac/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "Informationsmöglichkeiten nutzen: z.B. Informationen zu einem Thema/ Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten (Suchstrategien)," .
-
-<https://example.com/3b21ecce-c718-4809-96f1-39464069d777/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "Sprechweisen unterscheiden und beachten: z.B. gehoben, derb; abwertend, ironisch," .
-
-<https://example.com/3c506cd8-539a-4a14-b1ae-03ae160c1982/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "Stichwörter formulieren," .
-
-<https://example.com/3d47d939-2770-4743-9750-c8093f4f650b/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Inhalte mit eigenen Worten wiedergeben, Randbemerkungen setzen," .
-
-<https://example.com/3dc9d5c6-5dde-4ab6-bb87-cc362595e550/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Texte zusammenfassen: z.B. im Nominalstil, mit Hilfe von Stichwörtern, Symbolen, Farbmarkierungen, Unterstreichungen," .
-
-<https://example.com/3eab98bb-f253-44b1-a67e-73e423ee42ea/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Texte optisch gestalten," .
-
-<https://example.com/3f4cb76a-4822-457b-95a2-3df4586f6d7b/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Texte gliedern und Teilüberschriften finden," .
-
-<https://example.com/407fa22f-60f5-4049-9191-3d090eabc1ed/> skos:broader "https://example.com/9684ff38-f39a-4bc5-80f6-f55b1c8c2017/",
-        "https://example.com/98b73526-8d6d-4685-9deb-16718a94122a/" ;
-    skos:narrower "https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/" ;
-    skos:prefLabel "Textbeschaffenheit analysieren und reflektieren" .
-
-<https://example.com/42198aaa-d855-409d-81b7-3c58fa8ffff4/> skos:narrower "https://example.com/98b73526-8d6d-4685-9deb-16718a94122a/" ;
-    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge," .
-
-<https://example.com/43337a32-1d0b-4b0e-983d-aca680b5f073/> skos:broader "https://example.com/501ddf64-d073-44c6-8085-4505087f2e86/",
-        "https://example.com/7ba3a41e-4a7f-4eb8-bdbf-210429c47cf5/",
-        "https://example.com/a3ca79bc-d3e9-4fc0-869b-f87d93089beb/" ;
-    skos:narrower "https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/" ;
-    skos:prefLabel "Leistungen von Sätzen und Wortarten kennen und für Sprechen, Schreiben und Textuntersuchung nutzen" .
-
-<https://example.com/44406838-ecbd-42e5-b69c-43d0816b6bc6/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen." .
-
-<https://example.com/447d0936-ce1e-4e35-af63-d7749b6b5909/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "beim Sprachhandeln einen differenzierten Wortschatz gebrauchen einschließlich umgangssprachlicher und idiomatischer Wendungen in Kenntnis des jeweiligen Zusammenhangs," .
-
-<https://example.com/44f87068-4903-47d6-bd6c-2e30d8355269/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Fragen und Arbeitshypothesen formulieren," .
-
-<https://example.com/4575b1a3-0e02-4430-9541-b4a6dd5a97e7/> skos:broader "https://example.com/6f1b60c2-6944-4ff5-aa27-4581260fb27a/",
-        "https://example.com/a02f1705-9b8f-4710-9b16-88d71af3f35e/",
-        "https://example.com/cacd0098-085a-44d4-98a6-95a00e1aae85/" ;
-    skos:narrower "https://example.com/64a7b2c6-9510-4a0b-9870-a6dabd98f86d/" ;
-    skos:prefLabel "Leistungen von Sätzen und Wortarten kennen und für Sprechen und Schreiben nutzen:" .
-
-<https://example.com/45f6a054-91ef-4418-92f7-05c25c9db82f/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen." .
-
-<https://example.com/462d2de0-66c7-43b4-baf2-53c1bfaf8dcc/> skos:broader "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/",
-        "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/",
-        "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:narrower "https://example.com/632409d6-edc1-4176-8384-53b6aada1f6f/" ;
-    skos:prefLabel "Texte verstehen und nutzen" .
-
-<https://example.com/4705d866-10cb-4382-be57-bd68b18bd438/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "mit Nachschlagewerken umgehen können," .
-
-<https://example.com/47b83b74-96dc-4e76-882d-d4396817de1e/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "Unterschiede und Gemeinsamkeiten verschiedener Sprachen wahrnehmen." .
-
-<https://example.com/48c8df63-f814-4a07-8d45-c99363000b7d/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "wesentliche Elemente eines Textes erfassen: Figuren, Raum- und Zeitdarstellung, Konfliktverlauf," .
-
-<https://example.com/48f78c46-ebf5-4a6e-aa49-1eb640f313ad/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: Aussagen erklären, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen." .
-
-<https://example.com/499f97ef-e110-4997-b0ef-4c77e394823e/> skos:narrower "https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/" ;
-    skos:prefLabel "Wirkungen der Redeweise kennen und beachten: Lautstärke, Betonung, Sprechtempo, Stimmführung, Körpersprache (Gestik/Mimik)." .
-
-<https://example.com/4b14cfb0-ae4f-48c0-9f36-d98723e0805b/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "an einem repräsentativen Beispiel Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/der Autorin herstellen," .
-
-<https://example.com/4f8d70e0-7417-4403-9d46-ab0eab1dfb9b/> skos:narrower "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, prüfen und ergänzen," .
-
-<https://example.com/501ddf64-d073-44c6-8085-4505087f2e86/> skos:narrower "https://example.com/43337a32-1d0b-4b0e-983d-aca680b5f073/" ;
-    skos:prefLabel "grammatische Kategorien und ihre Leistungen in situativen und funktionalen Zusammenhängen kennen und nutzen, insbesondere Tempus, Modus (Indikativ, Konjunktiv I/II), Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung." .
-
-<https://example.com/50a144d6-2e11-4c02-a8a6-ab64702610ff/> skos:narrower "https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/" ;
-    skos:prefLabel "sich in unterschiedlichen Sprechsituationen sach- und situationsgerecht verhalten: Vorstellungsgespräch/Bewerbungsgespräch, Antragstellung, Bitte, Aufforderung, Beschwerde, Entschuldigung, Dank," .
-
-<https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/> a skos:Concept ;
-    skos:broader "https://example.com/407fa22f-60f5-4049-9191-3d090eabc1ed/",
-        "https://example.com/43337a32-1d0b-4b0e-983d-aca680b5f073/",
-        "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/",
-        "https://example.com/acff16a6-fad5-4187-99c9-8006f5677af9/",
-        "https://example.com/c1ae3305-7ed0-420a-a29e-62a5cad1fc29/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/120ab8d0-aca7-4006-bbe4-30e654cca541/" ;
-    skos:prefLabel "Sprache und Sprachgebrauch untersuchen" .
-
-<https://example.com/5599ab5e-e3ca-47f9-a542-48ba519591a0/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "Gesprächsformen moderieren, leiten, beobachten, reflektieren," .
-
-<https://example.com/55f14ccc-45c0-4004-ab62-d5f9ec276002/> skos:narrower "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/" ;
-    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden: z.B. im Internet," .
-
-<https://example.com/55f6957e-c6bb-406d-8acf-67bbe07bcd6b/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "Sprechweisen unterscheiden und ihre Wirkung einschätzen: z.B. abwertend, gehoben," .
-
-<https://example.com/5ac43983-cb8e-453a-b5ed-ade5d28b5fc3/> skos:broader "https://example.com/ab8d27ed-4a1e-49f1-879d-d9c52207f013/",
-        "https://example.com/ad36ab67-0a88-474f-ab7d-21d06a04c638/" ;
-    skos:narrower "https://example.com/b0adbbf7-f61e-4f0c-b05e-4fd8e63bf736/" ;
-    skos:prefLabel "Texte überarbeiten" .
-
-<https://example.com/5add0453-8400-42d4-9645-9fa070d6023f/> skos:narrower "https://example.com/c1ae3305-7ed0-420a-a29e-62a5cad1fc29/" ;
-    skos:prefLabel "wichtige Regeln der Aussprache und der Orthografie kennen und beim Sprachhandeln berücksichtigen." .
-
-<https://example.com/5bd293c9-1b2c-46a7-a26f-d9379e4e9d1a/> skos:narrower "https://example.com/98dca5a7-c414-40ed-bc1d-d1d076b2c385/" ;
-    skos:prefLabel "Stoffsammlung erstellen, ordnen und eine Gliederung anfertigen: z.B. numerische Gliederung, Cluster, Ideenstern, Mindmap, Flussdiagramm." .
-
-<https://example.com/5ee5e37f-52ce-4ce9-9d3e-5db32d79e3a8/> skos:narrower "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/" ;
-    skos:prefLabel "Texte sprachlich gestalten" .
-
-<https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/> skos:broader "https://example.com/2e4280ca-dc5c-4bb4-95d7-e575ca560d44/",
-        "https://example.com/3aa212de-6ff1-4d32-987d-446f0aaaadac/",
-        "https://example.com/79cb5b5a-f5e5-4cb9-8f85-bac51480002a/",
-        "https://example.com/b179cd97-c09f-4fc4-ae60-248453c8a238/",
-        "https://example.com/ca28cbb7-1422-4201-8372-b12c24a7e58c/",
-        "https://example.com/da2d6ae0-cf4d-4950-af06-f704d491294f/",
-        "https://example.com/fb7c3e5d-74ac-4bde-9d42-183b570ebbbc/" ;
-    skos:narrower "https://example.com/462d2de0-66c7-43b4-baf2-53c1bfaf8dcc/" ;
-    skos:prefLabel "Medien verstehen und nutzen" .
-
-<https://example.com/5fe258c9-6f77-48e2-bc15-d7346428cc20/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Arbeitspläne/Konzepte entwerfen, Arbeitsschritte festlegen: Informationen sammeln, ordnen, ergänzen," .
-
-<https://example.com/60ee21b1-0794-4030-a08b-adfada3a7613/> skos:narrower "https://example.com/fe905428-879d-4a01-a27c-7c0ae7248326/" ;
-    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb, Pronomen)," .
-
-<https://example.com/611ea707-4802-4872-9a82-5a306b1618ab/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "Wortbedeutungen klären," .
-
-<https://example.com/6231258a-bf07-49d6-8cca-4c39838a6009/> skos:narrower "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/" ;
-    skos:prefLabel "Gesprächsregeln einhalten," .
-
-<https://example.com/6283202e-5e0b-4472-94e6-f04b56e3a99a/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "zentrale Inhalte erschließen," .
-
-<https://example.com/632409d6-edc1-4176-8384-53b6aada1f6f/> a skos:Concept ;
-    skos:broader "https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/",
-        "https://example.com/462d2de0-66c7-43b4-baf2-53c1bfaf8dcc/",
-        "https://example.com/6f50ea65-43ad-4b50-a205-e784df3d2018/",
-        "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/120ab8d0-aca7-4006-bbe4-30e654cca541/" ;
-    skos:prefLabel "Lesen – mit Texten und Medien umgehen" .
-
-<https://example.com/63368195-f15c-4f96-b751-968f74f7072f/> skos:narrower "https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/" ;
-    skos:prefLabel "sich artikuliert, verständlich, sach- und situationsangemessen äußern," .
-
-<https://example.com/6456d61a-5d1b-45a2-abe1-e01290395fdb/> skos:broader "https://example.com/72961f76-43bb-4c22-aaba-b95de71704e0/",
-        "https://example.com/ac7e612d-ff18-4a3f-a97f-1a5fb0134fef/",
-        "https://example.com/d068486a-fc99-4577-b98d-7e25df2913fb/" ;
-    skos:narrower "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/" ;
-    skos:prefLabel "vor anderen sprechen" .
-
-<https://example.com/64a7b2c6-9510-4a0b-9870-a6dabd98f86d/> skos:broader "https://example.com/4575b1a3-0e02-4430-9541-b4a6dd5a97e7/",
-        "https://example.com/dae88b63-57fd-488c-a95a-c7f5906cc8a2/",
-        "https://example.com/fe905428-879d-4a01-a27c-7c0ae7248326/" ;
-    skos:narrower "https://example.com/90e81682-9336-4d02-b547-95e92328c281/" ;
-    skos:prefLabel "Textbeschaffenheit analysieren und reflektieren" .
-
-<https://example.com/656615af-83b4-4509-8b63-a6b0a41b6e38/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Schreibkonferenzen durchführen," .
-
-<https://example.com/6750240a-bd83-45b2-babb-446e36540d83/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "nichtlineare Texte auswerten: z.B. Schaubilder," .
-
-<https://example.com/68395a2b-cee7-42c6-962e-a5075f5eedab/> skos:narrower "https://example.com/acff16a6-fad5-4187-99c9-8006f5677af9/" ;
-    skos:prefLabel "Nachschlagewerke nutzen." .
-
-<https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/> a skos:Concept ;
-    skos:broader "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/",
-        "https://example.com/35990970-9625-41ca-952d-82bfcd0acaed/",
-        "https://example.com/6456d61a-5d1b-45a2-abe1-e01290395fdb/",
-        "https://example.com/887b34c4-f277-420d-94b2-551797443918/",
-        "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/",
-        "https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/120ab8d0-aca7-4006-bbe4-30e654cca541/" ;
-    skos:prefLabel "Sprechen und Zuhören" .
-
-<https://example.com/698c704d-dfa0-42d3-8328-88bbab16929a/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "eine Mitschrift anfertigen," .
-
-<https://example.com/6ba0c4fc-bf99-443d-af1c-55dc08501641/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "verschiedene Gesprächsformen praktizieren: z.B. Diskussion, Streitgespräch, Arbeitsgespräch," .
-
-<https://example.com/6c278365-1720-40e5-987e-15f8c011bdba/> skos:narrower "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/" ;
-    skos:prefLabel "sich konstruktiv an einem Gespräch beteiligen," .
-
-<https://example.com/6ddf391b-f5b2-4016-8262-3a3b76d526d1/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen," .
-
-<https://example.com/6ea30e3b-52de-4f53-ad87-741e29a30cf9/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Wörterbücher und Nachschlagewerke nutzen," .
-
-<https://example.com/6f1b60c2-6944-4ff5-aa27-4581260fb27a/> skos:narrower "https://example.com/4575b1a3-0e02-4430-9541-b4a6dd5a97e7/" ;
-    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit; Substantiv/Nomen: Benennung; Adjektiv: Qualität," .
-
-<https://example.com/6f50ea65-43ad-4b50-a205-e784df3d2018/> skos:broader "https://example.com/95e90982-9bac-493b-9039-243e05f2c5c7/" ;
-    skos:narrower "https://example.com/632409d6-edc1-4176-8384-53b6aada1f6f/" ;
-    skos:prefLabel "verschiedene Lesetechniken beherrschen" .
-
-<https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/> skos:broader "https://example.com/1eb1ab15-9bda-4405-9bca-ba33364e2062/",
-        "https://example.com/201a79f1-0780-4d84-9e2f-8507725359af/",
-        "https://example.com/334f529b-227e-41d8-abc3-7cee08ae1a67/",
-        "https://example.com/5ee5e37f-52ce-4ce9-9d3e-5db32d79e3a8/",
-        "https://example.com/71067069-4111-47b3-8cfa-2cdd6a425191/",
-        "https://example.com/b7950442-dafa-4a54-9613-7dbd05f9e715/" ;
-    skos:narrower "https://example.com/b0adbbf7-f61e-4f0c-b05e-4fd8e63bf736/" ;
-    skos:prefLabel "Texte schreiben" .
-
-<https://example.com/705d68fb-6035-4823-9972-fdebfc871699/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "Video-Feedback nutzen," .
-
-<https://example.com/71067069-4111-47b3-8cfa-2cdd6a425191/> skos:narrower "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/" ;
-    skos:prefLabel "Ergebnisse einer Textuntersuchung darstellen: z.B." .
-
-<https://example.com/717d5ab6-2f0c-4b1a-87ba-d557b0c99638/> skos:narrower "https://example.com/98dca5a7-c414-40ed-bc1d-d1d076b2c385/" ;
-    skos:prefLabel "gemäß den Aufgaben und der Zeitvorgabe einen Schreibplan erstellen, sich für die angemessene Textsorte entscheiden und Texte ziel-, adressaten- und situationsbezogen, ggf. materialorientiert konzipieren," .
-
-<https://example.com/7286d913-0520-4f69-aa1d-cfe2e62b666c/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "recherchieren," .
-
-<https://example.com/72961f76-43bb-4c22-aaba-b95de71704e0/> skos:narrower "https://example.com/6456d61a-5d1b-45a2-abe1-e01290395fdb/" ;
-    skos:prefLabel "längere freie Redebeiträge leisten, Kurzdarstellungen und Referate frei vortragen: ggf. mit Hilfe eines Stichwortzettels/einer Gliederung," .
-
-<https://example.com/74b41941-39aa-4265-b85d-8eb5cd7a2ba9/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "Intention(en) eines Textes erkennen, insbesondere Zusammenhang zwischen Autorintention(en), Textmerkmalen, Leseerwartungen und Wirkungen," .
-
-<https://example.com/759f1e4b-cf9b-4a33-9bf8-f978775ff47e/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "grundlegende Gestaltungsmittel erkennen und ihre Wirkungen einschätzen: z.B. Wortwahl, Wiederholung, sprachliche Bilder," .
-
-<https://example.com/76366a90-f9e0-473b-8721-85106cf80136/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene im Zusammenhang mit den Grundfaktoren sprachlicher Kommunikation erkennen und berücksichtigen: gelingende bzw. misslingende Kommunikation; öffentliche bzw. private Kommunikationssituationen," .
-
-<https://example.com/76a11cea-f1e5-469a-a152-c193a91c7db2/> skos:narrower "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: informieren (z.B. Lexikontext), appellieren (z.B. Werbetext), regulieren (z.B. Jugendschutzgesetz, Arbeitsvertrag), instruieren (z.B. Bedienungsanleitung)," .
-
-<https://example.com/7708ab50-26ce-4122-be56-109d01eb176c/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "ausgewählte Beispiele fremdsprachlicher Einflüsse kennen und bewerten," .
-
-<https://example.com/788b7c64-7528-45cf-8cb3-6825b92b8a20/> skos:narrower "https://example.com/2ddf5dbf-68b8-4e83-92f3-25b2c101341c/" ;
-    skos:prefLabel "verschiedene Gesprächsformen praktizieren, z.B. Dialoge, Streitgespräche, Diskussionen, Rollendiskussionen, Debatten vorbereiten und durchführen," .
-
-<https://example.com/78d86ef8-39dc-446d-b5b9-745c23819bfb/> skos:narrower "https://example.com/1ef53636-55da-4fde-ad39-03305159abef/" ;
-    skos:prefLabel "Verfahren der Fehlerkontrolle: z.B. Nachschlagetechniken, gliederndes Mitsprechen." .
-
-<https://example.com/79251f28-4612-472c-a5ca-509bacc83d87/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Notizen machen, Stichpunkte sammeln und ordnen," .
-
-<https://example.com/79cb5b5a-f5e5-4cb9-8f85-bac51480002a/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "Medien zur Präsentation und ästhetischen Produktion nutzen." .
-
-<https://example.com/79d76973-5196-4989-84d7-414e56b23f1c/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "Vorwissen und neue Informationen unterscheiden," .
-
-<https://example.com/7a2ca722-c6a0-468e-acae-7acc666b6ef9/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen." .
-
-<https://example.com/7b1ce072-c780-42e9-99bd-e0e764cbbdf3/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "Texte gliedern und Teilüberschriften finden," .
-
-<https://example.com/7ba3a41e-4a7f-4eb8-bdbf-210429c47cf5/> skos:narrower "https://example.com/43337a32-1d0b-4b0e-983d-aca680b5f073/" ;
-    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit, Modalität; Substantiv/Nomen: Benennung; Adjektiv: Qualität," .
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "" ;
     dct:title "Deutsch Sek I" .
 
-<https://example.com/7e0e63af-2061-4414-b2b8-4f0b85a41d74/> skos:narrower "https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/" ;
-    skos:prefLabel "Textschemata erfassen: z.B. Textsorte, Aufbau des Textes," .
+<hsdsi> a skos:Concept ;
+    skos:definition "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden: (I) Reproduzieren, (II) Zusammenhänge herstellen sowie (III) Verallgemeinern und Reflektieren. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:" ;
+    skos:prefLabel "Hauptschule" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3",
+        "https://example.com/iqb/bista2004d1/hsdsi/4" .
 
-<https://example.com/83939e09-5fa6-4e7a-83dd-e87f36c2d479/> skos:narrower "https://example.com/98b73526-8d6d-4685-9deb-16718a94122a/" ;
-    skos:prefLabel "Bedeutungsebene (semantische Mittel): z.B. Synonyme, Antonyme; Schlüsselwörter; Oberbegriff/Unterbegriff; ausgewählte rhetorische Mittel," .
-
-<https://example.com/849a1e85-ee41-4dd7-905b-adeaf39a3961/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "Information und Wertung in Texten unterscheiden." .
-
-<https://example.com/84dea88a-2e41-4d2e-8d45-388691d704db/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "Mehrsprachigkeit (Schülerinnen und Schüler mit anderer Muttersprache und Fremdsprachenlernen) zur Entwicklung der Sprachbewusstheit und zum Sprachvergleich nutzen," .
-
-<https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/> skos:broader "https://example.com/06cf4598-8258-40f8-afda-280e5956daf4/",
-        "https://example.com/31c7959e-9806-473e-9b35-6ee617b1ec83/",
-        "https://example.com/6ba0c4fc-bf99-443d-af1c-55dc08501641/",
-        "https://example.com/7a2ca722-c6a0-468e-acae-7acc666b6ef9/",
-        "https://example.com/a5151d6e-3f76-4836-895d-8fe46b1af02c/",
-        "https://example.com/b26d5425-001e-489b-b950-7f719addc3d1/",
-        "https://example.com/b7999077-047e-42b4-9b64-2cc651cde5e4/" ;
-    skos:narrower "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/" ;
-    skos:prefLabel "mit anderen sprechen" .
-
-<https://example.com/88633a86-305d-4019-b310-00db69214fc0/> a skos:Concept ;
-    skos:broader "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/",
-        "https://example.com/c083ec01-c8f6-472f-a135-3957446f924f/",
-        "https://example.com/eab3ef25-12f0-47ad-bffb-7ad7818b26dd/",
-        "https://example.com/fbc8bea6-8c0a-4c42-958d-42d838b789d2/" ;
+<hsdsi/1> a skos:Concept ;
     skos:definition "" ;
-    skos:narrower "https://example.com/2ab2446e-5a6d-44db-a877-2494b9871afb/" ;
-    skos:prefLabel "Schreiben" .
-
-<https://example.com/887b34c4-f277-420d-94b2-551797443918/> skos:broader "https://example.com/28fce6b1-ba34-4498-bd84-5c76aba96899/",
-        "https://example.com/bfc9ac39-0175-4f1c-b3d6-e0fc523f977f/" ;
-    skos:narrower "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/" ;
-    skos:prefLabel "szenisch spielen" .
-
-<https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/> skos:broader "https://example.com/2bf52d53-0adf-443a-8fc8-4853c03d281e/",
-        "https://example.com/3c506cd8-539a-4a14-b1ae-03ae160c1982/",
-        "https://example.com/4705d866-10cb-4382-be57-bd68b18bd438/",
-        "https://example.com/7286d913-0520-4f69-aa1d-cfe2e62b666c/",
-        "https://example.com/7b1ce072-c780-42e9-99bd-e0e764cbbdf3/",
-        "https://example.com/aa98632a-e02f-4ac9-be99-df143bb0c721/",
-        "https://example.com/b9a9f12b-fcac-441c-9c55-0f7e10577b8f/",
-        "https://example.com/f85e91bd-3441-45d1-862c-aad39bf75f22/" ;
-    skos:narrower "https://example.com/fc818edd-ce53-4575-8f95-cc6be0076b0c/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
-
-<https://example.com/8a545124-7122-421b-9c50-1e8585ec1674/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv," .
-
-<https://example.com/8bdac6a3-12a5-4f64-b659-dd4144366c7f/> skos:narrower "https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/" ;
-    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren," .
-
-<https://example.com/8cffed41-7244-4a1d-ae65-47f7d77dc15c/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "mit Textverarbeitungs- und Mailprogrammen umgehen," .
-
-<https://example.com/8d1b4d41-c047-4efd-ae79-3b5bb83f2600/> skos:narrower "https://example.com/d9547469-74f4-4ff1-8e70-e889ea8f865d/" ;
-    skos:prefLabel "Stoffsammlung erstellen, Informationen ordnen: z.B. Mindmap." .
-
-<https://example.com/8d7e4957-7ab3-4771-a9f3-ca6f8858e4a2/> skos:narrower "https://example.com/f0175da5-0d19-43a4-b37e-b6c547ccaf70/" ;
-    skos:prefLabel "Kurzvorträge/Referate mit Hilfe eines Stichwortzettels/einer Gliederung halten: z.B. von einem Praktikum berichten, über einen Arbeitsplatz informieren, ein Buch/einen Film vorstellen," .
-
-<https://example.com/8e44f640-f167-4280-b4f2-33621470c9fe/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Schreibkonferenzen/Schreibwerkstatt durchführen," .
-
-<https://example.com/8e898793-2e5e-4b3b-b830-9288ca7ab324/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "Handlungen, Verhaltensweisen und Verhaltensmotive bewerten." .
-
-<https://example.com/8e9990a0-6ca9-4630-acc2-4fe77f29593e/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene unterscheiden," .
-
-<https://example.com/8f91eaec-dfd2-4de4-a081-7d65100e0f4e/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "sprachliche Gestaltungsmittel in ihren Wirkungszusammenhängen und in ihrer historischen Bedingtheit erkennen: z.B. Wort-, Satz- und Gedankenfiguren, Bildsprache (Metaphern)," .
-
-<https://example.com/8fc5547c-6d82-4ad4-938c-f36af1b8ca04/> skos:narrower "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/" ;
-    skos:prefLabel "die eigene Meinung begründet und nachvollziehbar vertreten," .
-
-<https://example.com/90e81682-9336-4d02-b547-95e92328c281/> a skos:Concept ;
-    skos:broader "https://example.com/1ef53636-55da-4fde-ad39-03305159abef/",
-        "https://example.com/64a7b2c6-9510-4a0b-9870-a6dabd98f86d/",
-        "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/2ab2446e-5a6d-44db-a877-2494b9871afb/" ;
-    skos:prefLabel "Sprache und Sprachgebrauch untersuchen" .
-
-<https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/> skos:broader "https://example.com/2c3315f1-1208-4536-ac7e-c2a2f9bf5cdf/",
-        "https://example.com/3b21ecce-c718-4809-96f1-39464069d777/",
-        "https://example.com/447d0936-ce1e-4e35-af63-d7749b6b5909/",
-        "https://example.com/76366a90-f9e0-473b-8721-85106cf80136/",
-        "https://example.com/84dea88a-2e41-4d2e-8d45-388691d704db/",
-        "https://example.com/9f63b0cf-76e8-4304-a50a-d58d5a4b3c1c/",
-        "https://example.com/a2ab787d-8bd4-428f-9d15-bc56f855e5e9/" ;
-    skos:narrower "https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/" ;
-    skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten" .
-
-<https://example.com/92331e81-29ff-4f11-8827-6cf780f6ea9d/> skos:narrower "https://example.com/d9547469-74f4-4ff1-8e70-e889ea8f865d/" ;
-    skos:prefLabel "den Schreibauftrag verstehen," .
-
-<https://example.com/95282ac4-ec5a-4ec0-8f23-4028ee101aec/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "wesentliche Informationen aus linearen und nichtlinearen Texten zusammenfassen," .
-
-<https://example.com/954aaf94-f73a-4807-b4f2-5dc0ca0f878d/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Präsentationstechniken anwenden: Medien zielgerichtet und sachbezogen einsetzen: z.B. Tafel, Folie, Plakat, PC-Präsentationsprogramm." .
-
-<https://example.com/95e90982-9bac-493b-9039-243e05f2c5c7/> skos:narrower "https://example.com/6f50ea65-43ad-4b50-a205-e784df3d2018/" ;
-    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv, navigierend (z.B. Bild-Ton-Text integrierend) lesen." .
-
-<https://example.com/9684ff38-f39a-4bc5-80f6-f55b1c8c2017/> skos:narrower "https://example.com/407fa22f-60f5-4049-9191-3d090eabc1ed/" ;
-    skos:prefLabel "Möglichkeiten der Textstrukturierung kennen und nutzen." .
-
-<https://example.com/9756097c-5015-48c8-9c82-2654071e95c4/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "Inhalte verkürzt wiedergeben," .
-
-<https://example.com/98b73526-8d6d-4685-9deb-16718a94122a/> skos:broader "https://example.com/42198aaa-d855-409d-81b7-3c58fa8ffff4/",
-        "https://example.com/83939e09-5fa6-4e7a-83dd-e87f36c2d479/",
-        "https://example.com/ec8a3c4a-e210-4e03-bb07-a375a32cad4a/" ;
-    skos:narrower "https://example.com/407fa22f-60f5-4049-9191-3d090eabc1ed/" ;
-    skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhangs (Textkohärenz) kennen und anwenden:" .
-
-<https://example.com/98dca5a7-c414-40ed-bc1d-d1d076b2c385/> skos:broader "https://example.com/5bd293c9-1b2c-46a7-a26f-d9379e4e9d1a/",
-        "https://example.com/717d5ab6-2f0c-4b1a-87ba-d557b0c99638/",
-        "https://example.com/a31a0709-3d26-4db5-9df3-ac44c84938bc/" ;
-    skos:narrower "https://example.com/b0adbbf7-f61e-4f0c-b05e-4fd8e63bf736/" ;
-    skos:prefLabel "Texte planen und entwerfen" .
-
-<https://example.com/9a7be2ff-52f3-4a1d-949c-6425e4954c01/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Nachschlagewerke zur Klärung von Fachbegriffen, Fremdwörtern und Sachfragen heranziehen," .
-
-<https://example.com/9caf221e-e194-4d73-9d8d-c8387789c1c1/> skos:narrower "https://example.com/fe905428-879d-4a01-a27c-7c0ae7248326/" ;
-    skos:prefLabel "Bedeutungsebene (semantische Mittel): Synonyme; Schlüsselwörter; Oberbegriff/Unterbegriff," .
-
-<https://example.com/9ccc447b-81dd-49f6-b6b8-6b55936df766/> skos:narrower "https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/" ;
-    skos:prefLabel "unterschiedliche Sprechsituationen gestalten, insbesondere Vorstellungsgespräch/Bewerbungsgespräch; Antragstellung, Beschwerde, Entschuldigung; Gesprächsleitung." .
-
-<https://example.com/9d55d897-216a-487e-a6e8-878c9348aba2/> skos:narrower "https://example.com/d9547469-74f4-4ff1-8e70-e889ea8f865d/" ;
-    skos:prefLabel "einen Schreibplan entwickeln," .
-
-<https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/> skos:broader "https://example.com/029a6ba8-bede-4791-9c52-be89b48fa20b/",
-        "https://example.com/09b38288-fe6f-4d34-8cde-3b649964108b/",
-        "https://example.com/160b42a4-f5d5-4d51-b7d1-864d7a6ae9b7/",
-        "https://example.com/1cd6be7a-75fc-4084-8dab-c7c2edb590b2/",
-        "https://example.com/95282ac4-ec5a-4ec0-8f23-4028ee101aec/",
-        "https://example.com/9756097c-5015-48c8-9c82-2654071e95c4/",
-        "https://example.com/addac882-faa4-4f14-82b8-f4d55dd3391b/",
-        "https://example.com/b06d674b-8155-4372-8e3a-be2eee7be07b/",
-        "https://example.com/bcda681d-159f-4df6-9d0c-2ccddd3802ab/",
-        "https://example.com/c78e0e47-3410-4577-9566-d8280fa90c8f/",
-        "https://example.com/dba1b87a-0a08-47ff-a959-f68bb5faa6a2/",
-        "https://example.com/dec2ca4f-440b-4e84-82e2-395f79aeb885/",
-        "https://example.com/e34b375c-0985-463c-923f-342dd84ac905/" ;
-    skos:narrower "https://example.com/eab3ef25-12f0-47ad-bffb-7ad7818b26dd/" ;
-    skos:prefLabel "Texte schreiben" .
-
-<https://example.com/9f63b0cf-76e8-4304-a50a-d58d5a4b3c1c/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: z.B. Standardsprache, Umgangssprache, Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache," .
-
-<https://example.com/a02f1705-9b8f-4710-9b16-88d71af3f35e/> skos:narrower "https://example.com/4575b1a3-0e02-4430-9541-b4a6dd5a97e7/" ;
-    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil," .
-
-<https://example.com/a04f7f56-f135-49dd-8df9-21d64e369441/> skos:broader "https://example.com/1c355004-c283-47c5-b495-8f015cf83a34/",
-        "https://example.com/3131cb01-6875-49bc-af02-7b369d044ae7/",
-        "https://example.com/a5d8e31c-0a4b-41aa-8e05-652ad3c29a7f/",
-        "https://example.com/a63dd299-c0df-4fbb-a90f-81fe4b085c99/" ;
-    skos:narrower "https://example.com/a9cc7896-4b36-4ae6-9252-4230c5379162/" ;
-    skos:prefLabel "über Schreibfertigkeiten verfügen" .
-
-<https://example.com/a2ab787d-8bd4-428f-9d15-bc56f855e5e9/> skos:narrower "https://example.com/91e43dee-4b1c-4eb1-84eb-a4817dc68c18/" ;
-    skos:prefLabel "ausgewählte Erscheinungen des Sprachwandels kennen und bewerten: z.B. Bedeutungswandel, fremdsprachliche Einflüsse." .
-
-<https://example.com/a31a0709-3d26-4db5-9df3-ac44c84938bc/> skos:narrower "https://example.com/98dca5a7-c414-40ed-bc1d-d1d076b2c385/" ;
-    skos:prefLabel "Informationsquellen gezielt nutzen, insbesondere Bibliotheken, Nachschlagewerke, Zeitungen, Internet," .
-
-<https://example.com/a3ca79bc-d3e9-4fc0-869b-f87d93089beb/> skos:narrower "https://example.com/43337a32-1d0b-4b0e-983d-aca680b5f073/" ;
-    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil," .
-
-<https://example.com/a4f16d12-a7f4-45e8-907f-b3fa38149860/> skos:narrower "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/" ;
-    skos:prefLabel "Intentionen und Wirkungen ausgewählter Medieninhalte erkennen und bewerten: z. B. Fernsehserie," .
-
-<https://example.com/a5151d6e-3f76-4836-895d-8fe46b1af02c/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "Wesentliches notieren," .
-
-<https://example.com/a5d8e31c-0a4b-41aa-8e05-652ad3c29a7f/> skos:narrower "https://example.com/a04f7f56-f135-49dd-8df9-21d64e369441/" ;
-    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben," .
-
-<https://example.com/a63dd299-c0df-4fbb-a90f-81fe4b085c99/> skos:narrower "https://example.com/a04f7f56-f135-49dd-8df9-21d64e369441/" ;
-    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation," .
-
-<https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/> skos:broader "https://example.com/1da99286-9e1f-4dd6-a995-958dfa91c3f8/",
-        "https://example.com/8fc5547c-6d82-4ad4-938c-f36af1b8ca04/",
-        "https://example.com/d3d2d042-fc80-4fc0-b772-aa899c1f772d/",
-        "https://example.com/e4ad447f-5b75-495d-ba4d-6ad7b3622f8a/",
-        "https://example.com/e9743ed6-3a94-4837-a11f-8d3ec0497a1e/",
-        "https://example.com/f44d3d9f-cbeb-48a2-a673-4219516f4236/" ;
-    skos:narrower "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/" ;
-    skos:prefLabel "mit anderen sprechen" .
-
-<https://example.com/a8a85515-aba1-4846-b6c1-4f88f430f838/> skos:narrower "https://example.com/35990970-9625-41ca-952d-82bfcd0acaed/" ;
-    skos:prefLabel "Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln." .
-
-<https://example.com/a9cc7896-4b36-4ae6-9252-4230c5379162/> a skos:Concept ;
-    skos:broader "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/",
-        "https://example.com/a04f7f56-f135-49dd-8df9-21d64e369441/",
-        "https://example.com/b0adbbf7-f61e-4f0c-b05e-4fd8e63bf736/",
-        "https://example.com/d7991f84-3f50-4a44-bf3c-482daf1bae75/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/120ab8d0-aca7-4006-bbe4-30e654cca541/" ;
-    skos:prefLabel "Schreiben" .
-
-<https://example.com/aa37fb92-d038-47b1-a13e-761bc57b8752/> skos:narrower "https://example.com/35990970-9625-41ca-952d-82bfcd0acaed/" ;
-    skos:prefLabel "wesentliche Aussagen aus umfangreichen gesprochenen Texten verstehen, diese Informationen sichern und wiedergeben," .
-
-<https://example.com/aa98632a-e02f-4ac9-be99-df143bb0c721/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "zitieren, Quellen angeben," .
-
-<https://example.com/ab4ab7ca-2cfb-4930-a531-a066630fdc57/> skos:narrower "https://example.com/be6673a7-f27f-46b7-b68f-c80241019b76/" ;
-    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten." .
-
-<https://example.com/ab8d27ed-4a1e-49f1-879d-d9c52207f013/> skos:narrower "https://example.com/5ac43983-cb8e-453a-b5ed-ade5d28b5fc3/" ;
-    skos:prefLabel "Aufbau, Inhalt und Formulierungen eigener Texte hinsichtlich der Aufgabenstellung überprüfen (Schreibsituation, Schreibanlass)," .
-
-<https://example.com/abca53d6-d52a-4155-af33-8670f3a161b0/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, vergleichen, prüfen und ergänzen," .
-
-<https://example.com/ac09dd9f-8d8c-4e10-bfd7-6bc882341c85/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "eigene Deutungen des Textes entwickeln, am Text belegen und sich mit anderen darüber verständigen," .
-
-<https://example.com/ac7e612d-ff18-4a3f-a97f-1a5fb0134fef/> skos:narrower "https://example.com/6456d61a-5d1b-45a2-abe1-e01290395fdb/" ;
-    skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken): z.B. Tafel, Folie, Plakat, Moderationskarten." .
-
-<https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/> skos:broader "https://example.com/0bfbb730-2da3-4190-926a-58ddb21a62d0/",
-        "https://example.com/1fd52ef3-3b65-4a6f-a1c3-84d557657db4/",
-        "https://example.com/37c19404-8812-4e07-acd7-5a15d89599a3/",
-        "https://example.com/55f14ccc-45c0-4004-ab62-d5f9ec276002/",
-        "https://example.com/a4f16d12-a7f4-45e8-907f-b3fa38149860/",
-        "https://example.com/b0344601-6659-49b9-9dba-579e946a1b9a/" ;
-    skos:narrower "https://example.com/0f837dd2-a301-488b-b053-5b4c93075b70/" ;
-    skos:prefLabel "Medien verstehen und nutzen" .
-
-<https://example.com/acff16a6-fad5-4187-99c9-8006f5677af9/> skos:broader "https://example.com/68395a2b-cee7-42c6-962e-a5075f5eedab/",
-        "https://example.com/aee0ec4c-3503-40b6-a361-19efd490b661/",
-        "https://example.com/f05feb26-697f-4c23-9b99-f3652be655f5/" ;
-    skos:narrower "https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
-
-<https://example.com/ad36ab67-0a88-474f-ab7d-21d06a04c638/> skos:narrower "https://example.com/5ac43983-cb8e-453a-b5ed-ade5d28b5fc3/" ;
-    skos:prefLabel "Strategien zur Überprüfung der sprachlichen Richtigkeit und Rechtschreibung anwenden." .
-
-<https://example.com/addac882-faa4-4f14-82b8-f4d55dd3391b/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "wesentliche Gestaltungsmittel untersuchen und darstellen," .
-
-<https://example.com/ae47ed91-a351-4bef-adbe-043ba12ae1b6/> skos:narrower "https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/" ;
-    skos:prefLabel "Leseerwartungen und -erfahrungen bewusst nutzen," .
-
-<https://example.com/aee0ec4c-3503-40b6-a361-19efd490b661/> skos:narrower "https://example.com/acff16a6-fad5-4187-99c9-8006f5677af9/" ;
-    skos:prefLabel "grammatische Proben anwenden: Klang-, Weglass-, Ersatz- und Umstellprobe," .
-
-<https://example.com/b0344601-6659-49b9-9dba-579e946a1b9a/> skos:narrower "https://example.com/acd2b0c1-4e43-4ffb-a14a-30673be69037/" ;
-    skos:prefLabel "wesentliche Darstellungsmittel eines Mediums und deren Wirkungen kennen und einschätzen," .
-
-<https://example.com/b06d674b-8155-4372-8e3a-be2eee7be07b/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "begründet Stellung beziehen," .
-
-<https://example.com/b0adbbf7-f61e-4f0c-b05e-4fd8e63bf736/> skos:broader "https://example.com/5ac43983-cb8e-453a-b5ed-ade5d28b5fc3/",
-        "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/",
-        "https://example.com/98dca5a7-c414-40ed-bc1d-d1d076b2c385/" ;
-    skos:narrower "https://example.com/a9cc7896-4b36-4ae6-9252-4230c5379162/" ;
-    skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten" .
-
-<https://example.com/b0e8b2fc-a064-4d1b-b3b2-d465e7fa588d/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Exzerpieren, Zitieren, Quellen angeben," .
-
-<https://example.com/b179cd97-c09f-4fc4-ae60-248453c8a238/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "medienspezifische Formen kennen: z.B. Print- und Online-Zeitungen, Infotainment, Hypertexte, Werbekommunikation, Film," .
-
-<https://example.com/b26d5425-001e-489b-b950-7f719addc3d1/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "Redestrategien einsetzen: z.B. Anknüpfungen formulieren," .
-
-<https://example.com/b3a67ff5-e7e1-463c-8d4e-8904cd537ac8/> skos:narrower "https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/" ;
-    skos:prefLabel "über einen umfangreichen und differenzierten Wortschatz verfügen," .
-
-<https://example.com/b7950442-dafa-4a54-9613-7dbd05f9e715/> skos:narrower "https://example.com/6fd12b80-5519-4dcd-86c1-8f05054ea6eb/" ;
-    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbung, Bewerbungsschreiben, Protokoll, Annonce/Ausfüllen von Formularen, Diagramm, Schaubild, Statistik," .
-
-<https://example.com/b7999077-047e-42b4-9b64-2cc651cde5e4/> skos:narrower "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/" ;
-    skos:prefLabel "Notizen ordnen und zur Weiterarbeit nutzen," .
-
-<https://example.com/b7c114ef-f4b7-4e32-bf06-79f08b546ce4/> skos:narrower "https://example.com/f0175da5-0d19-43a4-b37e-b6c547ccaf70/" ;
-    skos:prefLabel "freie Redebeiträge leisten," .
-
-<https://example.com/b9965374-7c68-4302-8666-5033729c0907/> skos:broader "https://example.com/0a8c86b5-bea9-4ebd-ae8c-e98bede5c892/",
-        "https://example.com/15bf57c4-ead8-4bdd-80ca-91e98677b797/",
-        "https://example.com/23713078-bb5e-422c-86b7-076e2d34265a/",
-        "https://example.com/4f8d70e0-7417-4403-9d46-ab0eab1dfb9b/",
-        "https://example.com/76a11cea-f1e5-469a-a152-c193a91c7db2/",
-        "https://example.com/f3237d8b-59be-4ee9-957b-e91cbd020a65/" ;
-    skos:narrower "https://example.com/0f837dd2-a301-488b-b053-5b4c93075b70/" ;
-    skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen" .
-
-<https://example.com/b9a9f12b-fcac-441c-9c55-0f7e10577b8f/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "Inhalte mit eigenen Worten zusammenfassend wiedergeben," .
-
-<https://example.com/ba544c0e-29a1-435f-adf3-4be49d03d273/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Einhaltung orthografischer und grammatischer Normen kontrollieren," .
-
-<https://example.com/bb315658-dfd4-4ebe-9bae-3c5adeee9f65/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "wesentliche Elemente eines Textes erfassen: z.B. Figuren, Raum- und Zeitdarstellung, Konfliktverlauf," .
-
-<https://example.com/bbe2feca-03e4-4f61-a463-c6356c242af3/> skos:narrower "https://example.com/c083ec01-c8f6-472f-a135-3957446f924f/" ;
-    skos:prefLabel "häufig vorkommende Wörter – auch wichtige Fachbegriffe und Fremdwörter - richtig schreiben," .
-
-<https://example.com/bcd258bf-c781-4b95-a187-5a6dd8985bb4/> skos:narrower "https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/" ;
-    skos:prefLabel "Wortbedeutungen klären," .
-
-<https://example.com/bcda681d-159f-4df6-9d0c-2ccddd3802ab/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "Argumente finden und formulieren," .
-
-<https://example.com/be6673a7-f27f-46b7-b68f-c80241019b76/> skos:broader "https://example.com/3409b2fe-cf84-4835-858c-ca7bb431351b/",
-        "https://example.com/ab4ab7ca-2cfb-4930-a531-a066630fdc57/" ;
-    skos:narrower "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/" ;
-    skos:prefLabel "mit anderen sprechen" .
-
-<https://example.com/bfc9ac39-0175-4f1c-b3d6-e0fc523f977f/> skos:narrower "https://example.com/887b34c4-f277-420d-94b2-551797443918/" ;
-    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten." .
-
-<https://example.com/c083ec01-c8f6-472f-a135-3957446f924f/> skos:broader "https://example.com/0d041cd9-4bb8-49c1-9167-036a817f053a/",
-        "https://example.com/1f9ab8e8-cccd-4ed1-befe-e820cb853ef2/",
-        "https://example.com/bbe2feca-03e4-4f61-a463-c6356c242af3/" ;
-    skos:narrower "https://example.com/88633a86-305d-4019-b310-00db69214fc0/" ;
-    skos:prefLabel "richtig schreiben" .
-
-<https://example.com/c1ae3305-7ed0-420a-a29e-62a5cad1fc29/> skos:broader "https://example.com/5add0453-8400-42d4-9645-9fa070d6023f/" ;
-    skos:narrower "https://example.com/50c7faf4-aaee-4747-bcd4-4d312a160f5a/" ;
-    skos:prefLabel "Laut-Buchstaben-Beziehungen kennen und reflektieren" .
-
-<https://example.com/c61c81b9-01f0-4526-9bc1-d5769daaea47/> skos:narrower "https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi" ;
+    skos:prefLabel "Sprechen und Zuhören" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" .
+
+<hsdsi/1/1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1" ;
+    skos:prefLabel "zu anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.1/1.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.1/1.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.1/1.1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.1/1.1.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.1/1.1.5" .
+
+<hsdsi/1/1.1/1.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.1" ;
     skos:prefLabel "sich artikuliert und verständlich in der Standardsprache äußern," .
 
-<https://example.com/c78e0e47-3410-4577-9566-d8280fa90c8f/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "grundlegende Schreibfunktionen umsetzen: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren," .
+<hsdsi/1/1.1/1.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.1" ;
+    skos:prefLabel "über einen für die Bewältigung schulischer, beruflicher und gesellschaftlicher Sprechsituationen angemessenen Wortschatz verfügen," .
 
-<https://example.com/c8f3bb7a-eac2-44c2-9c15-e847cb2c8a6d/> skos:narrower "https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/" ;
-    skos:prefLabel "Wesentliches hervorheben und Zusammenhänge verdeutlichen," .
+<hsdsi/1/1.1/1.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.1" ;
+    skos:prefLabel "sich in unterschiedlichen Sprechsituationen sach- und situationsgerecht verhalten: Vorstellungsgespräch/Bewerbungsgespräch, Antragstellung, Bitte, Aufforderung, Beschwerde, Entschuldigung, Dank," .
 
-<https://example.com/ca28cbb7-1422-4201-8372-b12c24a7e58c/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "zwischen eigentlicher Wirklichkeit und virtuellen Welten in Medien unterscheiden: z.B. Fernsehserien, Computerspiele," .
+<hsdsi/1/1.1/1.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.1" ;
+    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren," .
 
-<https://example.com/cacd0098-085a-44d4-98a6-95a00e1aae85/> skos:narrower "https://example.com/4575b1a3-0e02-4430-9541-b4a6dd5a97e7/" ;
-    skos:prefLabel "grammatische Kategorien in situativen und funktionalen Zusammenhängen verwenden: z.B. Tempus, Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung," .
+<hsdsi/1/1.1/1.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.1" ;
+    skos:prefLabel "Wirkungen der Redeweise kennen und beachten: Lautstärke, Betonung, Sprechtempo, Stimmführung, Körpersprache (Gestik/Mimik)." .
 
-<https://example.com/cc84d6c2-2111-48b9-8fa6-641f9ecaad1a/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden: Autor, Erzähler, Monolog, Dialog, Reim," .
+<hsdsi/1/1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1" ;
+    skos:prefLabel "vor anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.2/1.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.2/1.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.2/1.2.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.2/1.2.4" .
 
-<https://example.com/d068486a-fc99-4577-b98d-7e25df2913fb/> skos:narrower "https://example.com/6456d61a-5d1b-45a2-abe1-e01290395fdb/" ;
+<hsdsi/1/1.2/1.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.2" ;
     skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen," .
 
-<https://example.com/d2fad5e2-f1a8-4d89-a88a-af8c46e29bb0/> skos:narrower "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/" ;
-    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen," .
+<hsdsi/1/1.2/1.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.2" ;
+    skos:prefLabel "freie Redebeiträge leisten," .
 
-<https://example.com/d33e6144-e092-4a64-8ef9-7fec40f0df85/> skos:narrower "https://example.com/26439208-ee87-401c-853d-c8a410c3fde0/" ;
-    skos:prefLabel "Verfahren zur Überprüfung der sprachlichen Richtigkeit kennen und nutzen." .
+<hsdsi/1/1.2/1.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.2" ;
+    skos:prefLabel "Kurzvorträge/Referate mit Hilfe eines Stichwortzettels/einer Gliederung halten: z.B. von einem Praktikum berichten, über einen Arbeitsplatz informieren, ein Buch/einen Film vorstellen," .
 
-<https://example.com/d3d2d042-fc80-4fc0-b772-aa899c1f772d/> skos:narrower "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/" ;
-    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen," .
-
-<https://example.com/d5a82597-a19c-4a01-9c68-f0a5fd058af2/> skos:narrower "https://example.com/f4c59d3b-e5c3-4e87-b170-ceff2639ecce/" ;
-    skos:prefLabel "wesentliche Informationen verstehen, wiedergeben und kritisch hinterfragen," .
-
-<https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/> skos:broader "https://example.com/018a64c8-b6cb-437e-87ca-d8d46fc52f60/",
-        "https://example.com/0c952438-c793-4358-9b15-7a8fa5200a32/",
-        "https://example.com/131a6409-fa68-4f80-a028-37cabaf4d038/",
-        "https://example.com/6283202e-5e0b-4472-94e6-f04b56e3a99a/",
-        "https://example.com/8e898793-2e5e-4b3b-b830-9288ca7ab324/",
-        "https://example.com/8f91eaec-dfd2-4de4-a081-7d65100e0f4e/",
-        "https://example.com/ac09dd9f-8d8c-4e10-bfd7-6bc882341c85/",
-        "https://example.com/bb315658-dfd4-4ebe-9bae-3c5adeee9f65/",
-        "https://example.com/ddb9642e-707a-41b3-9eff-5038ef7c87ea/",
-        "https://example.com/efc6a33f-fcf2-44de-bc82-1644eda2b16e/",
-        "https://example.com/fe1f3789-90eb-43b9-8ebc-21bd5f64f4b6/" ;
-    skos:narrower "https://example.com/462d2de0-66c7-43b4-baf2-53c1bfaf8dcc/" ;
-    skos:prefLabel "literarische Texte verstehen und nutzen" .
-
-<https://example.com/d7991f84-3f50-4a44-bf3c-482daf1bae75/> skos:broader "https://example.com/1ea940f7-20b1-4e9e-9808-f343651f3e60/",
-        "https://example.com/f7923b81-e058-4ad8-8461-5c4904ad0489/" ;
-    skos:narrower "https://example.com/a9cc7896-4b36-4ae6-9252-4230c5379162/" ;
-    skos:prefLabel "richtig schreiben" .
-
-<https://example.com/d859f3f0-3004-49d7-8546-ce4ef3bb37e8/> skos:narrower "https://example.com/f0175da5-0d19-43a4-b37e-b6c547ccaf70/" ;
+<hsdsi/1/1.2/1.2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.2" ;
     skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken)." .
 
-<https://example.com/d8c28e38-9cf1-4a0e-8fe3-dd46d01feda8/> skos:narrower "https://example.com/fbc8bea6-8c0a-4c42-958d-42d838b789d2/" ;
-    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation," .
+<hsdsi/1/1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1" ;
+    skos:prefLabel "mit anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.3/1.3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.3/1.3.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.3/1.3.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.3/1.3.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.3/1.3.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.3/1.3.6" .
 
-<https://example.com/d9547469-74f4-4ff1-8e70-e889ea8f865d/> skos:broader "https://example.com/8d1b4d41-c047-4efd-ae79-3b5bb83f2600/",
-        "https://example.com/92331e81-29ff-4f11-8827-6cf780f6ea9d/",
-        "https://example.com/9d55d897-216a-487e-a6e8-878c9348aba2/",
-        "https://example.com/fdd1f40d-7dde-463c-88d6-950a510b2b17/" ;
-    skos:narrower "https://example.com/eab3ef25-12f0-47ad-bffb-7ad7818b26dd/" ;
-    skos:prefLabel "Texte planen und entwerfen" .
-
-<https://example.com/da2d6ae0-cf4d-4950-af06-f704d491294f/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "Intentionen und Wirkungen erkennen und bewerten," .
-
-<https://example.com/da39574e-bc81-4097-8123-83cf4696e935/> skos:narrower "https://example.com/1ef53636-55da-4fde-ad39-03305159abef/" ;
-    skos:prefLabel "die Klang-, Weglass-, Umstell-, Ersatzprobe anwenden," .
-
-<https://example.com/dae88b63-57fd-488c-a95a-c7f5906cc8a2/> skos:narrower "https://example.com/64a7b2c6-9510-4a0b-9870-a6dabd98f86d/" ;
-    skos:prefLabel "grundlegende Regeln der Orthografie und Zeichensetzung kennen und beim Sprachhandeln anwenden." .
-
-<https://example.com/daef23fb-6956-4f87-ad1f-7e0b44f1a3ca/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "eigene Deutungen des Textes entwickeln, mit anderen darüber sprechen und am Text belegen." .
-
-<https://example.com/dba1b87a-0a08-47ff-a959-f68bb5faa6a2/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbungsschreiben, Ausfüllen von Formularen, Schaubild, Diagramm, Tabelle," .
-
-<https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/> skos:broader "https://example.com/0461f33c-f9ac-4e70-83fa-52b58e021c5b/",
-        "https://example.com/1ebb0410-ebb0-478a-b02d-8c967cb4869e/",
-        "https://example.com/30b72fb7-0138-4c68-8a18-06da0afa7747/",
-        "https://example.com/6231258a-bf07-49d6-8cca-4c39838a6009/",
-        "https://example.com/6c278365-1720-40e5-987e-15f8c011bdba/",
-        "https://example.com/d2fad5e2-f1a8-4d89-a88a-af8c46e29bb0/" ;
-    skos:narrower "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/" ;
-    skos:prefLabel "mit anderen sprechen" .
-
-<https://example.com/dd9f33cc-ff50-4bd9-bc82-8e36f2eed594/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: Standardsprache, Umgangssprache; Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache," .
-
-<https://example.com/ddb9642e-707a-41b3-9eff-5038ef7c87ea/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/ der Autorin bei der Arbeit an Texten aus Gegenwart und Vergangenheit herstellen," .
-
-<https://example.com/dec2ca4f-440b-4e84-82e2-395f79aeb885/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "Texte sprachlich gestalten: strukturiert, verständlich und zusammenhängend schreiben," .
-
-<https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/> skos:broader "https://example.com/63368195-f15c-4f96-b751-968f74f7072f/",
-        "https://example.com/9ccc447b-81dd-49f6-b6b8-6b55936df766/",
-        "https://example.com/b3a67ff5-e7e1-463c-8d4e-8904cd537ac8/",
-        "https://example.com/e3ce52e7-1f93-43bb-948b-23793230a039/",
-        "https://example.com/f4ac19d1-a3f7-4ee1-afdc-0c5bf24e2b97/" ;
-    skos:narrower "https://example.com/6884edc1-c5a7-437c-89a3-f892c7c64baf/" ;
-    skos:prefLabel "zu anderen sprechen" .
-
-<https://example.com/e34b375c-0985-463c-923f-342dd84ac905/> skos:narrower "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/" ;
-    skos:prefLabel "Argumente gewichten und Schlüsse ziehen," .
-
-<https://example.com/e3ce52e7-1f93-43bb-948b-23793230a039/> skos:narrower "https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/" ;
-    skos:prefLabel "Wirkungen der Redeweise kennen, beachten und situations- sowie adressatengerecht anwenden: Lautstärke, Betonung, Sprechtempo, Klangfarbe, Stimmführung; Körpersprache (Gestik, Mimik)," .
-
-<https://example.com/e4ad447f-5b75-495d-ba4d-6ad7b3622f8a/> skos:narrower "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/" ;
+<hsdsi/1/1.3/1.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.3" ;
     skos:prefLabel "sich konstruktiv an einem Gespräch beteiligen," .
 
-<https://example.com/e6b8a447-4ae9-4928-920e-277782d27de8/> skos:narrower "https://example.com/fe905428-879d-4a01-a27c-7c0ae7248326/" ;
-    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge," .
+<hsdsi/1/1.3/1.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.3" ;
+    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen," .
 
-<https://example.com/e840e2f5-30f5-468a-b420-a6a334dfce29/> skos:narrower "https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/" ;
-    skos:prefLabel "ein breites Spektrum auch längerer und komplexerer Texte verstehen und im Detail erfassen," .
+<hsdsi/1/1.3/1.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.3" ;
+    skos:prefLabel "Gesprächsregeln einhalten," .
 
-<https://example.com/e9743ed6-3a94-4837-a11f-8d3ec0497a1e/> skos:narrower "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/" ;
-    skos:prefLabel "kriterienorientiert das eigene Gesprächsverhalten und das anderer beobachten, reflektieren und bewerten." .
+<hsdsi/1/1.3/1.3.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.3" ;
+    skos:prefLabel "die eigene Meinung begründet vertreten," .
 
-<https://example.com/eab3ef25-12f0-47ad-bffb-7ad7818b26dd/> skos:broader "https://example.com/26439208-ee87-401c-853d-c8a410c3fde0/",
-        "https://example.com/9ea39803-31a0-494f-853a-2b13eff65355/",
-        "https://example.com/d9547469-74f4-4ff1-8e70-e889ea8f865d/" ;
-    skos:narrower "https://example.com/88633a86-305d-4019-b310-00db69214fc0/" ;
-    skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten" .
+<hsdsi/1/1.3/1.3.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.3" ;
+    skos:prefLabel "auf Gesprächsbeiträge sachlich und argumentierend eingehen," .
 
-<https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/> a skos:Concept ;
-    skos:broader "https://example.com/0a2d5cfb-83c4-41c6-8988-f7f52e3421b2/",
-        "https://example.com/85529f23-a429-4939-b8a2-d532c8904fcc/",
-        "https://example.com/be6673a7-f27f-46b7-b68f-c80241019b76/",
-        "https://example.com/dc29311d-0e6d-49ed-bd91-3302c44549c9/",
-        "https://example.com/f0175da5-0d19-43a4-b37e-b6c547ccaf70/",
-        "https://example.com/f4c59d3b-e5c3-4e87-b170-ceff2639ecce/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/2ab2446e-5a6d-44db-a877-2494b9871afb/" ;
-    skos:prefLabel "Sprechen und Zuhören" .
+<hsdsi/1/1.3/1.3.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.3" ;
+    skos:prefLabel "das eigene Gesprächsverhalten und das anderer kriterienorientiert beobachten und bewerten." .
 
-<https://example.com/ec8a3c4a-e210-4e03-bb07-a375a32cad4a/> skos:narrower "https://example.com/98b73526-8d6d-4685-9deb-16718a94122a/" ;
-    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb), Zusammensetzung und Ableitung von Wörtern," .
+<hsdsi/1/1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1" ;
+    skos:prefLabel "mit anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.4/1.4.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.4/1.4.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.4/1.4.3" .
 
-<https://example.com/ed47cf3d-3921-4ed6-af34-9eb5decb0e24/> skos:broader "https://example.com/2236fd4d-3afa-43cd-8612-459fdb2eba62/",
-        "https://example.com/6750240a-bd83-45b2-babb-446e36540d83/",
-        "https://example.com/6ddf391b-f5b2-4016-8262-3a3b76d526d1/",
-        "https://example.com/74b41941-39aa-4265-b85d-8eb5cd7a2ba9/",
-        "https://example.com/849a1e85-ee41-4dd7-905b-adeaf39a3961/",
-        "https://example.com/abca53d6-d52a-4155-af33-8670f3a161b0/",
-        "https://example.com/e840e2f5-30f5-468a-b420-a6a334dfce29/" ;
-    skos:narrower "https://example.com/462d2de0-66c7-43b4-baf2-53c1bfaf8dcc/" ;
-    skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen" .
+<hsdsi/1/1.4/1.4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.4" ;
+    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen," .
 
-<https://example.com/eefb9767-77b2-4630-8773-6cd05015138d/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "zentrale Arbeitstechniken kennen und selbstständig anwenden: Abschreiben (von Texten), Aufschreiben, Nachschlagen," .
+<hsdsi/1/1.4/1.4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.4" ;
+    skos:prefLabel "wesentliche Informationen verstehen, wiedergeben und kritisch hinterfragen," .
 
-<https://example.com/efc6a33f-fcf2-44de-bc82-1644eda2b16e/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
-    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden, insbesondere epische Kleinformen, Novelle, längere Erzählung, Kurzgeschichte, Roman, Schauspiel, Gedichte," .
-
-<https://example.com/f0175da5-0d19-43a4-b37e-b6c547ccaf70/> skos:broader "https://example.com/8d7e4957-7ab3-4771-a9f3-ca6f8858e4a2/",
-        "https://example.com/b7c114ef-f4b7-4e32-bf06-79f08b546ce4/",
-        "https://example.com/d859f3f0-3004-49d7-8546-ce4ef3bb37e8/",
-        "https://example.com/f8731ec1-4db8-4cb8-bd72-6ddcc6527e42/" ;
-    skos:narrower "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/" ;
-    skos:prefLabel "vor anderen sprechen" .
-
-<https://example.com/f05feb26-697f-4c23-9b99-f3652be655f5/> skos:narrower "https://example.com/acff16a6-fad5-4187-99c9-8006f5677af9/" ;
-    skos:prefLabel "Rechtschreibstrategien anwenden: z.B. Ableitung vom Wortstamm, Wortverlängerung, Ähnlichkeitsschreibung," .
-
-<https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/> skos:broader "https://example.com/08cf333d-0220-4d9b-949b-1dd530635d39/",
-        "https://example.com/23ca501b-5658-4364-9315-60ccd1b6dc65/",
-        "https://example.com/378d7741-c520-4d42-8ba6-8a347f887e3d/",
-        "https://example.com/48f78c46-ebf5-4a6e-aa49-1eb640f313ad/",
-        "https://example.com/611ea707-4802-4872-9a82-5a306b1618ab/",
-        "https://example.com/79d76973-5196-4989-84d7-414e56b23f1c/",
-        "https://example.com/8a545124-7122-421b-9c50-1e8585ec1674/",
-        "https://example.com/f1cb316b-523e-4e95-b86a-2c78f4229694/" ;
-    skos:narrower "https://example.com/fc818edd-ce53-4575-8f95-cc6be0076b0c/" ;
-    skos:prefLabel "" .
-
-<https://example.com/f1cb316b-523e-4e95-b86a-2c78f4229694/> skos:narrower "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:prefLabel "die eigenen Leseziele kennen," .
-
-<https://example.com/f2a6ceb7-ad1c-43e8-b470-8fad93dca9bc/> skos:narrower "https://example.com/305690d4-fb2e-40a6-a7e3-b4db2956b4ca/" ;
-    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: z.B. Aussagen erklären und konkretisieren, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen." .
-
-<https://example.com/f3237d8b-59be-4ee9-957b-e91cbd020a65/> skos:narrower "https://example.com/b9965374-7c68-4302-8666-5033729c0907/" ;
-    skos:prefLabel "Intention(en) eines Textes erkennen," .
-
-<https://example.com/f44d3d9f-cbeb-48a2-a673-4219516f4236/> skos:narrower "https://example.com/a7e1f0e8-cc4b-4fce-bd03-485329a8c5b2/" ;
-    skos:prefLabel "auf Gegenpositionen sachlich und argumentierend eingehen," .
-
-<https://example.com/f4ac19d1-a3f7-4ee1-afdc-0c5bf24e2b97/> skos:narrower "https://example.com/e0a8062b-1e15-416f-a912-e36b73730ada/" ;
-    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden, insbesondere erzählen, berichten, informieren, beschreiben, schildern, appellieren, argumentieren, erörtern," .
-
-<https://example.com/f4c59d3b-e5c3-4e87-b170-ceff2639ecce/> skos:broader "https://example.com/0ece5b29-9f5c-4559-9e4b-e51651c22ab7/",
-        "https://example.com/d5a82597-a19c-4a01-9c68-f0a5fd058af2/",
-        "https://example.com/f82b72c9-ab10-4353-9098-39ac552b4d03/" ;
-    skos:narrower "https://example.com/eb7b57bb-dfbd-4153-9f42-cead83d55772/" ;
-    skos:prefLabel "mit anderen sprechen" .
-
-<https://example.com/f554626b-3003-47a4-b37b-2f66f1d4e886/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Arbeitsschritte festlegen," .
-
-<https://example.com/f78c6b18-1f13-4063-946f-bdf6c39c0b6b/> skos:narrower "https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/" ;
-    skos:prefLabel "grundlegende Textfunktionen erfassen: Information (z.B. Zeitungsmeldung), Appell (z.B. Werbeanzeige), Kontakt (z.B. Bewerbung, Beschwerde); ästhetische Funktion (z.B. Gedicht)," .
-
-<https://example.com/f7923b81-e058-4ad8-8461-5c4904ad0489/> skos:narrower "https://example.com/d7991f84-3f50-4a44-bf3c-482daf1bae75/" ;
-    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung sicher beherrschen und häufig vorkommende Wörter, Fachbegriffe und Fremdwörter richtig schreiben," .
-
-<https://example.com/f82b72c9-ab10-4353-9098-39ac552b4d03/> skos:narrower "https://example.com/f4c59d3b-e5c3-4e87-b170-ceff2639ecce/" ;
+<hsdsi/1/1.4/1.4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.4" ;
     skos:prefLabel "Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln." .
 
-<https://example.com/f85e91bd-3441-45d1-862c-aad39bf75f22/> skos:narrower "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/" ;
-    skos:prefLabel "Arbeitsergebnisse zielgerichtet und sachbezogen präsentieren z.B. mit Folie, Plakat, PC." .
+<hsdsi/1/1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1" ;
+    skos:prefLabel "mit anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.5/1.5.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.5/1.5.2" .
 
-<https://example.com/f8731ec1-4db8-4cb8-bd72-6ddcc6527e42/> skos:narrower "https://example.com/f0175da5-0d19-43a4-b37e-b6c547ccaf70/" ;
-    skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen," .
+<hsdsi/1/1.5/1.5.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.5" ;
+    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen," .
 
-<https://example.com/f8fa4bc3-b4d2-46ad-84b0-e89711c32c6d/> skos:broader "https://example.com/16c4ddc1-ff1c-4b8a-a039-fb17419cf73d/",
-        "https://example.com/3d47d939-2770-4743-9750-c8093f4f650b/",
-        "https://example.com/3dc9d5c6-5dde-4ab6-bb87-cc362595e550/",
-        "https://example.com/3f4cb76a-4822-457b-95a2-3df4586f6d7b/",
-        "https://example.com/954aaf94-f73a-4807-b4f2-5dc0ca0f878d/",
-        "https://example.com/9a7be2ff-52f3-4a1d-949c-6425e4954c01/",
-        "https://example.com/b0e8b2fc-a064-4d1b-b3b2-d465e7fa588d/",
-        "https://example.com/c8f3bb7a-eac2-44c2-9c15-e847cb2c8a6d/" ;
-    skos:narrower "https://example.com/632409d6-edc1-4176-8384-53b6aada1f6f/" ;
-    skos:prefLabel "Methoden und Arbeitstechniken" .
+<hsdsi/1/1.5/1.5.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.5" ;
+    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten." .
 
-<https://example.com/f98b6416-1eb5-4dd2-84d9-c28206d5dee1/> skos:narrower "https://example.com/fbc8bea6-8c0a-4c42-958d-42d838b789d2/" ;
+<hsdsi/1/1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1" ;
+    skos:prefLabel "mit anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/1/1.6/1.6.7" .
+
+<hsdsi/1/1.6/1.6.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "verschiedene Gesprächsformen praktizieren: z.B. Diskussion, Streitgespräch, Arbeitsgespräch," .
+
+<hsdsi/1/1.6/1.6.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "Redestrategien einsetzen: z.B. Anknüpfungen formulieren," .
+
+<hsdsi/1/1.6/1.6.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "Wesentliches notieren," .
+
+<hsdsi/1/1.6/1.6.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "Notizen ordnen und zur Weiterarbeit nutzen," .
+
+<hsdsi/1/1.6/1.6.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "Präsentationstechniken kennen und nutzen: z. B. Tafel, Plakat, Folie" .
+
+<hsdsi/1/1.6/1.6.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "Video-Feedback nutzen," .
+
+<hsdsi/1/1.6/1.6.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/1/1.6" ;
+    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen." .
+
+<hsdsi/2> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi" ;
+    skos:prefLabel "Schreiben" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" .
+
+<hsdsi/2/2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2" ;
+    skos:prefLabel "über Schreibfertigkeiten verfügen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.1/2.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.1/2.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.1/2.1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.1/2.1.4" .
+
+<hsdsi/2/2.1/2.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.1" ;
+    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben," .
+
+<hsdsi/2/2.1/2.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.1" ;
+    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze," .
+
+<hsdsi/2/2.1/2.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.1" ;
+    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation," .
+
+<hsdsi/2/2.1/2.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.1" ;
     skos:prefLabel "Formulare ausfüllen." .
 
-<https://example.com/fa802d9c-fc9d-42ae-a513-0da94d3f7c52/> skos:broader "https://example.com/1249372d-97a5-42a3-9611-44055e274986/",
-        "https://example.com/47b83b74-96dc-4e76-882d-d4396817de1e/",
-        "https://example.com/55f6957e-c6bb-406d-8acf-67bbe07bcd6b/",
-        "https://example.com/7708ab50-26ce-4122-be56-109d01eb176c/",
-        "https://example.com/8e9990a0-6ca9-4630-acc2-4fe77f29593e/",
-        "https://example.com/dd9f33cc-ff50-4bd9-bc82-8e36f2eed594/",
-        "https://example.com/f78c6b18-1f13-4063-946f-bdf6c39c0b6b/" ;
-    skos:narrower "https://example.com/90e81682-9336-4d02-b547-95e92328c281/" ;
-    skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten" .
+<hsdsi/2/2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2" ;
+    skos:prefLabel "richtig schreiben" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.2/2.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.2/2.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.2/2.2.3" .
 
-<https://example.com/fac5c603-e5ce-42a3-b2d3-956148191f74/> skos:narrower "https://example.com/25c91302-9af7-4115-807a-31953ff35eca/" ;
-    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden und wesentliche Merkmale kennen, insbesondere epische Kleinformen, Erzählung, Kurzgeschichte, Gedichte," .
+<hsdsi/2/2.2/2.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.2" ;
+    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung kennen und anwenden," .
 
-<https://example.com/fb7c3e5d-74ac-4bde-9d42-183b570ebbbc/> skos:narrower "https://example.com/5f84b705-8a79-435f-a61e-e045a4600637/" ;
-    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden," .
+<hsdsi/2/2.2/2.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.2" ;
+    skos:prefLabel "häufig vorkommende Wörter – auch wichtige Fachbegriffe und Fremdwörter - richtig schreiben," .
 
-<https://example.com/fbc8bea6-8c0a-4c42-958d-42d838b789d2/> skos:broader "https://example.com/03fe7397-5b4c-417b-8b4d-234006f85233/",
-        "https://example.com/13b2a0f8-ae55-47a3-b833-7a4edd045d3e/",
-        "https://example.com/d8c28e38-9cf1-4a0e-8fe3-dd46d01feda8/",
-        "https://example.com/f98b6416-1eb5-4dd2-84d9-c28206d5dee1/" ;
-    skos:narrower "https://example.com/88633a86-305d-4019-b310-00db69214fc0/" ;
-    skos:prefLabel "über Schreibfertigkeiten verfügen" .
+<hsdsi/2/2.2/2.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.2" ;
+    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und Fehler durch Anwendung von Rechtschreibstrategien vermeiden: z.B. Ableiten, Wortverwandtschaften suchen, grammatisches Wissen nutzen." .
 
-<https://example.com/fc7b3d13-97ad-4d02-9cf0-712b1d83bfd3/> skos:narrower "https://example.com/056bedab-d25d-4904-92eb-6ad4836219e8/" ;
-    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen." .
+<hsdsi/2/2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2" ;
+    skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.3" .
 
-<https://example.com/fc818edd-ce53-4575-8f95-cc6be0076b0c/> a skos:Concept ;
-    skos:broader "https://example.com/0f837dd2-a301-488b-b053-5b4c93075b70/",
-        "https://example.com/88b72544-0ef5-4412-8694-42e22d2562db/",
-        "https://example.com/f0c18c77-b053-4690-95e6-c9ab239de039/" ;
-    skos:definition "" ;
-    skos:narrower "https://example.com/2ab2446e-5a6d-44db-a877-2494b9871afb/" ;
-    skos:prefLabel "Lesen – mit Texten und Medien umgehen" .
+<hsdsi/2/2.3/2.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3" ;
+    skos:prefLabel "Texte planen und entwerfen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1/2.3.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1/2.3.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1/2.3.1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1/2.3.1.4" .
 
-<https://example.com/fcd7d953-ce5e-4563-837d-5daa2bdbd920/> skos:narrower "https://example.com/122ae01c-afda-4c85-bd0f-eb646da7d49a/" ;
-    skos:prefLabel "Vorgehensweise aus Aufgabenstellung herleiten," .
+<hsdsi/2/2.3/2.3.1/2.3.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1" ;
+    skos:prefLabel "den Schreibauftrag verstehen," .
 
-<https://example.com/fdd1f40d-7dde-463c-88d6-950a510b2b17/> skos:narrower "https://example.com/d9547469-74f4-4ff1-8e70-e889ea8f865d/" ;
+<hsdsi/2/2.3/2.3.1/2.3.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1" ;
+    skos:prefLabel "einen Schreibplan entwickeln," .
+
+<hsdsi/2/2.3/2.3.1/2.3.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1" ;
     skos:prefLabel "Informationsquellen nutzen: z.B. Bibliotheken, Nachschlagewerke, Zeitungen, Internet," .
 
-<https://example.com/fe1f3789-90eb-43b9-8ebc-21bd5f64f4b6/> skos:narrower "https://example.com/d5cba967-d8b0-43a8-8f97-c2423fb0fe8d/" ;
+<hsdsi/2/2.3/2.3.1/2.3.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.1" ;
+    skos:prefLabel "Stoffsammlung erstellen, Informationen ordnen: z.B. Mindmap." .
+
+<hsdsi/2/2.3/2.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3" ;
+    skos:prefLabel "Texte schreiben" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.10",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.11",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.12",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.13",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.7",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.8",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2/2.3.2.9" .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "gedanklich geordnet schreiben," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.10> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Argumente gewichten und Schlüsse ziehen," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.11> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "begründet Stellung beziehen," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.12> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Texte sprachlich gestalten: strukturiert, verständlich und zusammenhängend schreiben," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.13> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z. B. Textverarbeitungs- und Mailprogramme." .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbungsschreiben, Ausfüllen von Formularen, Schaubild, Diagramm, Tabelle," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "grundlegende Schreibfunktionen umsetzen: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "kreative Schreibformen nutzen: z.B. Figurengeschichten, Verwandlungsgeschichten, Schreiben zu Bildern," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Inhalte verkürzt wiedergeben," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "wesentliche Informationen aus linearen und nichtlinearen Texten zusammenfassen," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "wesentliche Gestaltungsmittel untersuchen und darstellen," .
+
+<hsdsi/2/2.3/2.3.2/2.3.2.9> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Argumente finden und formulieren," .
+
+<hsdsi/2/2.3/2.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3" ;
+    skos:prefLabel "Texte überarbeiten" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.3/2.3.3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.3/2.3.3.2" .
+
+<hsdsi/2/2.3/2.3.3/2.3.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.3" ;
+    skos:prefLabel "eigene und fremde Texte hinsichtlich Aufbau, Inhalt und Formulierungen revidieren," .
+
+<hsdsi/2/2.3/2.3.3/2.3.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.3/2.3.3" ;
+    skos:prefLabel "Verfahren zur Überprüfung der sprachlichen Richtigkeit kennen und nutzen." .
+
+<hsdsi/2/2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.10",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.7",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.8",
+        "https://example.com/iqb/bista2004d1/hsdsi/2/2.4/2.4.9" .
+
+<hsdsi/2/2.4/2.4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Notizen machen, Stichpunkte sammeln und ordnen," .
+
+<hsdsi/2/2.4/2.4.10> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen." .
+
+<hsdsi/2/2.4/2.4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Arbeitsschritte festlegen," .
+
+<hsdsi/2/2.4/2.4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Texte formal gestalten/überarbeiten: z.B. Blattaufteilung, Rand, Absätze, Schriftbild," .
+
+<hsdsi/2/2.4/2.4.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Texte optisch gestalten," .
+
+<hsdsi/2/2.4/2.4.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "unterschiedliche Informationsquellen nutzen," .
+
+<hsdsi/2/2.4/2.4.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "mit Textverarbeitungs- und Mailprogrammen umgehen," .
+
+<hsdsi/2/2.4/2.4.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Schreibkonferenzen durchführen," .
+
+<hsdsi/2/2.4/2.4.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "Wörterbücher und Nachschlagewerke nutzen," .
+
+<hsdsi/2/2.4/2.4.9> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/2/2.4" ;
+    skos:prefLabel "zentrale Arbeitstechniken kennen und selbstständig anwenden: Abschreiben (von Texten), Aufschreiben, Nachschlagen," .
+
+<hsdsi/3> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi" ;
+    skos:prefLabel "Lesen – mit Texten und Medien umgehen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" .
+
+<hsdsi/3/3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3" ;
+    skos:prefLabel "" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.7",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.1/3.1.8" .
+
+<hsdsi/3/3.1/3.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "Lesetechniken und Strategien zum Leseverstehen kennen und anwenden," .
+
+<hsdsi/3/3.1/3.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv," .
+
+<hsdsi/3/3.1/3.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "die eigenen Leseziele kennen," .
+
+<hsdsi/3/3.1/3.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "Vorwissen und neue Informationen unterscheiden," .
+
+<hsdsi/3/3.1/3.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "Wortbedeutungen klären," .
+
+<hsdsi/3/3.1/3.1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "Lesehilfen nutzen: z.B. Textsorte, Aufbau, Überschrift, Illustration, Layout," .
+
+<hsdsi/3/3.1/3.1.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "Verfahren zur Textstrukturierung kennen und nutzen: Inhalte zusammenfassen, Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textstellen herstellen, Fragen aus dem Text ableiten und beantworten," .
+
+<hsdsi/3/3.1/3.1.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.1" ;
+    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: Aussagen erklären, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen." .
+
+<hsdsi/3/3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3" ;
+    skos:prefLabel "Texte verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" .
+
+<hsdsi/3/3.2/3.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2" ;
+    skos:prefLabel "Literarische Texte verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.10",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.7",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.8",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1/3.2.1.9" .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "aktuelle und klassische Werke der Jugendliteratur und altersangemessene Texte bedeutender Autorinnen und Autoren kennen," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.10> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "eigene Deutungen des Textes entwickeln, mit anderen darüber sprechen und am Text belegen." .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden und wesentliche Merkmale kennen, insbesondere epische Kleinformen, Erzählung, Kurzgeschichte, Gedichte," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "an einem repräsentativen Beispiel Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/der Autorin herstellen," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "zentrale Aussagen erschließen," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "wesentliche Elemente eines Textes erfassen: Figuren, Raum- und Zeitdarstellung, Konfliktverlauf," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "Handlung und Verhaltensweisen beschreiben und werten," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden: Autor, Erzähler, Monolog, Dialog, Reim," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "grundlegende Gestaltungsmittel erkennen und ihre Wirkungen einschätzen: z.B. Wortwahl, Wiederholung, sprachliche Bilder," .
+
+<hsdsi/3/3.2/3.2.1/3.2.1.9> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.1" ;
+    skos:prefLabel "untersuchende und produktive Methoden kennen und anwenden: z.B. Texte vergleichen, weiterschreiben, Paralleltext verfassen, szenische Umsetzung," .
+
+<hsdsi/3/3.2/3.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2" ;
+    skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2/3.2.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2/3.2.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2/3.2.2.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2/3.2.2.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2/3.2.2.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2/3.2.2.6" .
+
+<hsdsi/3/3.2/3.2.2/3.2.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2" ;
+    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: informieren (z.B. Lexikontext), appellieren (z.B. Werbetext), regulieren (z.B. Jugendschutzgesetz, Arbeitsvertrag), instruieren (z.B. Bedienungsanleitung)," .
+
+<hsdsi/3/3.2/3.2.2/3.2.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2" ;
+    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, prüfen und ergänzen," .
+
+<hsdsi/3/3.2/3.2.2/3.2.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2" ;
+    skos:prefLabel "nichtlineare Texte (auch im Zusammenhang mit linearen Texten) auswerten: z.B. Schaubilder," .
+
+<hsdsi/3/3.2/3.2.2/3.2.2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2" ;
+    skos:prefLabel "Intention(en) eines Textes erkennen," .
+
+<hsdsi/3/3.2/3.2.2/3.2.2.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2" ;
+    skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen," .
+
+<hsdsi/3/3.2/3.2.2/3.2.2.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.2" ;
+    skos:prefLabel "Information und Wertung in Texten unterscheiden: z.B. in Zeitungen." .
+
+<hsdsi/3/3.2/3.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2" ;
+    skos:prefLabel "Medien verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3/3.2.3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3/3.2.3.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3/3.2.3.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3/3.2.3.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3/3.2.3.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3/3.2.3.6" .
+
+<hsdsi/3/3.2/3.2.3/3.2.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" ;
+    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden: z.B. im Internet," .
+
+<hsdsi/3/3.2/3.2.3/3.2.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" ;
+    skos:prefLabel "wesentliche Darstellungsmittel eines Mediums und deren Wirkungen kennen und einschätzen," .
+
+<hsdsi/3/3.2/3.2.3/3.2.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" ;
+    skos:prefLabel "Intentionen und Wirkungen ausgewählter Medieninhalte erkennen und bewerten: z. B. Fernsehserie," .
+
+<hsdsi/3/3.2/3.2.3/3.2.3.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" ;
+    skos:prefLabel "Lebenswirklichkeit von Realitätsdarstellungen und der Darstellung fiktionaler Welten in Medien unterscheiden," .
+
+<hsdsi/3/3.2/3.2.3/3.2.3.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" ;
+    skos:prefLabel "Informationen zu einem Thema/Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten," .
+
+<hsdsi/3/3.2/3.2.3/3.2.3.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.2/3.2.3" ;
+    skos:prefLabel "Medien für die eigene Produktion kreativ nutzen." .
+
+<hsdsi/3/3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.7",
+        "https://example.com/iqb/bista2004d1/hsdsi/3/3.3/3.3.8" .
+
+<hsdsi/3/3.3/3.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "mit Nachschlagewerken umgehen können," .
+
+<hsdsi/3/3.3/3.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "recherchieren," .
+
+<hsdsi/3/3.3/3.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "zitieren, Quellen angeben," .
+
+<hsdsi/3/3.3/3.3.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "Wesentliches markieren," .
+
+<hsdsi/3/3.3/3.3.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "Stichwörter formulieren," .
+
+<hsdsi/3/3.3/3.3.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "Texte gliedern und Teilüberschriften finden," .
+
+<hsdsi/3/3.3/3.3.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "Inhalte mit eigenen Worten zusammenfassend wiedergeben," .
+
+<hsdsi/3/3.3/3.3.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/3/3.3" ;
+    skos:prefLabel "Arbeitsergebnisse zielgerichtet und sachbezogen präsentieren z.B. mit Folie, Plakat, PC." .
+
+<hsdsi/4> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi" ;
+    skos:prefLabel "Sprache und Sprachgebrauch untersuchen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/4/4.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.3" .
+
+<hsdsi/4/4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4" ;
+    skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.3",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.4",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.5",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.6",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.1/4.1.7" .
+
+<hsdsi/4/4.1/4.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene unterscheiden," .
+
+<hsdsi/4/4.1/4.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "Bedingungen und Regeln für kommunikative Situationen im Alltag kennen," .
+
+<hsdsi/4/4.1/4.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "grundlegende Textfunktionen erfassen: Information (z.B. Zeitungsmeldung), Appell (z.B. Werbeanzeige), Kontakt (z.B. Bewerbung, Beschwerde); ästhetische Funktion (z.B. Gedicht)," .
+
+<hsdsi/4/4.1/4.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: Standardsprache, Umgangssprache; Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache," .
+
+<hsdsi/4/4.1/4.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "Sprechweisen unterscheiden und ihre Wirkung einschätzen: z.B. abwertend, gehoben," .
+
+<hsdsi/4/4.1/4.1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "ausgewählte Beispiele fremdsprachlicher Einflüsse kennen und bewerten," .
+
+<hsdsi/4/4.1/4.1.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.1" ;
+    skos:prefLabel "Unterschiede und Gemeinsamkeiten verschiedener Sprachen wahrnehmen." .
+
+<hsdsi/4/4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4" ;
+    skos:prefLabel "Textbeschaffenheit analysieren und reflektieren" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.3" .
+
+<hsdsi/4/4.2/4.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2" ;
+    skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhanges kennen und anwenden:" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1/4.2.1.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1/4.2.1.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1/4.2.1.3" .
+
+<hsdsi/4/4.2/4.2.1/4.2.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1" ;
+    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb, Pronomen)," .
+
+<hsdsi/4/4.2/4.2.1/4.2.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1" ;
+    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge," .
+
+<hsdsi/4/4.2/4.2.1/4.2.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.1" ;
+    skos:prefLabel "Bedeutungsebene (semantische Mittel): Synonyme; Schlüsselwörter; Oberbegriff/Unterbegriff," .
+
+<hsdsi/4/4.2/4.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2" ;
+    skos:prefLabel "Leistungen von Sätzen und Wortarten kennen und für Sprechen und Schreiben nutzen:" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2/4.2.2.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2/4.2.2.2",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2/4.2.2.3" .
+
+<hsdsi/4/4.2/4.2.2/4.2.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2" ;
+    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil," .
+
+<hsdsi/4/4.2/4.2.2/4.2.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2" ;
+    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit; Substantiv/Nomen: Benennung; Adjektiv: Qualität," .
+
+<hsdsi/4/4.2/4.2.2/4.2.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2/4.2.2" ;
+    skos:prefLabel "grammatische Kategorien in situativen und funktionalen Zusammenhängen verwenden: z.B. Tempus, Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung," .
+
+<hsdsi/4/4.2/4.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.2" ;
+    skos:prefLabel "grundlegende Regeln der Orthografie und Zeichensetzung kennen und beim Sprachhandeln anwenden." .
+
+<hsdsi/4/4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/hsdsi/4/4.3/4.3.1",
+        "https://example.com/iqb/bista2004d1/hsdsi/4/4.3/4.3.2" .
+
+<hsdsi/4/4.3/4.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.3" ;
+    skos:prefLabel "die Klang-, Weglass-, Umstell-, Ersatzprobe anwenden," .
+
+<hsdsi/4/4.3/4.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/hsdsi/4/4.3" ;
+    skos:prefLabel "Verfahren der Fehlerkontrolle: z.B. Nachschlagetechniken, gliederndes Mitsprechen." .
+
+<msadsi> a skos:Concept ;
+    skos:prefLabel "Mittlerer Schulabschluss" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1",
+        "https://example.com/iqb/bista2004d1/msadsi/2",
+        "https://example.com/iqb/bista2004d1/msadsi/3",
+        "https://example.com/iqb/bista2004d1/msadsi/4" .
+
+<msadsi/1> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi" ;
+    skos:prefLabel "Sprechen und Zuhören" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.3",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.4",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.5",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6" .
+
+<msadsi/1/1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1" ;
+    skos:prefLabel "zu anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.1/1.1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.1/1.1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.1/1.1.3",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.1/1.1.4",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.1/1.1.5" .
+
+<msadsi/1/1.1/1.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.1" ;
+    skos:prefLabel "sich artikuliert, verständlich, sach- und situationsangemessen äußern," .
+
+<msadsi/1/1.1/1.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.1" ;
+    skos:prefLabel "über einen umfangreichen und differenzierten Wortschatz verfügen," .
+
+<msadsi/1/1.1/1.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.1" ;
+    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden, insbesondere erzählen, berichten, informieren, beschreiben, schildern, appellieren, argumentieren, erörtern," .
+
+<msadsi/1/1.1/1.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.1" ;
+    skos:prefLabel "Wirkungen der Redeweise kennen, beachten und situations- sowie adressatengerecht anwenden: Lautstärke, Betonung, Sprechtempo, Klangfarbe, Stimmführung; Körpersprache (Gestik, Mimik)," .
+
+<msadsi/1/1.1/1.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.1" ;
+    skos:prefLabel "unterschiedliche Sprechsituationen gestalten, insbesondere Vorstellungsgespräch/Bewerbungsgespräch; Antragstellung, Beschwerde, Entschuldigung; Gesprächsleitung." .
+
+<msadsi/1/1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1" ;
+    skos:prefLabel "vor anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.2/1.2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.2/1.2.2",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.2/1.2.3" .
+
+<msadsi/1/1.2/1.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.2" ;
+    skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen," .
+
+<msadsi/1/1.2/1.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.2" ;
+    skos:prefLabel "längere freie Redebeiträge leisten, Kurzdarstellungen und Referate frei vortragen: ggf. mit Hilfe eines Stichwortzettels/einer Gliederung," .
+
+<msadsi/1/1.2/1.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.2" ;
+    skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken): z.B. Tafel, Folie, Plakat, Moderationskarten." .
+
+<msadsi/1/1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1" ;
+    skos:prefLabel "mit anderen sprechen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.3/1.3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.3/1.3.2",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.3/1.3.3",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.3/1.3.4",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.3/1.3.5",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.3/1.3.6" .
+
+<msadsi/1/1.3/1.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.3" ;
+    skos:prefLabel "sich konstruktiv an einem Gespräch beteiligen," .
+
+<msadsi/1/1.3/1.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.3" ;
+    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen," .
+
+<msadsi/1/1.3/1.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.3" ;
+    skos:prefLabel "Gesprächsregeln einhalten," .
+
+<msadsi/1/1.3/1.3.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.3" ;
+    skos:prefLabel "die eigene Meinung begründet und nachvollziehbar vertreten," .
+
+<msadsi/1/1.3/1.3.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.3" ;
+    skos:prefLabel "auf Gegenpositionen sachlich und argumentierend eingehen," .
+
+<msadsi/1/1.3/1.3.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.3" ;
+    skos:prefLabel "kriterienorientiert das eigene Gesprächsverhalten und das anderer beobachten, reflektieren und bewerten." .
+
+<msadsi/1/1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1" ;
+    skos:prefLabel "verstehend zuhören" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.4/1.4.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.4/1.4.2",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.4/1.4.3" .
+
+<msadsi/1/1.4/1.4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.4" ;
+    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen," .
+
+<msadsi/1/1.4/1.4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.4" ;
+    skos:prefLabel "wesentliche Aussagen aus umfangreichen gesprochenen Texten verstehen, diese Informationen sichern und wiedergeben," .
+
+<msadsi/1/1.4/1.4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.4" ;
+    skos:prefLabel "Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln." .
+
+<msadsi/1/1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1" ;
+    skos:prefLabel "szenisch spielen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.5/1.5.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.5/1.5.2" .
+
+<msadsi/1/1.5/1.5.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.5" ;
+    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen," .
+
+<msadsi/1/1.5/1.5.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.5" ;
+    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten." .
+
+<msadsi/1/1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.1",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.2",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.3",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.4",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.5",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.6",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.7",
+        "https://example.com/iqb/bista2004d1/msadsi/1/1.6/1.6.8" .
+
+<msadsi/1/1.6/1.6.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "verschiedene Gesprächsformen praktizieren, z.B. Dialoge, Streitgespräche, Diskussionen, Rollendiskussionen, Debatten vorbereiten und durchführen," .
+
+<msadsi/1/1.6/1.6.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "Gesprächsformen moderieren, leiten, beobachten, reflektieren," .
+
+<msadsi/1/1.6/1.6.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "Redestrategien einsetzen: z.B. Fünfsatz, Anknüpfungen formulieren, rhetorische Mittel verwenden," .
+
+<msadsi/1/1.6/1.6.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "sich gezielt sachgerechte Stichwörter aufschreiben," .
+
+<msadsi/1/1.6/1.6.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "eine Mitschrift anfertigen," .
+
+<msadsi/1/1.6/1.6.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "Notizen selbstständig strukturieren und Notizen zur Reproduktion des Gehörten nutzen, dabei sachlogische sprachliche Verknüpfungen herstellen," .
+
+<msadsi/1/1.6/1.6.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "Video-Feedback nutzen," .
+
+<msadsi/1/1.6/1.6.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/1/1.6" ;
+    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen." .
+
+<msadsi/2> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi" ;
+    skos:prefLabel "Schreiben" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.2",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4" .
+
+<msadsi/2/2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2" ;
+    skos:prefLabel "über Schreibfertigkeiten verfügen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.1/2.1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.1/2.1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.1/2.1.3",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.1/2.1.4" .
+
+<msadsi/2/2.1/2.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.1" ;
+    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben," .
+
+<msadsi/2/2.1/2.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.1" ;
+    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze," .
+
+<msadsi/2/2.1/2.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.1" ;
+    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation," .
+
+<msadsi/2/2.1/2.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.1" ;
+    skos:prefLabel "Formulare ausfüllen." .
+
+<msadsi/2/2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2" ;
+    skos:prefLabel "richtig schreiben" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.2/2.2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.2/2.2.2" .
+
+<msadsi/2/2.2/2.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.2" ;
+    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung sicher beherrschen und häufig vorkommende Wörter, Fachbegriffe und Fremdwörter richtig schreiben," .
+
+<msadsi/2/2.2/2.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.2" ;
+    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und mit Hilfe von Rechtschreibstrategien abbauen, insbesondere Nachschlagen, Ableiten, Wortverwandtschaften suchen, grammatisches Wissen anwenden." .
+
+<msadsi/2/2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2" ;
+    skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.3" .
+
+<msadsi/2/2.3/2.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3" ;
+    skos:prefLabel "Texte planen und entwerfen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1/2.3.1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1/2.3.1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1/2.3.1.3" .
+
+<msadsi/2/2.3/2.3.1/2.3.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1" ;
+    skos:prefLabel "gemäß den Aufgaben und der Zeitvorgabe einen Schreibplan erstellen, sich für die angemessene Textsorte entscheiden und Texte ziel-, adressaten- und situationsbezogen, ggf. materialorientiert konzipieren," .
+
+<msadsi/2/2.3/2.3.1/2.3.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1" ;
+    skos:prefLabel "Informationsquellen gezielt nutzen, insbesondere Bibliotheken, Nachschlagewerke, Zeitungen, Internet," .
+
+<msadsi/2/2.3/2.3.1/2.3.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.1" ;
+    skos:prefLabel "Stoffsammlung erstellen, ordnen und eine Gliederung anfertigen: z.B. numerische Gliederung, Cluster, Ideenstern, Mindmap, Flussdiagramm." .
+
+<msadsi/2/2.3/2.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3" ;
+    skos:prefLabel "Texte schreiben" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2/2.3.2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2/2.3.2.2",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2/2.3.2.3",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2/2.3.2.4",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2/2.3.2.5",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2/2.3.2.6" .
+
+<msadsi/2/2.3/2.3.2/2.3.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2" ;
+    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbung, Bewerbungsschreiben, Protokoll, Annonce/Ausfüllen von Formularen, Diagramm, Schaubild, Statistik," .
+
+<msadsi/2/2.3/2.3.2/2.3.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2" ;
+    skos:prefLabel "zentrale Schreibformen beherrschen und sachgerecht nutzen: informierende (berichten, beschreiben, schildern), argumentierende (erörtern, kommentieren), appellierende, untersuchende (analysieren, interpretieren), gestaltende (erzählen, kreativ schreiben)," .
+
+<msadsi/2/2.3/2.3.2/2.3.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2" ;
+    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten," .
+
+<msadsi/2/2.3/2.3.2/2.3.2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Ergebnisse einer Textuntersuchung darstellen: z.B." .
+
+<msadsi/2/2.3/2.3.2/2.3.2.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Texte sprachlich gestalten" .
+
+<msadsi/2/2.3/2.3.2/2.3.2.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.2" ;
+    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z.B. E-Mails, Chatroom." .
+
+<msadsi/2/2.3/2.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3" ;
+    skos:prefLabel "Texte überarbeiten" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.3/2.3.3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.3/2.3.3.2" .
+
+<msadsi/2/2.3/2.3.3/2.3.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.3" ;
+    skos:prefLabel "Aufbau, Inhalt und Formulierungen eigener Texte hinsichtlich der Aufgabenstellung überprüfen (Schreibsituation, Schreibanlass)," .
+
+<msadsi/2/2.3/2.3.3/2.3.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.3/2.3.3" ;
+    skos:prefLabel "Strategien zur Überprüfung der sprachlichen Richtigkeit und Rechtschreibung anwenden." .
+
+<msadsi/2/2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.1",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.2",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.3",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.4",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.5",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.6",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.7",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.8",
+        "https://example.com/iqb/bista2004d1/msadsi/2/2.4/2.4.9" .
+
+<msadsi/2/2.4/2.4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Vorgehensweise aus Aufgabenstellung herleiten," .
+
+<msadsi/2/2.4/2.4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Arbeitspläne/Konzepte entwerfen, Arbeitsschritte festlegen: Informationen sammeln, ordnen, ergänzen," .
+
+<msadsi/2/2.4/2.4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Fragen und Arbeitshypothesen formulieren," .
+
+<msadsi/2/2.4/2.4.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Texte inhaltlich und sprachlich überarbeiten: z. B. Textpassagen umstellen, Wirksamkeit und Angemessenheit sprachlicher Gestaltungsmittel prüfen," .
+
+<msadsi/2/2.4/2.4.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Zitate in den eigenen Text integrieren," .
+
+<msadsi/2/2.4/2.4.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Einhaltung orthografischer und grammatischer Normen kontrollieren," .
+
+<msadsi/2/2.4/2.4.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "mit Textverarbeitungsprogrammen umgehen," .
+
+<msadsi/2/2.4/2.4.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Schreibkonferenzen/Schreibwerkstatt durchführen," .
+
+<msadsi/2/2.4/2.4.9> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/2/2.4" ;
+    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen." .
+
+<msadsi/3> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi" ;
+    skos:prefLabel "Lesen – mit Texten und Medien umgehen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4" .
+
+<msadsi/3/3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3" ;
+    skos:prefLabel "verschiedene Lesetechniken beherrschen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.1/3.1.1" .
+
+<msadsi/3/3.1/3.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.1" ;
+    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv, navigierend (z.B. Bild-Ton-Text integrierend) lesen." .
+
+<msadsi/3/3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3" ;
+    skos:prefLabel "Strategien zum Leseverstehen kennen und anwenden" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.2/3.2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.2/3.2.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.2/3.2.3",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.2/3.2.4",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.2/3.2.5" .
+
+<msadsi/3/3.2/3.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.2" ;
+    skos:prefLabel "Leseerwartungen und -erfahrungen bewusst nutzen," .
+
+<msadsi/3/3.2/3.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.2" ;
+    skos:prefLabel "Wortbedeutungen klären," .
+
+<msadsi/3/3.2/3.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.2" ;
+    skos:prefLabel "Textschemata erfassen: z.B. Textsorte, Aufbau des Textes," .
+
+<msadsi/3/3.2/3.2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.2" ;
+    skos:prefLabel "Verfahren zur Textstrukturierung kennen und selbstständig anwenden: z.B. Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textteilen herstellen, Fragen aus dem Text ableiten und beantworten," .
+
+<msadsi/3/3.2/3.2.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.2" ;
+    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: z.B. Aussagen erklären und konkretisieren, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen." .
+
+<msadsi/3/3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3" ;
+    skos:prefLabel "Texte verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" .
+
+<msadsi/3/3.3/3.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3" ;
+    skos:prefLabel "literarische Texte verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.10",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.11",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.3",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.4",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.5",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.6",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.7",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.8",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1/3.3.1.9" .
+
+<msadsi/3/3.3/3.3.1/3.3.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "ein Spektrum altersangemessener Werke – auch Jugendliteratur – bedeutender Autorinnen und Autoren kennen," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.10> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
     skos:prefLabel "produktive Methoden anwenden: z.B. Perspektivenwechsel: innerer Monolog, Brief in der Rolle einer literarischen Figur; szenische Umsetzung, Paralleltext, weiterschreiben, in eine andere Textsorte umschreiben," .
 
-<https://example.com/fe905428-879d-4a01-a27c-7c0ae7248326/> skos:broader "https://example.com/60ee21b1-0794-4030-a08b-adfada3a7613/",
-        "https://example.com/9caf221e-e194-4d73-9d8d-c8387789c1c1/",
-        "https://example.com/e6b8a447-4ae9-4928-920e-277782d27de8/" ;
-    skos:narrower "https://example.com/64a7b2c6-9510-4a0b-9870-a6dabd98f86d/" ;
-    skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhanges kennen und anwenden:" .
+<msadsi/3/3.3/3.3.1/3.3.1.11> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "Handlungen, Verhaltensweisen und Verhaltensmotive bewerten." .
+
+<msadsi/3/3.3/3.3.1/3.3.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden, insbesondere epische Kleinformen, Novelle, längere Erzählung, Kurzgeschichte, Roman, Schauspiel, Gedichte," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/ der Autorin bei der Arbeit an Texten aus Gegenwart und Vergangenheit herstellen," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "zentrale Inhalte erschließen," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "wesentliche Elemente eines Textes erfassen: z.B. Figuren, Raum- und Zeitdarstellung, Konfliktverlauf," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden, insbesondere Erzähler, Erzählperspektive, Monolog, Dialog, sprachliche Bilder, Metapher, Reim, lyrisches Ich," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "sprachliche Gestaltungsmittel in ihren Wirkungszusammenhängen und in ihrer historischen Bedingtheit erkennen: z.B. Wort-, Satz- und Gedankenfiguren, Bildsprache (Metaphern)," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "eigene Deutungen des Textes entwickeln, am Text belegen und sich mit anderen darüber verständigen," .
+
+<msadsi/3/3.3/3.3.1/3.3.1.9> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.1" ;
+    skos:prefLabel "analytische Methoden anwenden: z.B. Texte untersuchen, vergleichen, kommentieren," .
+
+<msadsi/3/3.3/3.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3" ;
+    skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.3",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.4",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.5",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.6",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2/3.3.2.7" .
+
+<msadsi/3/3.3/3.3.2/3.3.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: z.B. informieren: Nachricht; appellieren: Kommentar, Rede; regulieren: Gesetz, Vertrag; instruieren: Gebrauchsanweisung," .
+
+<msadsi/3/3.3/3.3.2/3.3.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "ein breites Spektrum auch längerer und komplexerer Texte verstehen und im Detail erfassen," .
+
+<msadsi/3/3.3/3.3.2/3.3.2.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, vergleichen, prüfen und ergänzen," .
+
+<msadsi/3/3.3/3.3.2/3.3.2.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "nichtlineare Texte auswerten: z.B. Schaubilder," .
+
+<msadsi/3/3.3/3.3.2/3.3.2.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "Intention(en) eines Textes erkennen, insbesondere Zusammenhang zwischen Autorintention(en), Textmerkmalen, Leseerwartungen und Wirkungen," .
+
+<msadsi/3/3.3/3.3.2/3.3.2.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen," .
+
+<msadsi/3/3.3/3.3.2/3.3.2.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.2" ;
+    skos:prefLabel "Information und Wertung in Texten unterscheiden." .
+
+<msadsi/3/3.3/3.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3" ;
+    skos:prefLabel "Medien verstehen und nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.3",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.4",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.5",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.6",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3/3.3.3.7" .
+
+<msadsi/3/3.3/3.3.3/3.3.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden," .
+
+<msadsi/3/3.3/3.3.3/3.3.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "medienspezifische Formen kennen: z.B. Print- und Online-Zeitungen, Infotainment, Hypertexte, Werbekommunikation, Film," .
+
+<msadsi/3/3.3/3.3.3/3.3.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "Intentionen und Wirkungen erkennen und bewerten," .
+
+<msadsi/3/3.3/3.3.3/3.3.3.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "wesentliche Darstellungsmittel kennen und deren Wirkungen einschätzen," .
+
+<msadsi/3/3.3/3.3.3/3.3.3.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "zwischen eigentlicher Wirklichkeit und virtuellen Welten in Medien unterscheiden: z.B. Fernsehserien, Computerspiele," .
+
+<msadsi/3/3.3/3.3.3/3.3.3.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "Informationsmöglichkeiten nutzen: z.B. Informationen zu einem Thema/ Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten (Suchstrategien)," .
+
+<msadsi/3/3.3/3.3.3/3.3.3.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.3/3.3.3" ;
+    skos:prefLabel "Medien zur Präsentation und ästhetischen Produktion nutzen." .
+
+<msadsi/3/3.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.1",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.2",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.3",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.4",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.5",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.6",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.7",
+        "https://example.com/iqb/bista2004d1/msadsi/3/3.4/3.4.8" .
+
+<msadsi/3/3.4/3.4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Exzerpieren, Zitieren, Quellen angeben," .
+
+<msadsi/3/3.4/3.4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Wesentliches hervorheben und Zusammenhänge verdeutlichen," .
+
+<msadsi/3/3.4/3.4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Nachschlagewerke zur Klärung von Fachbegriffen, Fremdwörtern und Sachfragen heranziehen," .
+
+<msadsi/3/3.4/3.4.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Texte zusammenfassen: z.B. im Nominalstil, mit Hilfe von Stichwörtern, Symbolen, Farbmarkierungen, Unterstreichungen," .
+
+<msadsi/3/3.4/3.4.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Inhalte mit eigenen Worten wiedergeben, Randbemerkungen setzen," .
+
+<msadsi/3/3.4/3.4.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Texte gliedern und Teilüberschriften finden," .
+
+<msadsi/3/3.4/3.4.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Inhalte veranschaulichen: z. B. durch Mindmap, Flussdiagramm," .
+
+<msadsi/3/3.4/3.4.8> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/3/3.4" ;
+    skos:prefLabel "Präsentationstechniken anwenden: Medien zielgerichtet und sachbezogen einsetzen: z.B. Tafel, Folie, Plakat, PC-Präsentationsprogramm." .
+
+<msadsi/4> a skos:Concept ;
+    skos:definition "" ;
+    skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi" ;
+    skos:prefLabel "Sprache und Sprachgebrauch untersuchen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.1",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.2",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.3",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.4",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.5" .
+
+<msadsi/4/4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4" ;
+    skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.3",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.4",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.5",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.6",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.1/4.1.7" .
+
+<msadsi/4/4.1/4.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene im Zusammenhang mit den Grundfaktoren sprachlicher Kommunikation erkennen und berücksichtigen: gelingende bzw. misslingende Kommunikation; öffentliche bzw. private Kommunikationssituationen," .
+
+<msadsi/4/4.1/4.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "beim Sprachhandeln einen differenzierten Wortschatz gebrauchen einschließlich umgangssprachlicher und idiomatischer Wendungen in Kenntnis des jeweiligen Zusammenhangs," .
+
+<msadsi/4/4.1/4.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "grundlegende Textfunktionen erfassen, insbesondere Information (z.B. Zeitungsmeldung), Regulierung (z.B. Gesetzestext), Appell (z.B. Werbeanzeige), Kontakt (z.B. Beschwerde), Selbstdarstellung (z.B. Tagebuch); ästhetische Funktion (z.B. Gedicht)," .
+
+<msadsi/4/4.1/4.1.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: z.B. Standardsprache, Umgangssprache, Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache," .
+
+<msadsi/4/4.1/4.1.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "Mehrsprachigkeit (Schülerinnen und Schüler mit anderer Muttersprache und Fremdsprachenlernen) zur Entwicklung der Sprachbewusstheit und zum Sprachvergleich nutzen," .
+
+<msadsi/4/4.1/4.1.6> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "Sprechweisen unterscheiden und beachten: z.B. gehoben, derb; abwertend, ironisch," .
+
+<msadsi/4/4.1/4.1.7> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.1" ;
+    skos:prefLabel "ausgewählte Erscheinungen des Sprachwandels kennen und bewerten: z.B. Bedeutungswandel, fremdsprachliche Einflüsse." .
+
+<msadsi/4/4.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4" ;
+    skos:prefLabel "Textbeschaffenheit analysieren und reflektieren" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.2" .
+
+<msadsi/4/4.2/4.2.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.2" ;
+    skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhangs (Textkohärenz) kennen und anwenden:" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1/4.2.1.1",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1/4.2.1.2",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1/4.2.1.3" .
+
+<msadsi/4/4.2/4.2.1/4.2.1.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1" ;
+    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb), Zusammensetzung und Ableitung von Wörtern," .
+
+<msadsi/4/4.2/4.2.1/4.2.1.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1" ;
+    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge," .
+
+<msadsi/4/4.2/4.2.1/4.2.1.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.2/4.2.1" ;
+    skos:prefLabel "Bedeutungsebene (semantische Mittel): z.B. Synonyme, Antonyme; Schlüsselwörter; Oberbegriff/Unterbegriff; ausgewählte rhetorische Mittel," .
+
+<msadsi/4/4.2/4.2.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.2" ;
+    skos:prefLabel "Möglichkeiten der Textstrukturierung kennen und nutzen." .
+
+<msadsi/4/4.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4" ;
+    skos:prefLabel "Leistungen von Sätzen und Wortarten kennen und für Sprechen, Schreiben und Textuntersuchung nutzen" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.3/4.3.1",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.3/4.3.2",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.3/4.3.3" .
+
+<msadsi/4/4.3/4.3.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.3" ;
+    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil," .
+
+<msadsi/4/4.3/4.3.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.3" ;
+    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit, Modalität; Substantiv/Nomen: Benennung; Adjektiv: Qualität," .
+
+<msadsi/4/4.3/4.3.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.3" ;
+    skos:prefLabel "grammatische Kategorien und ihre Leistungen in situativen und funktionalen Zusammenhängen kennen und nutzen, insbesondere Tempus, Modus (Indikativ, Konjunktiv I/II), Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung." .
+
+<msadsi/4/4.4> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4" ;
+    skos:prefLabel "Laut-Buchstaben-Beziehungen kennen und reflektieren" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.4/4.4.1" .
+
+<msadsi/4/4.4/4.4.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.4" ;
+    skos:prefLabel "wichtige Regeln der Aussprache und der Orthografie kennen und beim Sprachhandeln berücksichtigen." .
+
+<msadsi/4/4.5> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4" ;
+    skos:prefLabel "Methoden und Arbeitstechniken" ;
+    skos:topConceptOf "https://example.com/iqb/bista2004d1/msadsi/4/4.5/4.5.1",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.5/4.5.2",
+        "https://example.com/iqb/bista2004d1/msadsi/4/4.5/4.5.3" .
+
+<msadsi/4/4.5/4.5.1> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.5" ;
+    skos:prefLabel "grammatische Proben anwenden: Klang-, Weglass-, Ersatz- und Umstellprobe," .
+
+<msadsi/4/4.5/4.5.2> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.5" ;
+    skos:prefLabel "Rechtschreibstrategien anwenden: z.B. Ableitung vom Wortstamm, Wortverlängerung, Ähnlichkeitsschreibung," .
+
+<msadsi/4/4.5/4.5.3> skos:hasTopConcept "https://example.com/iqb/bista2004d1/msadsi/4/4.5" ;
+    skos:prefLabel "Nachschlagewerke nutzen." .
 
