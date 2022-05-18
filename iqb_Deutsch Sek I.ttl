@@ -5,6 +5,7 @@
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "" ;
+    dct:publisher "IQB" ;
     dct:title "Deutsch Sek I" .
 
 <hsdsi> a skos:Concept ;
