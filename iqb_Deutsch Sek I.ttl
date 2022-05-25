@@ -4,7 +4,7 @@
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "" ;
+    dct:description "Buildungsstandard Deutsch Sek 1 2004" ;
     dct:publisher "IQB" ;
     dct:title "Deutsch Sek I" .
 
