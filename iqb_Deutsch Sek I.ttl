@@ -1731,9 +1731,9 @@
 
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "" ;
+    dct:description ""@de ;
     dct:publisher "IQB" ;
-    dct:title "Deutsch Sek I" ;
+    dct:title "Deutsch Sek I"@de ;
     skos:hasTopConcept <hsdsi>,
         <msadsi> .
 
