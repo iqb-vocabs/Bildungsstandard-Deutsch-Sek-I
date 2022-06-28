@@ -5,7 +5,7 @@
 <hsdsi/0032d391-d77a-49cb-ac30-de588e81b6c4> a skos:Concept ;
     skos:broader <hsdsi/12ea7e0d-7146-4ef1-bb99-d3f40c653616> ;
     skos:inScheme <> ;
-    skos:prefLabel "begründet Stellung beziehen,"@de .
+    skos:prefLabel "begründet Sdtellung beziehen,"@de .
 
 <hsdsi/00c9f6d3-3cd8-4fa2-a5f9-293fd944f3d2> a skos:Concept ;
     skos:broader <hsdsi/343f5530-7523-45a8-ba3a-cc13fc63b4b3> ;
