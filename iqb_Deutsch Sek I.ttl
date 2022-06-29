@@ -1,2016 +1,2016 @@
-@base <https://w3id.org/iqb//bista04/bista04-de-s1/> .
+@base <https://w3id.org/iqb/bista04/bista04-de-s1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<hsdsi/00717c17-b637-439f-b767-4997e58444f4> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.7" ;
-    skos:prefLabel "Schreibkonferenzen durchführen,"@de .
-
-<hsdsi/011e6533-c83a-4db6-bac6-1930a4c6776b> a skos:Concept ;
-    skos:broader <hsdsi/0d82c62a-c349-446d-8472-61c197711cd5> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.3.2" ;
-    skos:prefLabel "Verfahren zur Überprüfung der sprachlichen Richtigkeit kennen und nutzen."@de .
-
-<hsdsi/012e185a-2221-4bc0-8fe6-e3ce1695b467> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.5" ;
-    skos:prefLabel "kreative Schreibformen nutzen: z.B. Figurengeschichten, Verwandlungsgeschichten, Schreiben zu Bildern,"@de .
-
-<hsdsi/03395028-025d-4743-ad6d-9ea0f51c28b3> a skos:Concept ;
-    skos:broader <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.2" ;
-    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen,"@de .
-
-<hsdsi/0536d25f-aaf8-4805-9342-5c7fa002ebee> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.4" ;
-    skos:prefLabel "Wesentliches markieren,"@de .
-
-<hsdsi/06dfd8a4-6f11-4897-a904-3b7d5068b8f1> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.5" ;
-    skos:prefLabel "Präsentationstechniken kennen und nutzen: z. B. Tafel, Plakat, Folie"@de .
-
-<hsdsi/06e5ae9d-e8d8-44d8-975e-bfcc6d6fb72c> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.4" ;
-    skos:prefLabel "Texte optisch gestalten,"@de .
-
-<hsdsi/098046f4-3431-4841-af07-3c3143112ff1> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.4" ;
-    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: Standardsprache, Umgangssprache; Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache,"@de .
-
-<hsdsi/0b4eb086-af2d-4096-a2b6-59fc5813d0ff> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.12" ;
-    skos:prefLabel "Texte sprachlich gestalten: strukturiert, verständlich und zusammenhängend schreiben,"@de .
-
-<hsdsi/0c540d3e-7392-4d31-a70a-c69c4445b772> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.7" ;
-    skos:prefLabel "Inhalte mit eigenen Worten zusammenfassend wiedergeben,"@de .
-
-<hsdsi/0e5d3c65-b7c4-47ba-9f35-1e691c068ebc> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.3" ;
-    skos:prefLabel "grundlegende Schreibfunktionen umsetzen: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,"@de .
-
-<hsdsi/0e6201b6-2392-4572-b91a-96786e8804b6> a skos:Concept ;
-    skos:broader <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2.1" ;
-    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: informieren (z.B. Lexikontext), appellieren (z.B. Werbetext), regulieren (z.B. Jugendschutzgesetz, Arbeitsvertrag), instruieren (z.B. Bedienungsanleitung),"@de .
-
-<hsdsi/12847935-927c-4f57-bf1d-c54842196136> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.4" ;
-    skos:prefLabel "Vorwissen und neue Informationen unterscheiden,"@de .
-
-<hsdsi/14a63f0c-fe14-4cee-b2e4-c1c3ad656b38> a skos:Concept ;
-    skos:broader <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2.4" ;
-    skos:prefLabel "Intention(en) eines Textes erkennen,"@de .
-
-<hsdsi/154b242d-f040-4d70-a034-634d83c926d3> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.9" ;
-    skos:prefLabel "zentrale Arbeitstechniken kennen und selbstständig anwenden: Abschreiben (von Texten), Aufschreiben, Nachschlagen,"@de .
-
-<hsdsi/15d33cc8-e353-4fff-8cd6-7096978225f6> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.8" ;
-    skos:prefLabel "Wörterbücher und Nachschlagewerke nutzen,"@de .
-
-<hsdsi/174c41b5-63c0-4931-bc71-8c722fbf4ccc> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.3" ;
-    skos:prefLabel "die eigenen Leseziele kennen,"@de .
-
-<hsdsi/1848a344-490a-41d7-865f-7c25f63ce2d0> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.3" ;
-    skos:prefLabel "grundlegende Textfunktionen erfassen: Information (z.B. Zeitungsmeldung), Appell (z.B. Werbeanzeige), Kontakt (z.B. Bewerbung, Beschwerde); ästhetische Funktion (z.B. Gedicht),"@de .
-
-<hsdsi/1e34c6dd-c77d-4f9a-bbdb-0623034c3a40> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.7" ;
-    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden: Autor, Erzähler, Monolog, Dialog, Reim,"@de .
-
-<hsdsi/1e4cb647-1438-4068-8053-9262152fb5d5> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.13" ;
-    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z. B. Textverarbeitungs- und Mailprogramme."@de .
-
-<hsdsi/1f450aff-fe51-4e8c-9993-f6f5d8fbb815> a skos:Concept ;
-    skos:broader <hsdsi/f6121e52-9bc9-4cf6-9a32-9b634be0352d> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.2" ;
-    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze,"@de .
-
-<hsdsi/2486c573-e668-4efd-9a65-b57352f78aa5> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.5" ;
-    skos:prefLabel "unterschiedliche Informationsquellen nutzen,"@de .
-
-<hsdsi/25ec0c96-4e38-4c13-9a9b-ef2664308f12> a skos:Concept ;
-    skos:broader <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2.5" ;
-    skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen,"@de .
-
-<hsdsi/2894329a-2f7e-43d9-ae96-4610688f390b> a skos:Concept ;
-    skos:broader <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.4" ;
-    skos:prefLabel "die eigene Meinung begründet vertreten,"@de .
-
-<hsdsi/2c6072d7-f2fd-43d1-a46f-f1ea4157d644> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.10" ;
-    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen."@de .
-
-<hsdsi/2d8ed5d0-6010-4e41-b38f-f634e5a347a8> a skos:Concept ;
-    skos:broader <hsdsi/6f31e66f-c85c-443b-8ad1-45125756c68b> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1.3" ;
-    skos:prefLabel "Bedeutungsebene (semantische Mittel): Synonyme; Schlüsselwörter; Oberbegriff/Unterbegriff,"@de .
-
-<hsdsi/2dedf321-8ee1-4c7f-9a5b-1c076278cf87> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.1" ;
-    skos:prefLabel "Lesetechniken und Strategien zum Leseverstehen kennen und anwenden,"@de .
-
-<hsdsi/2f1b877b-36e2-4c46-b39a-08c84cd9aa74> a skos:Concept ;
-    skos:broader <hsdsi/fdcfe52b-6979-4e1b-bec2-c5992e76d38e> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1.3" ;
-    skos:prefLabel "Informationsquellen nutzen: z.B. Bibliotheken, Nachschlagewerke, Zeitungen, Internet,"@de .
-
-<hsdsi/319711df-6d7b-43a2-8bda-066e680cf52f> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.5" ;
-    skos:prefLabel "Sprechweisen unterscheiden und ihre Wirkung einschätzen: z.B. abwertend, gehoben,"@de .
-
-<hsdsi/31af665f-7865-4069-b70f-e58c0d5b84e1> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.5" ;
-    skos:prefLabel "Wortbedeutungen klären,"@de .
-
-<hsdsi/33198c29-f6d5-4c00-88d8-6d9c3be47e86> a skos:Concept ;
-    skos:broader <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2.3" ;
-    skos:prefLabel "nichtlineare Texte (auch im Zusammenhang mit linearen Texten) auswerten: z.B. Schaubilder,"@de .
-
-<hsdsi/3616d469-f582-4170-88a0-64c0086507e6> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.6" ;
-    skos:prefLabel "Inhalte verkürzt wiedergeben,"@de .
-
-<hsdsi/3c296685-86a7-47ff-9559-ec23c4cf0413> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.3" ;
-    skos:prefLabel "Texte formal gestalten/überarbeiten: z.B. Blattaufteilung, Rand, Absätze, Schriftbild,"@de .
-
-<hsdsi/3d79126e-94bd-4b9c-a5ef-2d357a850352> a skos:Concept ;
-    skos:broader <hsdsi/abfbbfaf-0d71-44bf-b318-8048431ba0d9> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.4" ;
-    skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken)."@de .
-
-<hsdsi/412fab90-8636-4c6c-8ee8-2d914f5a922d> a skos:Concept ;
-    skos:broader <hsdsi/884eb6cd-4517-4e52-a088-e91ee15739a0> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.2" ;
-    skos:prefLabel "häufig vorkommende Wörter – auch wichtige Fachbegriffe und Fremdwörter - richtig schreiben,"@de .
-
-<hsdsi/45af36a3-e71f-43a7-8f6d-bde922a4ab63> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.7" ;
-    skos:prefLabel "wesentliche Informationen aus linearen und nichtlinearen Texten zusammenfassen,"@de .
-
-<hsdsi/45edac50-cc0c-4949-81d0-f6a373cc6cfd> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.3" ;
-    skos:prefLabel "an einem repräsentativen Beispiel Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/der Autorin herstellen,"@de .
-
-<hsdsi/470de006-136a-41a8-afe1-4bbd606dafed> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.6" ;
-    skos:prefLabel "ausgewählte Beispiele fremdsprachlicher Einflüsse kennen und bewerten,"@de .
-
-<hsdsi/48d80b69-2526-40c1-b442-74b1f2348ffe> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.6" ;
-    skos:prefLabel "Texte gliedern und Teilüberschriften finden,"@de .
-
-<hsdsi/48e00e7b-278e-4473-a11b-1a71754e9bed> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.8" ;
-    skos:prefLabel "wesentliche Gestaltungsmittel untersuchen und darstellen,"@de .
-
-<hsdsi/4cc407af-b244-4df1-9fb7-d39e3d5e83c0> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.4" ;
-    skos:prefLabel "zentrale Aussagen erschließen,"@de .
-
-<hsdsi/4d13c4b3-17ee-47ba-bafa-2469d8d020be> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.2" ;
-    skos:prefLabel "Arbeitsschritte festlegen,"@de .
-
-<hsdsi/4f61b4f9-a26b-41ce-acc3-b82e17a757cc> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.8" ;
-    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: Aussagen erklären, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen."@de .
-
-<hsdsi/5083d94b-10f3-43c0-b72d-9576f421a5b1> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.5" ;
-    skos:prefLabel "wesentliche Elemente eines Textes erfassen: Figuren, Raum- und Zeitdarstellung, Konfliktverlauf,"@de .
-
-<hsdsi/52957cda-6726-487f-be07-5d3dee962c34> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.1" ;
-    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene unterscheiden,"@de .
-
-<hsdsi/53d4b284-e1c8-4596-a4f0-9c5d40d260c1> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.7" ;
-    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen."@de .
-
-<hsdsi/55bf3ef5-ab30-4d71-9f50-94b2731cb306> a skos:Concept ;
-    skos:broader <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.5" ;
-    skos:prefLabel "auf Gesprächsbeiträge sachlich und argumentierend eingehen,"@de .
-
-<hsdsi/55c876a0-c74a-4e01-93a5-7a225138c0ed> a skos:Concept ;
-    skos:broader <hsdsi/310bbe14-a401-4bed-8311-d14e379297ee> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.4" ;
-    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,"@de .
-
-<hsdsi/6257a7e5-d86d-4fbb-8785-8a8bea34ec55> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.6" ;
-    skos:prefLabel "Lesehilfen nutzen: z.B. Textsorte, Aufbau, Überschrift, Illustration, Layout,"@de .
-
-<hsdsi/64b26213-cb55-4274-b7fe-eb8f6e4ab688> a skos:Concept ;
-    skos:broader <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1" ;
-    skos:prefLabel "sich konstruktiv an einem Gespräch beteiligen,"@de .
-
-<hsdsi/64ff2512-a66a-48c5-a041-1c45d65c5574> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.10" ;
-    skos:prefLabel "Argumente gewichten und Schlüsse ziehen,"@de .
-
-<hsdsi/65355a3f-6aee-4f23-a858-024d8fc3772e> a skos:Concept ;
-    skos:broader <hsdsi/7cbb461a-20c5-4b11-a79e-2e5583457ac1> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.1" ;
-    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen,"@de .
-
-<hsdsi/67ac8545-0b88-42fb-a7a0-165e4988b8b7> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.4" ;
-    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten,"@de .
-
-<hsdsi/6ed769bc-2855-4f14-b073-192737307a6b> a skos:Concept ;
-    skos:broader <hsdsi/f6121e52-9bc9-4cf6-9a32-9b634be0352d> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.1" ;
-    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben,"@de .
-
-<hsdsi/71411fb8-4d37-4028-86e4-2af68679bfc4> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3" ;
-    skos:prefLabel "zitieren, Quellen angeben,"@de .
-
-<hsdsi/73b8b899-d5c3-4d35-b92e-ec4af828d143> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.2" ;
-    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbungsschreiben, Ausfüllen von Formularen, Schaubild, Diagramm, Tabelle,"@de .
-
-<hsdsi/743e01d0-d646-4acd-8b9d-80d8d71cb47c> a skos:Concept ;
-    skos:broader <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3.1" ;
-    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden: z.B. im Internet,"@de .
-
-<hsdsi/7442117c-307f-4372-b6d0-885b3f1364a4> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.6" ;
-    skos:prefLabel "Video-Feedback nutzen,"@de .
-
-<hsdsi/7762ee87-c5e2-438d-863a-7d1b818c7a98> a skos:Concept ;
-    skos:broader <hsdsi/310bbe14-a401-4bed-8311-d14e379297ee> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1" ;
-    skos:prefLabel "sich artikuliert und verständlich in der Standardsprache äußern,"@de .
-
-<hsdsi/77f8e44a-c6a0-4dea-9222-b97b6346f405> a skos:Concept ;
-    skos:broader <hsdsi/310bbe14-a401-4bed-8311-d14e379297ee> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.5" ;
-    skos:prefLabel "Wirkungen der Redeweise kennen und beachten: Lautstärke, Betonung, Sprechtempo, Stimmführung, Körpersprache (Gestik/Mimik)."@de .
-
-<hsdsi/7aaa94c8-0265-4da1-84ce-a8283b838610> a skos:Concept ;
-    skos:broader <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2.2" ;
-    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, prüfen und ergänzen,"@de .
-
-<hsdsi/7f8aa12f-b676-4de0-b8b8-5ff35a356f95> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.3" ;
-    skos:prefLabel "Wesentliches notieren,"@de .
-
-<hsdsi/81f7263e-e932-4669-a10b-b3c917cbb515> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.8" ;
-    skos:prefLabel "Arbeitsergebnisse zielgerichtet und sachbezogen präsentieren z.B. mit Folie, Plakat, PC."@de .
-
-<hsdsi/82f2a514-de2d-4438-ba45-79f7eecfc38d> a skos:Concept ;
-    skos:broader <hsdsi/f6121e52-9bc9-4cf6-9a32-9b634be0352d> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.4" ;
-    skos:prefLabel "Formulare ausfüllen."@de .
-
-<hsdsi/842b226b-ed62-4e68-b21d-4e01aac40345> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.1" ;
-    skos:prefLabel "Notizen machen, Stichpunkte sammeln und ordnen,"@de .
-
-<hsdsi/845830a1-bb96-460f-842c-bf6852a9d8b6> a skos:Concept ;
-    skos:broader <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.6" ;
-    skos:prefLabel "mit Textverarbeitungs- und Mailprogrammen umgehen,"@de .
-
-<hsdsi/856912c0-aeb1-43fe-a662-b785c84dc102> a skos:Concept ;
-    skos:broader <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3.6" ;
-    skos:prefLabel "Medien für die eigene Produktion kreativ nutzen."@de .
-
-<hsdsi/856c1fd9-e0c5-459a-b219-d68c4704a924> a skos:Concept ;
-    skos:broader <hsdsi/7cbb461a-20c5-4b11-a79e-2e5583457ac1> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.3" ;
-    skos:prefLabel "Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln."@de .
-
-<hsdsi/89236d23-a4b3-46bf-85b6-3e043f279c25> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.4" ;
-    skos:prefLabel "Notizen ordnen und zur Weiterarbeit nutzen,"@de .
-
-<hsdsi/8a986ac6-7848-4e6f-8067-aacb7fea2f63> a skos:Concept ;
-    skos:broader <hsdsi/310bbe14-a401-4bed-8311-d14e379297ee> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.3" ;
-    skos:prefLabel "sich in unterschiedlichen Sprechsituationen sach- und situationsgerecht verhalten: Vorstellungsgespräch/Bewerbungsgespräch, Antragstellung, Bitte, Aufforderung, Beschwerde, Entschuldigung, Dank,"@de .
-
-<hsdsi/8abc7b79-b177-4a4b-a6e0-d08b256b2f37> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.2" ;
-    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv,"@de .
-
-<hsdsi/928ad33b-aa56-4c80-bac2-d49a739e450d> a skos:Concept ;
-    skos:broader <hsdsi/02540613-2281-4d79-a831-a92236d7987d> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2.2" ;
-    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit; Substantiv/Nomen: Benennung; Adjektiv: Qualität,"@de .
-
-<hsdsi/92ac5181-a352-46f0-b159-cb5ab68a2fe6> a skos:Concept ;
-    skos:broader <hsdsi/fdcfe52b-6979-4e1b-bec2-c5992e76d38e> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1.4" ;
-    skos:prefLabel "Stoffsammlung erstellen, Informationen ordnen: z.B. Mindmap."@de .
-
-<hsdsi/95a7b502-43e3-4869-adc3-99baa9a0afdc> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.9" ;
-    skos:prefLabel "untersuchende und produktive Methoden kennen und anwenden: z.B. Texte vergleichen, weiterschreiben, Paralleltext verfassen, szenische Umsetzung,"@de .
-
-<hsdsi/95bd0c84-8fe6-45c7-92e1-37a682dda810> a skos:Concept ;
-    skos:broader <hsdsi/abfbbfaf-0d71-44bf-b318-8048431ba0d9> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1" ;
-    skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen,"@de .
-
-<hsdsi/99020313-c0ee-42ae-acad-bfb300114557> a skos:Concept ;
-    skos:broader <hsdsi/6689a49b-2462-4a49-8eab-e70f09f1a704> ;
-    skos:inScheme <> ;
-    skos:notation "1.5.2" ;
-    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten."@de .
-
-<hsdsi/9aaec23e-a6f8-4658-b089-31a3032044e5> a skos:Concept ;
-    skos:broader <hsdsi/02540613-2281-4d79-a831-a92236d7987d> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2.3" ;
-    skos:prefLabel "grammatische Kategorien in situativen und funktionalen Zusammenhängen verwenden: z.B. Tempus, Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung,"@de .
-
-<hsdsi/a05c61a9-dbde-4fb3-8af3-c663be729cf7> a skos:Concept ;
-    skos:broader <hsdsi/6f31e66f-c85c-443b-8ad1-45125756c68b> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1.1" ;
-    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb, Pronomen),"@de .
-
-<hsdsi/a1c991b8-f897-4039-8e0b-31dfac3e6604> a skos:Concept ;
-    skos:broader <hsdsi/7cbb461a-20c5-4b11-a79e-2e5583457ac1> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.2" ;
-    skos:prefLabel "wesentliche Informationen verstehen, wiedergeben und kritisch hinterfragen,"@de .
-
-<hsdsi/a6896082-a2b9-45f9-953a-0f3c03ef2716> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1" ;
-    skos:prefLabel "mit Nachschlagewerken umgehen können,"@de .
-
-<hsdsi/a9d0dc4b-0df3-480c-8d77-e0ae23d2384c> a skos:Concept ;
-    skos:broader <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3.5" ;
-    skos:prefLabel "Informationen zu einem Thema/Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten,"@de .
-
-<hsdsi/ad32af9f-741e-4ed9-8bee-bb4a0d1ac359> a skos:Concept ;
-    skos:broader <hsdsi/fdcfe52b-6979-4e1b-bec2-c5992e76d38e> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1.1" ;
-    skos:prefLabel "den Schreibauftrag verstehen,"@de .
-
-<hsdsi/b3e58c34-ad35-43ff-a87d-882a8b3f2100> a skos:Concept ;
-    skos:broader <hsdsi/fdcfe52b-6979-4e1b-bec2-c5992e76d38e> ;
+<hsdsi/000290d5-914f-4109-af98-b8ef19c41b57> a skos:Concept ;
+    skos:broader <hsdsi/0d4259b9-d164-4566-9356-6bba39d3453b> ;
     skos:inScheme <> ;
     skos:notation "2.3.1.2" ;
     skos:prefLabel "einen Schreibplan entwickeln,"@de .
 
-<hsdsi/b5259ea3-2edf-451e-871d-83ebb956c143> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
+<hsdsi/0030f9b5-1cb9-4a15-a1f1-ede581788d0d> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
     skos:inScheme <> ;
-    skos:notation "2.3.2.11" ;
-    skos:prefLabel "begründet Stellung beziehen,"@de .
+    skos:notation "2.3.2.13" ;
+    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z. B. Textverarbeitungs- und Mailprogramme."@de .
 
-<hsdsi/b53e0957-1bdd-48a8-bd69-0362289be2d0> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
+<hsdsi/01b06c83-55c7-4480-8b23-f5d9b9e7d9f1> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
     skos:inScheme <> ;
-    skos:notation "2.3.2.1" ;
-    skos:prefLabel "gedanklich geordnet schreiben,"@de .
+    skos:notation "2.4.9" ;
+    skos:prefLabel "zentrale Arbeitstechniken kennen und selbstständig anwenden: Abschreiben (von Texten), Aufschreiben, Nachschlagen,"@de .
 
-<hsdsi/b8d81e60-ccb0-43ab-ab0b-1fcddf460ae8> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
+<hsdsi/031d3e51-4e1c-478a-8093-1b619c69f0e6> a skos:Concept ;
+    skos:broader <hsdsi/45ba70b3-8b98-4913-ad16-e20152389081> ;
     skos:inScheme <> ;
-    skos:notation "3.2.1.8" ;
-    skos:prefLabel "grundlegende Gestaltungsmittel erkennen und ihre Wirkungen einschätzen: z.B. Wortwahl, Wiederholung, sprachliche Bilder,"@de .
+    skos:notation "4.2.2.2" ;
+    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit; Substantiv/Nomen: Benennung; Adjektiv: Qualität,"@de .
 
-<hsdsi/b91136f4-8ea5-40bb-8acd-13b568a4393d> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
+<hsdsi/07b43e51-aa9d-4a17-a10a-b181fc9dfde5> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
     skos:inScheme <> ;
-    skos:notation "1.6.1" ;
-    skos:prefLabel "verschiedene Gesprächsformen praktizieren: z.B. Diskussion, Streitgespräch, Arbeitsgespräch,"@de .
+    skos:notation "2.3.2.10" ;
+    skos:prefLabel "Argumente gewichten und Schlüsse ziehen,"@de .
 
-<hsdsi/bbf3c35f-a818-47b4-a903-6a3cbd2e1d0e> a skos:Concept ;
-    skos:broader <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.6" ;
-    skos:prefLabel "das eigene Gesprächsverhalten und das anderer kriterienorientiert beobachten und bewerten."@de .
-
-<hsdsi/bd4f10d0-41ff-4a58-9550-6a657d585f7f> a skos:Concept ;
-    skos:broader <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
+<hsdsi/08690694-71a6-4697-b94c-e454dc8dedca> a skos:Concept ;
+    skos:broader <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
     skos:inScheme <> ;
     skos:notation "3.2.3.3" ;
     skos:prefLabel "Intentionen und Wirkungen ausgewählter Medieninhalte erkennen und bewerten: z. B. Fernsehserie,"@de .
 
-<hsdsi/c6b476c1-2003-4cf9-aae1-5f6453ab54e5> a skos:Concept ;
-    skos:broader <hsdsi/0d82c62a-c349-446d-8472-61c197711cd5> ;
+<hsdsi/08dc1667-ac92-45e9-a36e-483c767d4b71> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.3" ;
+    skos:prefLabel "grundlegende Schreibfunktionen umsetzen: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,"@de .
+
+<hsdsi/091f0106-0090-49ed-9b45-732f628db920> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.4" ;
+    skos:prefLabel "Wesentliches markieren,"@de .
+
+<hsdsi/099c6702-8f10-46ef-a977-8eec6b5f5adb> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.6" ;
+    skos:prefLabel "ausgewählte Beispiele fremdsprachlicher Einflüsse kennen und bewerten,"@de .
+
+<hsdsi/0e5ee768-e834-4496-8407-e15c3c744d23> a skos:Concept ;
+    skos:broader <hsdsi/49e4f9b0-47e3-4a82-ad41-ecf3d28253b8> ;
     skos:inScheme <> ;
     skos:notation "2.3.3.1" ;
     skos:prefLabel "eigene und fremde Texte hinsichtlich Aufbau, Inhalt und Formulierungen revidieren,"@de .
 
-<hsdsi/cb565f65-4f9f-4270-a712-0723ad46b756> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
+<hsdsi/0f401711-caf9-4f8a-9df1-de9c4b546144> a skos:Concept ;
+    skos:broader <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> ;
     skos:inScheme <> ;
-    skos:notation "3.2.1.1" ;
-    skos:prefLabel "aktuelle und klassische Werke der Jugendliteratur und altersangemessene Texte bedeutender Autorinnen und Autoren kennen,"@de .
-
-<hsdsi/cd02295d-5169-402b-9843-95a83a2633f2> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.10" ;
-    skos:prefLabel "eigene Deutungen des Textes entwickeln, mit anderen darüber sprechen und am Text belegen."@de .
-
-<hsdsi/cd17f6fe-e7c4-4e9a-8aa6-529325f4382e> a skos:Concept ;
-    skos:broader <hsdsi/6689a49b-2462-4a49-8eab-e70f09f1a704> ;
-    skos:inScheme <> ;
-    skos:notation "1.5.1" ;
-    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen,"@de .
-
-<hsdsi/ce2018cb-5517-48c3-a661-d81271d1d90a> a skos:Concept ;
-    skos:broader <hsdsi/884eb6cd-4517-4e52-a088-e91ee15739a0> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.3" ;
-    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und Fehler durch Anwendung von Rechtschreibstrategien vermeiden: z.B. Ableiten, Wortverwandtschaften suchen, grammatisches Wissen nutzen."@de .
-
-<hsdsi/d2fc40dd-b22b-4b4c-869a-6cb6ac239f86> a skos:Concept ;
-    skos:broader <hsdsi/02540613-2281-4d79-a831-a92236d7987d> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2.1" ;
-    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil,"@de .
-
-<hsdsi/d61fa4f4-1dc5-41b3-bd95-7e0dda8ba4b1> a skos:Concept ;
-    skos:broader <hsdsi/884eb6cd-4517-4e52-a088-e91ee15739a0> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.1" ;
-    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung kennen und anwenden,"@de .
-
-<hsdsi/d876ef8a-22fa-4e00-b143-adbda923c30c> a skos:Concept ;
-    skos:broader <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.9" ;
-    skos:prefLabel "Argumente finden und formulieren,"@de .
-
-<hsdsi/db7ed1a4-0f2b-48e3-b0ee-239e7ea6f7e9> a skos:Concept ;
-    skos:broader <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.2" ;
-    skos:prefLabel "Redestrategien einsetzen: z.B. Anknüpfungen formulieren,"@de .
-
-<hsdsi/ddbca04a-61c3-45d3-a822-97242985d883> a skos:Concept ;
-    skos:broader <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2.6" ;
-    skos:prefLabel "Information und Wertung in Texten unterscheiden: z.B. in Zeitungen."@de .
-
-<hsdsi/e0e9a615-5cd2-4c95-a9f5-c21e0c63ee80> a skos:Concept ;
-    skos:broader <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.3" ;
-    skos:prefLabel "Gesprächsregeln einhalten,"@de .
-
-<hsdsi/e4e50072-7f24-47b5-b89a-094439413972> a skos:Concept ;
-    skos:broader <hsdsi/abfbbfaf-0d71-44bf-b318-8048431ba0d9> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.2" ;
-    skos:prefLabel "freie Redebeiträge leisten,"@de .
-
-<hsdsi/e605a0dc-5639-408e-9568-723f40c244bd> a skos:Concept ;
-    skos:broader <hsdsi/9e43167c-5151-4975-851b-87d2318755c4> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.7" ;
-    skos:prefLabel "Verfahren zur Textstrukturierung kennen und nutzen: Inhalte zusammenfassen, Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textstellen herstellen, Fragen aus dem Text ableiten und beantworten,"@de .
-
-<hsdsi/e6e34070-da1c-4df2-a3a5-3292de47df54> a skos:Concept ;
-    skos:broader <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3.2" ;
-    skos:prefLabel "wesentliche Darstellungsmittel eines Mediums und deren Wirkungen kennen und einschätzen,"@de .
-
-<hsdsi/e767b207-1a5d-45e9-84c6-8d0829ad0e3f> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.2" ;
-    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden und wesentliche Merkmale kennen, insbesondere epische Kleinformen, Erzählung, Kurzgeschichte, Gedichte,"@de .
-
-<hsdsi/e974d56f-2369-4165-bd3b-710566991c5c> a skos:Concept ;
-    skos:broader <hsdsi/600ba16c-b17a-4032-8c83-82f6b6211cac> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.1" ;
-    skos:prefLabel "die Klang-, Weglass-, Umstell-, Ersatzprobe anwenden,"@de .
-
-<hsdsi/ea7a0a49-a29b-44ad-9470-d0ef7452ae86> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.7" ;
-    skos:prefLabel "Unterschiede und Gemeinsamkeiten verschiedener Sprachen wahrnehmen."@de .
-
-<hsdsi/ebc6172d-9659-4efb-8633-743454e9717c> a skos:Concept ;
-    skos:broader <hsdsi/310bbe14-a401-4bed-8311-d14e379297ee> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.2" ;
-    skos:prefLabel "über einen für die Bewältigung schulischer, beruflicher und gesellschaftlicher Sprechsituationen angemessenen Wortschatz verfügen,"@de .
-
-<hsdsi/ebf005d6-e116-46f2-8739-fb4b169a8180> a skos:Concept ;
-    skos:broader <hsdsi/600ba16c-b17a-4032-8c83-82f6b6211cac> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.2" ;
-    skos:prefLabel "Verfahren der Fehlerkontrolle: z.B. Nachschlagetechniken, gliederndes Mitsprechen."@de .
-
-<hsdsi/ef37c326-b463-4e47-be26-55ba8e294c59> a skos:Concept ;
-    skos:broader <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.2" ;
-    skos:prefLabel "Bedingungen und Regeln für kommunikative Situationen im Alltag kennen,"@de .
-
-<hsdsi/ef649716-37d2-473a-8a18-9906e3188070> a skos:Concept ;
-    skos:broader <hsdsi/df12dbf8-006c-4e54-bb07-cca629bc3d3d> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.3" ;
-    skos:prefLabel "grundlegende Regeln der Orthografie und Zeichensetzung kennen und beim Sprachhandeln anwenden."@de .
-
-<hsdsi/f14076d3-5285-4a30-9c3d-858218ee7501> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.5" ;
-    skos:prefLabel "Stichwörter formulieren,"@de .
-
-<hsdsi/f5ad126e-0ba5-4ad5-a820-6f3d25a343f8> a skos:Concept ;
-    skos:broader <hsdsi/8014418c-9085-487c-933b-d7138754f5af> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2" ;
-    skos:prefLabel "recherchieren,"@de .
-
-<hsdsi/f67be7ee-1e3e-4847-8bf8-4ac13d6e0b32> a skos:Concept ;
-    skos:broader <hsdsi/abfbbfaf-0d71-44bf-b318-8048431ba0d9> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.3" ;
-    skos:prefLabel "Kurzvorträge/Referate mit Hilfe eines Stichwortzettels/einer Gliederung halten: z.B. von einem Praktikum berichten, über einen Arbeitsplatz informieren, ein Buch/einen Film vorstellen,"@de .
-
-<hsdsi/f770239f-6543-4dee-9032-044a3a0df6cc> a skos:Concept ;
-    skos:broader <hsdsi/6f31e66f-c85c-443b-8ad1-45125756c68b> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1.2" ;
-    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge,"@de .
-
-<hsdsi/f7cb3c34-8ffc-4a59-a1c8-8405911cae0d> a skos:Concept ;
-    skos:broader <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1.6" ;
-    skos:prefLabel "Handlung und Verhaltensweisen beschreiben und werten,"@de .
-
-<hsdsi/f996a7db-06f6-4d35-84a0-d0562b0edc27> a skos:Concept ;
-    skos:broader <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3.4" ;
-    skos:prefLabel "Lebenswirklichkeit von Realitätsdarstellungen und der Darstellung fiktionaler Welten in Medien unterscheiden,"@de .
-
-<hsdsi/fef39670-0a77-45e1-b900-e7ccc994a441> a skos:Concept ;
-    skos:broader <hsdsi/f6121e52-9bc9-4cf6-9a32-9b634be0352d> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.3" ;
-    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation,"@de .
-
-<msadsi/0618ed4e-4e23-4c34-83ff-f01daf6b548e> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.1" ;
-    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene im Zusammenhang mit den Grundfaktoren sprachlicher Kommunikation erkennen und berücksichtigen: gelingende bzw. misslingende Kommunikation; öffentliche bzw. private Kommunikationssituationen,"@de .
-
-<msadsi/073475af-1f36-4182-97af-26b7fb5c6e83> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.1" ;
-    skos:prefLabel "verschiedene Gesprächsformen praktizieren, z.B. Dialoge, Streitgespräche, Diskussionen, Rollendiskussionen, Debatten vorbereiten und durchführen,"@de .
-
-<msadsi/091479ba-9cf5-4a82-916b-939b380c0c53> a skos:Concept ;
-    skos:broader <msadsi/5e866581-ab5e-49ce-a94f-054f7cffb931> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.1" ;
-    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen,"@de .
-
-<msadsi/09f220d1-7c52-4136-8ecc-07ca65872a9f> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2.3" ;
-    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, vergleichen, prüfen und ergänzen,"@de .
-
-<msadsi/0c82dacf-2e29-49b2-926b-1738e82f0666> a skos:Concept ;
-    skos:broader <msadsi/51623104-3afe-473b-a26c-7d9e198caace> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.2" ;
-    skos:prefLabel "zentrale Schreibformen beherrschen und sachgerecht nutzen: informierende (berichten, beschreiben, schildern), argumentierende (erörtern, kommentieren), appellierende, untersuchende (analysieren, interpretieren), gestaltende (erzählen, kreativ schreiben),"@de .
-
-<msadsi/0e2fb0e8-dc7c-4bfb-aaa4-d6b4852f1305> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.2" ;
-    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden, insbesondere epische Kleinformen, Novelle, längere Erzählung, Kurzgeschichte, Roman, Schauspiel, Gedichte,"@de .
-
-<msadsi/0eb99592-2a4a-40f5-aa7a-9d9da44d5625> a skos:Concept ;
-    skos:broader <msadsi/a8e94f27-cd93-4d35-801b-85464028ffa8> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1.3" ;
-    skos:prefLabel "Stoffsammlung erstellen, ordnen und eine Gliederung anfertigen: z.B. numerische Gliederung, Cluster, Ideenstern, Mindmap, Flussdiagramm."@de .
-
-<msadsi/0f8d36ea-7e9c-4469-8dec-cf85cf734c9f> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.2" ;
-    skos:prefLabel "Wesentliches hervorheben und Zusammenhänge verdeutlichen,"@de .
-
-<msadsi/10cedb16-3f48-44a7-a6cc-e1eabcfec613> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.4" ;
-    skos:prefLabel "sich gezielt sachgerechte Stichwörter aufschreiben,"@de .
-
-<msadsi/1189f0a1-275b-4900-88ca-fd4251204056> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.9" ;
-    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen."@de .
-
-<msadsi/12b91b7e-3725-4fd0-b08c-7a96e58686f2> a skos:Concept ;
-    skos:broader <msadsi/51623104-3afe-473b-a26c-7d9e198caace> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.3" ;
-    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten,"@de .
-
-<msadsi/13ad0b90-c845-4598-af8e-973a89d51a72> a skos:Concept ;
-    skos:broader <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.3" ;
-    skos:prefLabel "Gesprächsregeln einhalten,"@de .
-
-<msadsi/1450464b-f29f-47c7-8579-1b2e7d47302e> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.3" ;
-    skos:prefLabel "Redestrategien einsetzen: z.B. Fünfsatz, Anknüpfungen formulieren, rhetorische Mittel verwenden,"@de .
-
-<msadsi/1835f4c0-7656-49e1-bf5b-27eacbe433df> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.7" ;
-    skos:prefLabel "Video-Feedback nutzen,"@de .
-
-<msadsi/196d3ada-b9da-42c6-b886-d915397fa698> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.4" ;
-    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: z.B. Standardsprache, Umgangssprache, Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache,"@de .
-
-<msadsi/1dd810c9-0461-4511-b2fc-31d7652d6ab9> a skos:Concept ;
-    skos:broader <msadsi/d8003e6c-176f-4ab2-a6a2-51e44e460b60> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1" ;
-    skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen,"@de .
-
-<msadsi/1fa045c7-91ac-4b09-8559-44a40ded402c> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3.7" ;
-    skos:prefLabel "Medien zur Präsentation und ästhetischen Produktion nutzen."@de .
-
-<msadsi/1fb4119a-2163-40c0-ac08-e8eaa9124824> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.5" ;
-    skos:prefLabel "Mehrsprachigkeit (Schülerinnen und Schüler mit anderer Muttersprache und Fremdsprachenlernen) zur Entwicklung der Sprachbewusstheit und zum Sprachvergleich nutzen,"@de .
-
-<msadsi/229861e1-1411-4429-837d-f9ebf8cdb910> a skos:Concept ;
-    skos:broader <msadsi/a8e94f27-cd93-4d35-801b-85464028ffa8> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1.1" ;
-    skos:prefLabel "gemäß den Aufgaben und der Zeitvorgabe einen Schreibplan erstellen, sich für die angemessene Textsorte entscheiden und Texte ziel-, adressaten- und situationsbezogen, ggf. materialorientiert konzipieren,"@de .
-
-<msadsi/2511cd53-1c06-4ac9-a955-af5aa075b467> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3.5" ;
-    skos:prefLabel "zwischen eigentlicher Wirklichkeit und virtuellen Welten in Medien unterscheiden: z.B. Fernsehserien, Computerspiele,"@de .
-
-<msadsi/25a3f1d1-8837-46a7-9414-8187cd959263> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.6" ;
-    skos:prefLabel "Texte gliedern und Teilüberschriften finden,"@de .
-
-<msadsi/27661767-d667-42c0-a743-8cb36a2c6e3b> a skos:Concept ;
-    skos:broader <msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.3" ;
-    skos:prefLabel "Textschemata erfassen: z.B. Textsorte, Aufbau des Textes,"@de .
-
-<msadsi/28c8c14b-6224-4da0-88cc-cb91ee5545b4> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.2" ;
-    skos:prefLabel "beim Sprachhandeln einen differenzierten Wortschatz gebrauchen einschließlich umgangssprachlicher und idiomatischer Wendungen in Kenntnis des jeweiligen Zusammenhangs,"@de .
-
-<msadsi/2b1f2dc3-d35b-4dd2-857a-1482cc28e136> a skos:Concept ;
-    skos:broader <msadsi/51623104-3afe-473b-a26c-7d9e198caace> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.6" ;
-    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z.B. E-Mails, Chatroom."@de .
-
-<msadsi/2be9ee08-1ec8-4314-b678-91cd5bfb30e7> a skos:Concept ;
-    skos:broader <msadsi/a25ebb2c-3d54-4ab0-a8d2-867575efc80b> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1.1" ;
-    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb), Zusammensetzung und Ableitung von Wörtern,"@de .
-
-<msadsi/2ccfd781-5e85-456b-a749-89dcc8fd7bff> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2.1" ;
-    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: z.B. informieren: Nachricht; appellieren: Kommentar, Rede; regulieren: Gesetz, Vertrag; instruieren: Gebrauchsanweisung,"@de .
-
-<msadsi/2d5670c4-c041-41ab-a56d-e805e8bd2b7c> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.6" ;
-    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden, insbesondere Erzähler, Erzählperspektive, Monolog, Dialog, sprachliche Bilder, Metapher, Reim, lyrisches Ich,"@de .
-
-<msadsi/2e9edec8-a469-415a-8b1d-be5f6cb30524> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.6" ;
-    skos:prefLabel "Sprechweisen unterscheiden und beachten: z.B. gehoben, derb; abwertend, ironisch,"@de .
-
-<msadsi/2f4f387c-4d88-441e-8ff1-d061ca72b640> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2.4" ;
-    skos:prefLabel "nichtlineare Texte auswerten: z.B. Schaubilder,"@de .
-
-<msadsi/321dd3f0-80a5-48e7-9773-b02831b31fc3> a skos:Concept ;
-    skos:broader <msadsi/8fff5ae5-5c05-410b-9f4d-2d971ba1a331> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2" ;
-    skos:prefLabel "Möglichkeiten der Textstrukturierung kennen und nutzen."@de .
-
-<msadsi/325b21c7-1e20-4de9-b3c9-b821253ba6f0> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.11" ;
-    skos:prefLabel "Handlungen, Verhaltensweisen und Verhaltensmotive bewerten."@de .
-
-<msadsi/33c0daf5-791b-4ffd-983b-78e00d178b79> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.8" ;
-    skos:prefLabel "Schreibkonferenzen/Schreibwerkstatt durchführen,"@de .
-
-<msadsi/33c95114-74ac-49a5-afe6-5a9384148e03> a skos:Concept ;
-    skos:broader <msadsi/a8e94f27-cd93-4d35-801b-85464028ffa8> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.1.2" ;
-    skos:prefLabel "Informationsquellen gezielt nutzen, insbesondere Bibliotheken, Nachschlagewerke, Zeitungen, Internet,"@de .
-
-<msadsi/37277608-17aa-4c56-a967-399bf1e64277> a skos:Concept ;
-    skos:broader <msadsi/3166ed30-7f92-4727-ade0-5afccc939a1e> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.1" ;
-    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv, navigierend (z.B. Bild-Ton-Text integrierend) lesen."@de .
-
-<msadsi/374f6f0d-70ba-4274-abb1-7e98646dba78> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.1" ;
-    skos:prefLabel "Exzerpieren, Zitieren, Quellen angeben,"@de .
-
-<msadsi/377544c5-2e54-4673-b5f8-444365c3c55c> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.1" ;
-    skos:prefLabel "ein Spektrum altersangemessener Werke – auch Jugendliteratur – bedeutender Autorinnen und Autoren kennen,"@de .
-
-<msadsi/39558ffd-7136-42fc-8a46-7e6ce3faab98> a skos:Concept ;
-    skos:broader <msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1" ;
-    skos:prefLabel "sich artikuliert, verständlich, sach- und situationsangemessen äußern,"@de .
-
-<msadsi/3ae2f9ea-3698-4e41-a9f7-bbde4d0479a0> a skos:Concept ;
-    skos:broader <msadsi/5e866581-ab5e-49ce-a94f-054f7cffb931> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.2" ;
-    skos:prefLabel "wesentliche Aussagen aus umfangreichen gesprochenen Texten verstehen, diese Informationen sichern und wiedergeben,"@de .
-
-<msadsi/40d9f334-bb84-4e99-b9d1-e4ae06673756> a skos:Concept ;
-    skos:broader <msadsi/f7f5bffa-66d0-4e63-a05c-b01fdeceeee8> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.4" ;
-    skos:prefLabel "Formulare ausfüllen."@de .
-
-<msadsi/43c164c5-1df1-4892-a917-ccf413f1fa5e> a skos:Concept ;
-    skos:broader <msadsi/d0a5a932-fce4-4c23-b449-c0e12d8803e3> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.1" ;
-    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung sicher beherrschen und häufig vorkommende Wörter, Fachbegriffe und Fremdwörter richtig schreiben,"@de .
-
-<msadsi/45bf62c1-a5fd-4543-94e2-c79d7bc4c26f> a skos:Concept ;
-    skos:broader <msadsi/a25ebb2c-3d54-4ab0-a8d2-867575efc80b> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1.3" ;
-    skos:prefLabel "Bedeutungsebene (semantische Mittel): z.B. Synonyme, Antonyme; Schlüsselwörter; Oberbegriff/Unterbegriff; ausgewählte rhetorische Mittel,"@de .
-
-<msadsi/460ab0b7-ded5-4154-a8f5-e14bf41eab60> a skos:Concept ;
-    skos:broader <msadsi/ee288ca9-0483-43bd-b930-b65e2c1d6507> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.1" ;
-    skos:prefLabel "grammatische Proben anwenden: Klang-, Weglass-, Ersatz- und Umstellprobe,"@de .
-
-<msadsi/4ed6c7fe-a8f5-4c83-a4fe-fb386d075843> a skos:Concept ;
-    skos:broader <msadsi/f7f5bffa-66d0-4e63-a05c-b01fdeceeee8> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.3" ;
-    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation,"@de .
-
-<msadsi/50309758-9fb0-45d6-a25a-400f7ff2c9f5> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.10" ;
-    skos:prefLabel "produktive Methoden anwenden: z.B. Perspektivenwechsel: innerer Monolog, Brief in der Rolle einer literarischen Figur; szenische Umsetzung, Paralleltext, weiterschreiben, in eine andere Textsorte umschreiben,"@de .
-
-<msadsi/508ec5f6-df0f-42cc-b63c-1b782f0eb2f0> a skos:Concept ;
-    skos:broader <msadsi/51623104-3afe-473b-a26c-7d9e198caace> ;
-    skos:inScheme <> ;
-    skos:notation "2.3.2.1" ;
-    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbung, Bewerbungsschreiben, Protokoll, Annonce/Ausfüllen von Formularen, Diagramm, Schaubild, Statistik,"@de .
-
-<msadsi/52dec730-5017-4ca6-aa29-23fb515f06c1> a skos:Concept ;
-    skos:broader <msadsi/f7f5bffa-66d0-4e63-a05c-b01fdeceeee8> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.1" ;
-    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben,"@de .
-
-<msadsi/5827f231-4f9e-49f1-9aad-b76a85e522cc> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.7" ;
-    skos:prefLabel "sprachliche Gestaltungsmittel in ihren Wirkungszusammenhängen und in ihrer historischen Bedingtheit erkennen: z.B. Wort-, Satz- und Gedankenfiguren, Bildsprache (Metaphern),"@de .
-
-<msadsi/59f18cbd-0597-4a43-8375-bbfc8f4e45f9> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.8" ;
-    skos:prefLabel "eigene Deutungen des Textes entwickeln, am Text belegen und sich mit anderen darüber verständigen,"@de .
-
-<msadsi/5e470a5d-b6dd-4fb1-bd6a-bb469a8c21db> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3.3" ;
-    skos:prefLabel "Intentionen und Wirkungen erkennen und bewerten,"@de .
-
-<msadsi/5f931034-13e7-44d8-b6d3-ee0b4ef62463> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.5" ;
-    skos:prefLabel "Inhalte mit eigenen Worten wiedergeben, Randbemerkungen setzen,"@de .
-
-<msadsi/60133c95-9cdb-4c08-9ace-94a9231b1e9c> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
-    skos:inScheme <> ;
-    skos:notation "1.6.6" ;
-    skos:prefLabel "Notizen selbstständig strukturieren und Notizen zur Reproduktion des Gehörten nutzen, dabei sachlogische sprachliche Verknüpfungen herstellen,"@de .
-
-<msadsi/6147d70d-4b7d-4a92-ad05-db5f755758b6> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.4" ;
-    skos:prefLabel "Texte inhaltlich und sprachlich überarbeiten: z. B. Textpassagen umstellen, Wirksamkeit und Angemessenheit sprachlicher Gestaltungsmittel prüfen,"@de .
-
-<msadsi/649a3c22-f8ae-4bb6-aa6c-6416c2f734f8> a skos:Concept ;
-    skos:broader <msadsi/d8003e6c-176f-4ab2-a6a2-51e44e460b60> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.3" ;
-    skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken): z.B. Tafel, Folie, Plakat, Moderationskarten."@de .
-
-<msadsi/6619e30c-c03d-4fc2-a8fb-570e1aca7842> a skos:Concept ;
-    skos:broader <msadsi/8699a045-d1f6-4338-88d6-82f6a9758e67> ;
-    skos:inScheme <> ;
-    skos:notation "1.5.1" ;
-    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen,"@de .
-
-<msadsi/669db217-5333-464e-8e5f-eb0534c0256c> a skos:Concept ;
-    skos:broader <msadsi/ee288ca9-0483-43bd-b930-b65e2c1d6507> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.2" ;
-    skos:prefLabel "Rechtschreibstrategien anwenden: z.B. Ableitung vom Wortstamm, Wortverlängerung, Ähnlichkeitsschreibung,"@de .
-
-<msadsi/674bd4d5-b448-4fd6-8651-a56a921af657> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.6" ;
-    skos:prefLabel "Einhaltung orthografischer und grammatischer Normen kontrollieren,"@de .
-
-<msadsi/6810baa8-8ec9-4367-a19c-98f63efa7de0> a skos:Concept ;
-    skos:broader <msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.2" ;
-    skos:prefLabel "Wortbedeutungen klären,"@de .
-
-<msadsi/6b668c58-5676-4e2e-9f0d-04d8226dcfaa> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2.2" ;
-    skos:prefLabel "ein breites Spektrum auch längerer und komplexerer Texte verstehen und im Detail erfassen,"@de .
-
-<msadsi/6d923af3-9942-4349-9e09-a4e5dc4b0b54> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.7" ;
-    skos:prefLabel "ausgewählte Erscheinungen des Sprachwandels kennen und bewerten: z.B. Bedeutungswandel, fremdsprachliche Einflüsse."@de .
-
-<msadsi/6fa68d32-4ec5-439e-9af3-8ec10c48b813> a skos:Concept ;
-    skos:broader <msadsi/a25ebb2c-3d54-4ab0-a8d2-867575efc80b> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1.2" ;
-    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge,"@de .
-
-<msadsi/7226e6a6-f1e6-48f0-8d15-8d20a33e0d80> a skos:Concept ;
-    skos:broader <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.2" ;
-    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen,"@de .
-
-<msadsi/7392b1ba-e2a0-447d-ad6d-5e0ede1d9dab> a skos:Concept ;
-    skos:broader <msadsi/a2fd7b52-a7f5-47af-84a4-580052bd43f5> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.3" ;
-    skos:prefLabel "grammatische Kategorien und ihre Leistungen in situativen und funktionalen Zusammenhängen kennen und nutzen, insbesondere Tempus, Modus (Indikativ, Konjunktiv I/II), Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung."@de .
-
-<msadsi/7c429110-dafb-401a-aa00-8f300faf01ec> a skos:Concept ;
-    skos:broader <msadsi/eebc1b6e-a882-4ed4-b790-3afe81c2d11d> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.1" ;
-    skos:prefLabel "wichtige Regeln der Aussprache und der Orthografie kennen und beim Sprachhandeln berücksichtigen."@de .
-
-<msadsi/7d85f003-6b46-48b7-8174-7d5b72b543bc> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.3" ;
-    skos:prefLabel "Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/ der Autorin bei der Arbeit an Texten aus Gegenwart und Vergangenheit herstellen,"@de .
-
-<msadsi/7f9fa78b-f8c8-4735-a66c-98399e805ee7> a skos:Concept ;
-    skos:broader <msadsi/ee288ca9-0483-43bd-b930-b65e2c1d6507> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.3" ;
-    skos:prefLabel "Nachschlagewerke nutzen."@de .
-
-<msadsi/81024d3d-2069-43f5-b15c-f12953c95349> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.8" ;
-    skos:prefLabel "Präsentationstechniken anwenden: Medien zielgerichtet und sachbezogen einsetzen: z.B. Tafel, Folie, Plakat, PC-Präsentationsprogramm."@de .
-
-<msadsi/85307cce-aa71-417b-aae8-6601f9c6827a> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3.4" ;
-    skos:prefLabel "wesentliche Darstellungsmittel kennen und deren Wirkungen einschätzen,"@de .
-
-<msadsi/858c659b-61fc-4ade-a34e-5c17c4b7cb5b> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.2" ;
-    skos:prefLabel "Arbeitspläne/Konzepte entwerfen, Arbeitsschritte festlegen: Informationen sammeln, ordnen, ergänzen,"@de .
-
-<msadsi/869eafa0-1e3f-4571-a79e-83aec87c2653> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.7" ;
-    skos:prefLabel "Inhalte veranschaulichen: z. B. durch Mindmap, Flussdiagramm,"@de .
-
-<msadsi/86ada08d-90e7-4e8d-b979-37c9ccea9a25> a skos:Concept ;
-    skos:broader <msadsi/a2fd7b52-a7f5-47af-84a4-580052bd43f5> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.2" ;
-    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit, Modalität; Substantiv/Nomen: Benennung; Adjektiv: Qualität,"@de .
-
-<msadsi/8896ba2e-0c57-4f36-a5e6-c937907f5cf5> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.4" ;
-    skos:prefLabel "Texte zusammenfassen: z.B. im Nominalstil, mit Hilfe von Stichwörtern, Symbolen, Farbmarkierungen, Unterstreichungen,"@de .
-
-<msadsi/8a1b8ce9-eebb-4717-a638-5c5b2b2f601c> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.5" ;
-    skos:prefLabel "wesentliche Elemente eines Textes erfassen: z.B. Figuren, Raum- und Zeitdarstellung, Konfliktverlauf,"@de .
-
-<msadsi/8a66947f-b6ac-4833-9e43-1f482cb135b8> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.7" ;
-    skos:prefLabel "mit Textverarbeitungsprogrammen umgehen,"@de .
-
-<msadsi/8aedeb84-68b8-48eb-b84a-7f67c88db62f> a skos:Concept ;
-    skos:broader <msadsi/f7f5bffa-66d0-4e63-a05c-b01fdeceeee8> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.2" ;
-    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze,"@de .
-
-<msadsi/8bc94c98-e1f2-4b63-a6a5-264bf3164775> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3.1" ;
-    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden,"@de .
-
-<msadsi/8cb4ada3-27c7-484e-bd37-d1012c00be72> a skos:Concept ;
-    skos:broader <msadsi/8699a045-d1f6-4338-88d6-82f6a9758e67> ;
-    skos:inScheme <> ;
-    skos:notation "1.5.2" ;
-    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten."@de .
-
-<msadsi/915374c2-46af-4d7e-ad47-3b8a83db34fe> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.5" ;
-    skos:prefLabel "Zitate in den eigenen Text integrieren,"@de .
-
-<msadsi/92ade65a-5e04-493c-b144-a5101f8c8613> a skos:Concept ;
-    skos:broader <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.4" ;
-    skos:prefLabel "die eigene Meinung begründet und nachvollziehbar vertreten,"@de .
-
-<msadsi/936b18b0-321b-4a5a-b556-64816d581223> a skos:Concept ;
-    skos:broader <msadsi/a2fd7b52-a7f5-47af-84a4-580052bd43f5> ;
-    skos:inScheme <> ;
-    skos:notation "4.3.1" ;
-    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil,"@de .
-
-<msadsi/94492765-b6df-4a56-8b1d-306aed8554a6> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.1.9" ;
-    skos:prefLabel "analytische Methoden anwenden: z.B. Texte untersuchen, vergleichen, kommentieren,"@de .
-
-<msadsi/9ade7ec8-8b66-40fb-ba34-003a70853474> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.3" ;
-    skos:prefLabel "Fragen und Arbeitshypothesen formulieren,"@de .
-
-<msadsi/9b03e9d8-db30-4f7c-8509-601622c271c9> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.3.6" ;
-    skos:prefLabel "Informationsmöglichkeiten nutzen: z.B. Informationen zu einem Thema/ Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten (Suchstrategien),"@de .
-
-<msadsi/9c556f6f-b71c-41a4-89a4-cfd43bc89139> a skos:Concept ;
-    skos:broader <msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1" ;
-    skos:prefLabel "Leseerwartungen und -erfahrungen bewusst nutzen,"@de .
-
-<msadsi/a0b182ca-b177-4dba-9823-31c3e4c02677> a skos:Concept ;
-    skos:broader <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.3" ;
-    skos:prefLabel "Nachschlagewerke zur Klärung von Fachbegriffen, Fremdwörtern und Sachfragen heranziehen,"@de .
-
-<msadsi/a20b9012-0f4f-4e63-88fc-6b2d06c1e58c> a skos:Concept ;
-    skos:broader <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.6" ;
-    skos:prefLabel "kriterienorientiert das eigene Gesprächsverhalten und das anderer beobachten, reflektieren und bewerten."@de .
-
-<msadsi/b06c8d92-30fc-4d53-9251-82f1288d91c6> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2.6" ;
+    skos:notation "3.2.2.5" ;
     skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen,"@de .
 
-<msadsi/b1079274-3649-477d-871f-7c231a23e66a> a skos:Concept ;
-    skos:broader <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> ;
+<hsdsi/14cde296-97bf-41d2-81f0-03ca028f1a45> a skos:Concept ;
+    skos:broader <hsdsi/49e4f9b0-47e3-4a82-ad41-ecf3d28253b8> ;
     skos:inScheme <> ;
-    skos:notation "3.3.1.4" ;
-    skos:prefLabel "zentrale Inhalte erschließen,"@de .
+    skos:notation "2.3.3.2" ;
+    skos:prefLabel "Verfahren zur Überprüfung der sprachlichen Richtigkeit kennen und nutzen."@de .
 
-<msadsi/b1c225ef-a911-45ec-9d12-41d581156109> a skos:Concept ;
-    skos:broader <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> ;
+<hsdsi/1503b17d-59bc-4dc4-8bc2-769eec23fb68> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
     skos:inScheme <> ;
-    skos:notation "2.4.1" ;
-    skos:prefLabel "Vorgehensweise aus Aufgabenstellung herleiten,"@de .
+    skos:notation "2.4.6" ;
+    skos:prefLabel "mit Textverarbeitungs- und Mailprogrammen umgehen,"@de .
 
-<msadsi/b1d8a6ee-b60f-4bc6-a2a4-db5dbaab3ab1> a skos:Concept ;
-    skos:broader <msadsi/5e866581-ab5e-49ce-a94f-054f7cffb931> ;
+<hsdsi/1539422e-25d4-436c-972f-83d9c82aee81> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.3" ;
+    skos:prefLabel "Wesentliches notieren,"@de .
+
+<hsdsi/16ef84e5-bae0-4d96-947a-3080e18f7179> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3" ;
+    skos:prefLabel "zitieren, Quellen angeben,"@de .
+
+<hsdsi/17f579ba-bfd9-4e06-87f6-ebbd05c2ec04> a skos:Concept ;
+    skos:broader <hsdsi/c5b0450b-bd89-40b1-9170-9cf154585e35> ;
     skos:inScheme <> ;
     skos:notation "1.4.3" ;
     skos:prefLabel "Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln."@de .
 
-<msadsi/bac0e014-0259-4b68-9e4a-dfa393ee2a47> a skos:Concept ;
-    skos:broader <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> ;
+<hsdsi/1f1a1de8-27ba-4474-aff1-910dc39ceeda> a skos:Concept ;
+    skos:broader <hsdsi/ed67f6e2-d3fd-473e-826a-e70aff50d599> ;
     skos:inScheme <> ;
-    skos:notation "3.3.3.2" ;
-    skos:prefLabel "medienspezifische Formen kennen: z.B. Print- und Online-Zeitungen, Infotainment, Hypertexte, Werbekommunikation, Film,"@de .
+    skos:notation "1.5.2" ;
+    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten."@de .
 
-<msadsi/be14970b-115a-4db2-ba26-730dc0cedb82> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
+<hsdsi/2147afe5-f64e-4918-8772-aa505e0b2815> a skos:Concept ;
+    skos:broader <hsdsi/0b822cb1-01bd-41f6-8e19-a97c49bb9d74> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.4" ;
+    skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken)."@de .
+
+<hsdsi/23f2979d-f955-4de4-b832-329a655a7eb2> a skos:Concept ;
+    skos:broader <hsdsi/0d4259b9-d164-4566-9356-6bba39d3453b> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1.4" ;
+    skos:prefLabel "Stoffsammlung erstellen, Informationen ordnen: z.B. Mindmap."@de .
+
+<hsdsi/28137304-f2f6-4067-8540-c5aa491cb06c> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.10" ;
+    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen."@de .
+
+<hsdsi/286ebd03-bf35-4046-bf90-d45198a2fb07> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.2" ;
+    skos:prefLabel "Arbeitsschritte festlegen,"@de .
+
+<hsdsi/287418da-48f7-440c-b4d1-ae37ba680b3e> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.10" ;
+    skos:prefLabel "eigene Deutungen des Textes entwickeln, mit anderen darüber sprechen und am Text belegen."@de .
+
+<hsdsi/2d94e8ce-3053-461f-a348-680384f075eb> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.5" ;
+    skos:prefLabel "Wortbedeutungen klären,"@de .
+
+<hsdsi/2ed84991-da3c-4cac-889c-20ab50abcec7> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.4" ;
+    skos:prefLabel "zentrale Aussagen erschließen,"@de .
+
+<hsdsi/334c4770-6889-4612-9d1f-639e3970b9ed> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.4" ;
+    skos:prefLabel "Vorwissen und neue Informationen unterscheiden,"@de .
+
+<hsdsi/336718be-4aef-4547-8065-992354a8be55> a skos:Concept ;
+    skos:broader <hsdsi/45ba70b3-8b98-4913-ad16-e20152389081> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.2.1" ;
+    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil,"@de .
+
+<hsdsi/336af9bf-5232-4c42-9dca-5113472be28e> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.2" ;
+    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbungsschreiben, Ausfüllen von Formularen, Schaubild, Diagramm, Tabelle,"@de .
+
+<hsdsi/38b1e923-e6d6-4018-ade4-a500ca382d25> a skos:Concept ;
+    skos:broader <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2.4" ;
+    skos:prefLabel "Intention(en) eines Textes erkennen,"@de .
+
+<hsdsi/3bf31ba7-7fa0-46a8-a6db-e367df05fb61> a skos:Concept ;
+    skos:broader <hsdsi/baa5c332-5f29-4cc7-83d2-83716a5a5333> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.2" ;
+    skos:prefLabel "häufig vorkommende Wörter – auch wichtige Fachbegriffe und Fremdwörter - richtig schreiben,"@de .
+
+<hsdsi/3c7f10f6-1b32-4e6e-8a07-a222ee6d809f> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2" ;
+    skos:prefLabel "recherchieren,"@de .
+
+<hsdsi/3efcca6d-0aa2-442c-a5d3-7cc0a2948f9e> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.6" ;
+    skos:prefLabel "Texte gliedern und Teilüberschriften finden,"@de .
+
+<hsdsi/42ac4d17-d11a-4e27-bdab-e287bc410f8b> a skos:Concept ;
+    skos:broader <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.2" ;
+    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen,"@de .
+
+<hsdsi/43a41053-11b7-484e-b3f8-4e2751b3b83d> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.11" ;
+    skos:prefLabel "begründet Stellung beziehen,"@de .
+
+<hsdsi/43ba2f50-6503-47ce-90a5-f8c8ba993550> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.4" ;
+    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten,"@de .
+
+<hsdsi/469f5ddd-c3d8-43a8-8945-e4b3634867f8> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.7" ;
+    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden: Autor, Erzähler, Monolog, Dialog, Reim,"@de .
+
+<hsdsi/4a1772b8-2502-438e-b931-57edcc05f8ea> a skos:Concept ;
+    skos:broader <hsdsi/5d7ebdf0-d825-461e-ad0d-02849de28cc8> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.3" ;
+    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation,"@de .
+
+<hsdsi/4bfa530e-bcbb-4f38-87f5-f93e2c365152> a skos:Concept ;
+    skos:broader <hsdsi/c5b0450b-bd89-40b1-9170-9cf154585e35> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.2" ;
+    skos:prefLabel "wesentliche Informationen verstehen, wiedergeben und kritisch hinterfragen,"@de .
+
+<hsdsi/4d8bd529-e510-43c8-a456-4c0a3732d6ed> a skos:Concept ;
+    skos:broader <hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.2" ;
+    skos:prefLabel "über einen für die Bewältigung schulischer, beruflicher und gesellschaftlicher Sprechsituationen angemessenen Wortschatz verfügen,"@de .
+
+<hsdsi/5112e3b4-94f9-407b-8de6-b661a872408c> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.5" ;
+    skos:prefLabel "Präsentationstechniken kennen und nutzen: z. B. Tafel, Plakat, Folie"@de .
+
+<hsdsi/51e9412c-e70a-4a46-8d50-5d8f06475fe0> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.7" ;
+    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen."@de .
+
+<hsdsi/5454505c-dfc7-4116-98bd-679de7f6af67> a skos:Concept ;
+    skos:broader <hsdsi/b62a60dd-47eb-491a-ad7f-17d4c2b8be65> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.3" ;
+    skos:prefLabel "grundlegende Regeln der Orthografie und Zeichensetzung kennen und beim Sprachhandeln anwenden."@de .
+
+<hsdsi/54e3dbc7-bf0b-4964-a8b9-d1aad73b3b9e> a skos:Concept ;
+    skos:broader <hsdsi/d27db994-2739-46d2-8ff5-cd653d8734fc> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.1" ;
+    skos:prefLabel "die Klang-, Weglass-, Umstell-, Ersatzprobe anwenden,"@de .
+
+<hsdsi/55632c9c-9205-4a4d-a22d-f8f50f17a84a> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.3" ;
+    skos:prefLabel "an einem repräsentativen Beispiel Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/der Autorin herstellen,"@de .
+
+<hsdsi/56cb0039-21d6-431e-9159-fc5eb50f6df9> a skos:Concept ;
+    skos:broader <hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1" ;
+    skos:prefLabel "sich artikuliert und verständlich in der Standardsprache äußern,"@de .
+
+<hsdsi/58171e6a-c750-4ae6-a884-9db7ce488557> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.7" ;
+    skos:prefLabel "Verfahren zur Textstrukturierung kennen und nutzen: Inhalte zusammenfassen, Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textstellen herstellen, Fragen aus dem Text ableiten und beantworten,"@de .
+
+<hsdsi/588fec8d-ed28-4161-8485-890de92e05ac> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "Lesetechniken und Strategien zum Leseverstehen kennen und anwenden,"@de .
+
+<hsdsi/5893767a-9b03-4700-9d43-918b68e6e727> a skos:Concept ;
+    skos:broader <hsdsi/f1f04261-82ef-45c5-a8cb-815cb15e09be> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1.1" ;
+    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb, Pronomen),"@de .
+
+<hsdsi/58cb7623-0557-423e-b253-a824a0fb0ac2> a skos:Concept ;
+    skos:broader <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3.6" ;
+    skos:prefLabel "Medien für die eigene Produktion kreativ nutzen."@de .
+
+<hsdsi/5b9aba89-dd3f-416d-8be2-a3cba785664c> a skos:Concept ;
+    skos:broader <hsdsi/ed67f6e2-d3fd-473e-826a-e70aff50d599> ;
+    skos:inScheme <> ;
+    skos:notation "1.5.1" ;
+    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen,"@de .
+
+<hsdsi/609b5e30-e6af-4846-91f7-a9bad5938b4f> a skos:Concept ;
+    skos:broader <hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.4" ;
+    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden: erzählen, berichten, informieren, beschreiben, appellieren, argumentieren,"@de .
+
+<hsdsi/610f3703-1962-4139-a1c0-2e9ea50ae44e> a skos:Concept ;
+    skos:broader <hsdsi/45ba70b3-8b98-4913-ad16-e20152389081> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.2.3" ;
+    skos:prefLabel "grammatische Kategorien in situativen und funktionalen Zusammenhängen verwenden: z.B. Tempus, Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung,"@de .
+
+<hsdsi/674498ed-6796-4d28-ba3c-4b7263b4b5df> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.2" ;
+    skos:prefLabel "Bedingungen und Regeln für kommunikative Situationen im Alltag kennen,"@de .
+
+<hsdsi/6759c491-bad9-4c7f-b1d8-1a03d03f1561> a skos:Concept ;
+    skos:broader <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2.3" ;
+    skos:prefLabel "nichtlineare Texte (auch im Zusammenhang mit linearen Texten) auswerten: z.B. Schaubilder,"@de .
+
+<hsdsi/6d761347-d59e-4ded-8096-0b23d712c218> a skos:Concept ;
+    skos:broader <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.5" ;
+    skos:prefLabel "auf Gesprächsbeiträge sachlich und argumentierend eingehen,"@de .
+
+<hsdsi/70f8a33d-05a8-4451-9c38-058fd243dc3c> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.9" ;
+    skos:prefLabel "untersuchende und produktive Methoden kennen und anwenden: z.B. Texte vergleichen, weiterschreiben, Paralleltext verfassen, szenische Umsetzung,"@de .
+
+<hsdsi/711cff9a-fc57-44ec-9744-41878e042609> a skos:Concept ;
+    skos:broader <hsdsi/baa5c332-5f29-4cc7-83d2-83716a5a5333> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.1" ;
+    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung kennen und anwenden,"@de .
+
+<hsdsi/7462abde-13c2-48dd-9fc2-d989916e0b91> a skos:Concept ;
+    skos:broader <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3.5" ;
+    skos:prefLabel "Informationen zu einem Thema/Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten,"@de .
+
+<hsdsi/7649ec60-0900-43c3-b621-bc79bd1d14ad> a skos:Concept ;
+    skos:broader <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3.4" ;
+    skos:prefLabel "Lebenswirklichkeit von Realitätsdarstellungen und der Darstellung fiktionaler Welten in Medien unterscheiden,"@de .
+
+<hsdsi/78036dfe-9979-4292-aaec-941516cb2162> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.12" ;
+    skos:prefLabel "Texte sprachlich gestalten: strukturiert, verständlich und zusammenhängend schreiben,"@de .
+
+<hsdsi/78fd7005-913e-46c0-8465-6979b312ac3a> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.9" ;
+    skos:prefLabel "Argumente finden und formulieren,"@de .
+
+<hsdsi/7d5f3dec-c501-49da-af29-b453ac0e3671> a skos:Concept ;
+    skos:broader <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3.2" ;
+    skos:prefLabel "wesentliche Darstellungsmittel eines Mediums und deren Wirkungen kennen und einschätzen,"@de .
+
+<hsdsi/7df7f28e-2869-4bf5-bb1a-1300cbf09786> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.4" ;
+    skos:prefLabel "Notizen ordnen und zur Weiterarbeit nutzen,"@de .
+
+<hsdsi/80fa7fed-be1e-471f-b252-1bd4c3afd13d> a skos:Concept ;
+    skos:broader <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2.2" ;
+    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, prüfen und ergänzen,"@de .
+
+<hsdsi/818635b8-d7f7-4ca1-9ad2-13be15b0d48c> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.4" ;
+    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: Standardsprache, Umgangssprache; Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache,"@de .
+
+<hsdsi/82ec488c-8d43-4628-a63e-341b001a7c44> a skos:Concept ;
+    skos:broader <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3.1" ;
+    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden: z.B. im Internet,"@de .
+
+<hsdsi/84d89ff0-b310-403a-ac3b-99d8838c0911> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.2" ;
+    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden und wesentliche Merkmale kennen, insbesondere epische Kleinformen, Erzählung, Kurzgeschichte, Gedichte,"@de .
+
+<hsdsi/890c87f9-3f5b-4645-ab87-a14f1714ed8a> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.5" ;
+    skos:prefLabel "kreative Schreibformen nutzen: z.B. Figurengeschichten, Verwandlungsgeschichten, Schreiben zu Bildern,"@de .
+
+<hsdsi/8ae18457-386a-42fe-8e59-6fa89ec7ff51> a skos:Concept ;
+    skos:broader <hsdsi/f1f04261-82ef-45c5-a8cb-815cb15e09be> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1.3" ;
+    skos:prefLabel "Bedeutungsebene (semantische Mittel): Synonyme; Schlüsselwörter; Oberbegriff/Unterbegriff,"@de .
+
+<hsdsi/8dcf71f8-b7ba-4d32-af59-b55926dbc62e> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
     skos:inScheme <> ;
     skos:notation "1.6.2" ;
-    skos:prefLabel "Gesprächsformen moderieren, leiten, beobachten, reflektieren,"@de .
+    skos:prefLabel "Redestrategien einsetzen: z.B. Anknüpfungen formulieren,"@de .
 
-<msadsi/c1f30364-747c-4acf-b572-996d26d0c567> a skos:Concept ;
-    skos:broader <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> ;
+<hsdsi/8f922073-c28d-4067-89e4-beff640bc5e7> a skos:Concept ;
+    skos:broader <hsdsi/0b822cb1-01bd-41f6-8e19-a97c49bb9d74> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.3" ;
+    skos:prefLabel "Kurzvorträge/Referate mit Hilfe eines Stichwortzettels/einer Gliederung halten: z.B. von einem Praktikum berichten, über einen Arbeitsplatz informieren, ein Buch/einen Film vorstellen,"@de .
+
+<hsdsi/935b1c70-73e8-4a93-85ed-b4a267659525> a skos:Concept ;
+    skos:broader <hsdsi/c5b0450b-bd89-40b1-9170-9cf154585e35> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.1" ;
+    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen,"@de .
+
+<hsdsi/968da512-c06f-46f6-9600-3d59c45b039d> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.8" ;
+    skos:prefLabel "Arbeitsergebnisse zielgerichtet und sachbezogen präsentieren z.B. mit Folie, Plakat, PC."@de .
+
+<hsdsi/974a12b5-f9cc-4aad-92b3-7b6a398e164c> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.7" ;
+    skos:prefLabel "Schreibkonferenzen durchführen,"@de .
+
+<hsdsi/98afd24a-4ded-43a3-affb-c5271758925e> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.6" ;
+    skos:prefLabel "Inhalte verkürzt wiedergeben,"@de .
+
+<hsdsi/9ef4a608-afe0-4dd6-b97b-f4f3e18197d7> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.1" ;
+    skos:prefLabel "gedanklich geordnet schreiben,"@de .
+
+<hsdsi/9f783364-7f3d-476d-ac99-e2363e478262> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.6" ;
+    skos:prefLabel "Handlung und Verhaltensweisen beschreiben und werten,"@de .
+
+<hsdsi/a69e1d01-ff81-43c9-988a-7fa0353542a8> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.8" ;
+    skos:prefLabel "wesentliche Gestaltungsmittel untersuchen und darstellen,"@de .
+
+<hsdsi/ae704471-62c8-4851-982e-958bb5502ebb> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.6" ;
+    skos:prefLabel "Lesehilfen nutzen: z.B. Textsorte, Aufbau, Überschrift, Illustration, Layout,"@de .
+
+<hsdsi/b8621986-2a82-40ac-8c32-89956c9b9f40> a skos:Concept ;
+    skos:broader <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.7" ;
+    skos:prefLabel "wesentliche Informationen aus linearen und nichtlinearen Texten zusammenfassen,"@de .
+
+<hsdsi/bae0940a-a857-4754-9642-88607d1f64a4> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.5" ;
+    skos:prefLabel "unterschiedliche Informationsquellen nutzen,"@de .
+
+<hsdsi/bbd2d919-3ed8-416c-9b5b-9566d34cbdc5> a skos:Concept ;
+    skos:broader <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.3" ;
+    skos:prefLabel "Gesprächsregeln einhalten,"@de .
+
+<hsdsi/c17361b8-6920-4d96-99f6-cb725c9fba5d> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.2" ;
+    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv,"@de .
+
+<hsdsi/c1b7f8d8-60fc-47ea-bc59-3d91a0eebef6> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.7" ;
+    skos:prefLabel "Unterschiede und Gemeinsamkeiten verschiedener Sprachen wahrnehmen."@de .
+
+<hsdsi/c41c009d-ebfc-4920-aa33-f36e9b670a5f> a skos:Concept ;
+    skos:broader <hsdsi/f1f04261-82ef-45c5-a8cb-815cb15e09be> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1.2" ;
+    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge,"@de .
+
+<hsdsi/c564cf50-28c0-42ba-b0d0-90957f5c832b> a skos:Concept ;
+    skos:broader <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> ;
     skos:inScheme <> ;
     skos:notation "1.3.1" ;
     skos:prefLabel "sich konstruktiv an einem Gespräch beteiligen,"@de .
 
-<msadsi/c20a4eca-7aaa-44b1-a381-a3421642b40b> a skos:Concept ;
-    skos:broader <msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5> ;
+<hsdsi/c85d8652-c308-4c9a-ae89-cbce8e9b2df1> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
     skos:inScheme <> ;
-    skos:notation "1.1.3" ;
-    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden, insbesondere erzählen, berichten, informieren, beschreiben, schildern, appellieren, argumentieren, erörtern,"@de .
+    skos:notation "2.4.3" ;
+    skos:prefLabel "Texte formal gestalten/überarbeiten: z.B. Blattaufteilung, Rand, Absätze, Schriftbild,"@de .
 
-<msadsi/c44a7240-1473-4c73-bc2d-aa1dfb2c9833> a skos:Concept ;
-    skos:broader <msadsi/d0a5a932-fce4-4c23-b449-c0e12d8803e3> ;
+<hsdsi/c90ab6a4-13b5-45bc-b954-d2b5a254a437> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
     skos:inScheme <> ;
-    skos:notation "2.2.2" ;
-    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und mit Hilfe von Rechtschreibstrategien abbauen, insbesondere Nachschlagen, Ableiten, Wortverwandtschaften suchen, grammatisches Wissen anwenden."@de .
+    skos:notation "3.1.3" ;
+    skos:prefLabel "die eigenen Leseziele kennen,"@de .
 
-<msadsi/c6ca9fd2-077b-49f8-9a3e-589eb6efa5d4> a skos:Concept ;
-    skos:broader <msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5> ;
+<hsdsi/c997178a-e829-4adf-ab7f-6a6ad96c0287> a skos:Concept ;
+    skos:broader <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> ;
     skos:inScheme <> ;
-    skos:notation "1.1.2" ;
-    skos:prefLabel "über einen umfangreichen und differenzierten Wortschatz verfügen,"@de .
+    skos:notation "1.3.4" ;
+    skos:prefLabel "die eigene Meinung begründet vertreten,"@de .
 
-<msadsi/cae8908a-a5f0-42fa-9b12-0ee8489925c0> a skos:Concept ;
-    skos:broader <msadsi/936b2450-3b28-4c21-989d-5ced80a8d50a> ;
+<hsdsi/cc89b85c-29ef-4a0e-b929-033563a961ab> a skos:Concept ;
+    skos:broader <hsdsi/5d7ebdf0-d825-461e-ad0d-02849de28cc8> ;
     skos:inScheme <> ;
-    skos:notation "2.3.3.2" ;
-    skos:prefLabel "Strategien zur Überprüfung der sprachlichen Richtigkeit und Rechtschreibung anwenden."@de .
+    skos:notation "2.1.1" ;
+    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben,"@de .
 
-<msadsi/cbff51f9-dc25-40b8-aa33-25a72f1d193e> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
+<hsdsi/cdb6b991-ce70-41eb-8b4b-dac7ef56271c> a skos:Concept ;
+    skos:broader <hsdsi/0b822cb1-01bd-41f6-8e19-a97c49bb9d74> ;
     skos:inScheme <> ;
-    skos:notation "1.6.8" ;
-    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen."@de .
+    skos:notation "1.2.1" ;
+    skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen,"@de .
 
-<msadsi/ce79cfad-a74a-4f2b-88b1-85532688be84> a skos:Concept ;
-    skos:broader <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> ;
+<hsdsi/ceabfc30-de67-4c0c-8d49-8617436139ec> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
     skos:inScheme <> ;
-    skos:notation "4.1.3" ;
-    skos:prefLabel "grundlegende Textfunktionen erfassen, insbesondere Information (z.B. Zeitungsmeldung), Regulierung (z.B. Gesetzestext), Appell (z.B. Werbeanzeige), Kontakt (z.B. Beschwerde), Selbstdarstellung (z.B. Tagebuch); ästhetische Funktion (z.B. Gedicht),"@de .
+    skos:notation "4.1.5" ;
+    skos:prefLabel "Sprechweisen unterscheiden und ihre Wirkung einschätzen: z.B. abwertend, gehoben,"@de .
 
-<msadsi/d3c6dd7f-1db2-4c94-a262-995c76dccf3e> a skos:Concept ;
-    skos:broader <msadsi/51623104-3afe-473b-a26c-7d9e198caace> ;
+<hsdsi/cfc9dd9f-bcf2-4654-8371-a84af2ff6a94> a skos:Concept ;
+    skos:broader <hsdsi/d27db994-2739-46d2-8ff5-cd653d8734fc> ;
     skos:inScheme <> ;
-    skos:notation "2.3.2.5" ;
-    skos:prefLabel "Texte sprachlich gestalten"@de .
+    skos:notation "4.3.2" ;
+    skos:prefLabel "Verfahren der Fehlerkontrolle: z.B. Nachschlagetechniken, gliederndes Mitsprechen."@de .
 
-<msadsi/d888cc1b-80e3-4b45-a9e4-354098b6222a> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
+<hsdsi/d0f2849c-9ffb-4e7f-90a1-d866b0648896> a skos:Concept ;
+    skos:broader <hsdsi/5d7ebdf0-d825-461e-ad0d-02849de28cc8> ;
     skos:inScheme <> ;
-    skos:notation "3.3.2.7" ;
-    skos:prefLabel "Information und Wertung in Texten unterscheiden."@de .
+    skos:notation "2.1.2" ;
+    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze,"@de .
 
-<msadsi/db1aebb7-ca1d-43b1-8142-a0cbf5b4ad33> a skos:Concept ;
-    skos:broader <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.5" ;
-    skos:prefLabel "auf Gegenpositionen sachlich und argumentierend eingehen,"@de .
-
-<msadsi/dde30d17-3af3-4612-b9eb-e952aa339c1f> a skos:Concept ;
-    skos:broader <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2.5" ;
-    skos:prefLabel "Intention(en) eines Textes erkennen, insbesondere Zusammenhang zwischen Autorintention(en), Textmerkmalen, Leseerwartungen und Wirkungen,"@de .
-
-<msadsi/e73b7fb2-616c-4e64-913d-dad561e7e8da> a skos:Concept ;
-    skos:broader <msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5> ;
+<hsdsi/d2c1e3fc-0ed9-4e38-8aeb-971addc0b6cd> a skos:Concept ;
+    skos:broader <hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327> ;
     skos:inScheme <> ;
     skos:notation "1.1.5" ;
-    skos:prefLabel "unterschiedliche Sprechsituationen gestalten, insbesondere Vorstellungsgespräch/Bewerbungsgespräch; Antragstellung, Beschwerde, Entschuldigung; Gesprächsleitung."@de .
+    skos:prefLabel "Wirkungen der Redeweise kennen und beachten: Lautstärke, Betonung, Sprechtempo, Stimmführung, Körpersprache (Gestik/Mimik)."@de .
 
-<msadsi/ee0d83ba-509c-4505-8228-72ad8d09f63c> a skos:Concept ;
-    skos:broader <msadsi/d8003e6c-176f-4ab2-a6a2-51e44e460b60> ;
+<hsdsi/d6f067ab-27ad-4ae4-8605-d4525cff5c03> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.8" ;
+    skos:prefLabel "Wörterbücher und Nachschlagewerke nutzen,"@de .
+
+<hsdsi/d82e3694-89af-4a1d-b584-4c27fe98db5d> a skos:Concept ;
+    skos:broader <hsdsi/0b822cb1-01bd-41f6-8e19-a97c49bb9d74> ;
     skos:inScheme <> ;
     skos:notation "1.2.2" ;
-    skos:prefLabel "längere freie Redebeiträge leisten, Kurzdarstellungen und Referate frei vortragen: ggf. mit Hilfe eines Stichwortzettels/einer Gliederung,"@de .
+    skos:prefLabel "freie Redebeiträge leisten,"@de .
 
-<msadsi/f06548cd-3389-4c46-aa52-a64e5719e1ee> a skos:Concept ;
-    skos:broader <msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5> ;
+<hsdsi/d965eb36-6be5-466f-bad4-4fdf6a7c8f87> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
     skos:inScheme <> ;
-    skos:notation "1.1.4" ;
-    skos:prefLabel "Wirkungen der Redeweise kennen, beachten und situations- sowie adressatengerecht anwenden: Lautstärke, Betonung, Sprechtempo, Klangfarbe, Stimmführung; Körpersprache (Gestik, Mimik),"@de .
+    skos:notation "3.3.1" ;
+    skos:prefLabel "mit Nachschlagewerken umgehen können,"@de .
 
-<msadsi/f1d1010a-ae8c-44ee-97d7-6553089a66f3> a skos:Concept ;
-    skos:broader <msadsi/51623104-3afe-473b-a26c-7d9e198caace> ;
+<hsdsi/dcd3e0af-39d2-4fd1-8f7e-7932f35746cc> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
     skos:inScheme <> ;
-    skos:notation "2.3.2.4" ;
-    skos:prefLabel "Ergebnisse einer Textuntersuchung darstellen: z.B."@de .
+    skos:notation "2.4.4" ;
+    skos:prefLabel "Texte optisch gestalten,"@de .
 
-<msadsi/f28754d0-2a71-4fe9-9cbd-28e808398c02> a skos:Concept ;
-    skos:broader <msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91> ;
+<hsdsi/dd6bbfed-6f26-4877-87f2-bf4af6de02c0> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
     skos:inScheme <> ;
-    skos:notation "3.2.4" ;
-    skos:prefLabel "Verfahren zur Textstrukturierung kennen und selbstständig anwenden: z.B. Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textteilen herstellen, Fragen aus dem Text ableiten und beantworten,"@de .
+    skos:notation "3.2.1.1" ;
+    skos:prefLabel "aktuelle und klassische Werke der Jugendliteratur und altersangemessene Texte bedeutender Autorinnen und Autoren kennen,"@de .
 
-<msadsi/fb138a16-c3b2-415c-b196-88c4fbbf4568> a skos:Concept ;
-    skos:broader <msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91> ;
+<hsdsi/de90c88c-f9f9-43d0-84b9-7e911b769df6> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
     skos:inScheme <> ;
-    skos:notation "3.2.5" ;
-    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: z.B. Aussagen erklären und konkretisieren, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen."@de .
+    skos:notation "3.3.7" ;
+    skos:prefLabel "Inhalte mit eigenen Worten zusammenfassend wiedergeben,"@de .
 
-<msadsi/fc8c774a-52f9-43c2-9c41-ebb972acca72> a skos:Concept ;
-    skos:broader <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> ;
+<hsdsi/e0580577-d4f9-4d4a-bf3c-fe3d5ff6d3b4> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
     skos:inScheme <> ;
-    skos:notation "1.6.5" ;
-    skos:prefLabel "eine Mitschrift anfertigen,"@de .
+    skos:notation "3.2.1.8" ;
+    skos:prefLabel "grundlegende Gestaltungsmittel erkennen und ihre Wirkungen einschätzen: z.B. Wortwahl, Wiederholung, sprachliche Bilder,"@de .
 
-<msadsi/fe8e2672-282f-4a0c-b88d-71a9a7d6b2ae> a skos:Concept ;
-    skos:broader <msadsi/936b2450-3b28-4c21-989d-5ced80a8d50a> ;
+<hsdsi/e06d3168-20d4-447d-b1c7-74b3347df54a> a skos:Concept ;
+    skos:broader <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.8" ;
+    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: Aussagen erklären, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen."@de .
+
+<hsdsi/e10dde40-2db7-48b0-b190-21a18da5e6c6> a skos:Concept ;
+    skos:broader <hsdsi/0d4259b9-d164-4566-9356-6bba39d3453b> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1.3" ;
+    skos:prefLabel "Informationsquellen nutzen: z.B. Bibliotheken, Nachschlagewerke, Zeitungen, Internet,"@de .
+
+<hsdsi/e15839f4-cdcd-4516-bc3e-248e36876ab6> a skos:Concept ;
+    skos:broader <hsdsi/0d4259b9-d164-4566-9356-6bba39d3453b> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1.1" ;
+    skos:prefLabel "den Schreibauftrag verstehen,"@de .
+
+<hsdsi/e94acbfa-3574-4b70-9faa-1b034ad6ccac> a skos:Concept ;
+    skos:broader <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1.5" ;
+    skos:prefLabel "wesentliche Elemente eines Textes erfassen: Figuren, Raum- und Zeitdarstellung, Konfliktverlauf,"@de .
+
+<hsdsi/ec95af14-1da6-4ab5-bbc2-a54b00fbf880> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.3" ;
+    skos:prefLabel "grundlegende Textfunktionen erfassen: Information (z.B. Zeitungsmeldung), Appell (z.B. Werbeanzeige), Kontakt (z.B. Bewerbung, Beschwerde); ästhetische Funktion (z.B. Gedicht),"@de .
+
+<hsdsi/ece10919-fea1-440b-995c-295b534c840f> a skos:Concept ;
+    skos:broader <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.6" ;
+    skos:prefLabel "das eigene Gesprächsverhalten und das anderer kriterienorientiert beobachten und bewerten."@de .
+
+<hsdsi/efb5b57c-ba0d-4e40-b4a3-9a45ed7fa453> a skos:Concept ;
+    skos:broader <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2.1" ;
+    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: informieren (z.B. Lexikontext), appellieren (z.B. Werbetext), regulieren (z.B. Jugendschutzgesetz, Arbeitsvertrag), instruieren (z.B. Bedienungsanleitung),"@de .
+
+<hsdsi/efb894c0-a444-4779-b221-9c64741c417f> a skos:Concept ;
+    skos:broader <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.5" ;
+    skos:prefLabel "Stichwörter formulieren,"@de .
+
+<hsdsi/f05eac5d-06fc-45b6-b87d-5a7f037a83d4> a skos:Concept ;
+    skos:broader <hsdsi/5d7ebdf0-d825-461e-ad0d-02849de28cc8> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.4" ;
+    skos:prefLabel "Formulare ausfüllen."@de .
+
+<hsdsi/f20698ac-4f30-4972-ba0b-5990e62ba5ee> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.1" ;
+    skos:prefLabel "verschiedene Gesprächsformen praktizieren: z.B. Diskussion, Streitgespräch, Arbeitsgespräch,"@de .
+
+<hsdsi/f45bc559-8e34-40e7-8dd8-c678ebec58f8> a skos:Concept ;
+    skos:broader <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.1" ;
+    skos:prefLabel "Notizen machen, Stichpunkte sammeln und ordnen,"@de .
+
+<hsdsi/f52c0d17-65d0-4c75-b684-c76db748929f> a skos:Concept ;
+    skos:broader <hsdsi/baa5c332-5f29-4cc7-83d2-83716a5a5333> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.3" ;
+    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und Fehler durch Anwendung von Rechtschreibstrategien vermeiden: z.B. Ableiten, Wortverwandtschaften suchen, grammatisches Wissen nutzen."@de .
+
+<hsdsi/f900142e-1713-47e4-801e-948d5b5acb86> a skos:Concept ;
+    skos:broader <hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.3" ;
+    skos:prefLabel "sich in unterschiedlichen Sprechsituationen sach- und situationsgerecht verhalten: Vorstellungsgespräch/Bewerbungsgespräch, Antragstellung, Bitte, Aufforderung, Beschwerde, Entschuldigung, Dank,"@de .
+
+<hsdsi/fa6d4a78-34b5-4e92-8cbb-9b27904e7f3e> a skos:Concept ;
+    skos:broader <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.1" ;
+    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene unterscheiden,"@de .
+
+<hsdsi/fbc5231b-9b06-4c25-83e2-7ba530319570> a skos:Concept ;
+    skos:broader <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2.6" ;
+    skos:prefLabel "Information und Wertung in Texten unterscheiden: z.B. in Zeitungen."@de .
+
+<hsdsi/fc09c1f4-8ed3-4a91-af68-049c0813f347> a skos:Concept ;
+    skos:broader <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.6" ;
+    skos:prefLabel "Video-Feedback nutzen,"@de .
+
+<msadsi/0372f075-7aaf-4793-885c-8da00098eec3> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.2" ;
+    skos:prefLabel "Gesprächsformen moderieren, leiten, beobachten, reflektieren,"@de .
+
+<msadsi/07adaf6d-5cd7-4222-ab1b-565bbebd1e02> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.5" ;
+    skos:prefLabel "Inhalte mit eigenen Worten wiedergeben, Randbemerkungen setzen,"@de .
+
+<msadsi/0a2af279-d8ec-4fcb-9398-050f39e76deb> a skos:Concept ;
+    skos:broader <msadsi/acd84a67-c773-4174-8862-478e6d21f578> ;
     skos:inScheme <> ;
     skos:notation "2.3.3.1" ;
     skos:prefLabel "Aufbau, Inhalt und Formulierungen eigener Texte hinsichtlich der Aufgabenstellung überprüfen (Schreibsituation, Schreibanlass),"@de .
 
-<msadsi/3166ed30-7f92-4727-ade0-5afccc939a1e> a skos:Concept ;
-    skos:broader <msadsi/c430c75f-2299-43a7-b4b0-3c35e730637d> ;
+<msadsi/0a77e885-0ef2-42cc-9dcb-bf455a627afe> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/37277608-17aa-4c56-a967-399bf1e64277> ;
-    skos:notation "3.1" ;
-    skos:prefLabel "verschiedene Lesetechniken beherrschen"@de .
+    skos:notation "4.1.7" ;
+    skos:prefLabel "ausgewählte Erscheinungen des Sprachwandels kennen und bewerten: z.B. Bedeutungswandel, fremdsprachliche Einflüsse."@de .
 
-<msadsi/eebc1b6e-a882-4ed4-b790-3afe81c2d11d> a skos:Concept ;
-    skos:broader <msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc> ;
+<msadsi/0bdc995c-0f6a-498a-b8dc-43994eb3e0ef> a skos:Concept ;
+    skos:broader <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/7c429110-dafb-401a-aa00-8f300faf01ec> ;
+    skos:notation "1.3.2" ;
+    skos:prefLabel "durch gezieltes Fragen notwendige Informationen beschaffen,"@de .
+
+<msadsi/0e3fc2e0-f1c0-4999-87b4-043266800479> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.5" ;
+    skos:prefLabel "zwischen eigentlicher Wirklichkeit und virtuellen Welten in Medien unterscheiden: z.B. Fernsehserien, Computerspiele,"@de .
+
+<msadsi/11080822-dda9-4643-9c78-a4a8e0583d94> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.1" ;
+    skos:prefLabel "Exzerpieren, Zitieren, Quellen angeben,"@de .
+
+<msadsi/13878fdb-5876-41f2-a778-a60ce03f3aa1> a skos:Concept ;
+    skos:broader <msadsi/e9c88880-b3be-4096-a340-b721b990c07a> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.2" ;
+    skos:prefLabel "Texte dem Zweck entsprechend und adressatengerecht gestalten, sinnvoll aufbauen und strukturieren: z.B. Blattaufteilung, Rand, Absätze,"@de .
+
+<msadsi/14352e27-5f8f-402d-a5a6-ceec13f1c3f0> a skos:Concept ;
+    skos:broader <msadsi/a85bb529-8798-4896-95e0-6a4591338c1f> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.2" ;
+    skos:prefLabel "über einen umfangreichen und differenzierten Wortschatz verfügen,"@de .
+
+<msadsi/1d69cf69-4705-4ca8-a660-8d4b05d08c48> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.1" ;
+    skos:prefLabel "ein Spektrum altersangemessener Werke – auch Jugendliteratur – bedeutender Autorinnen und Autoren kennen,"@de .
+
+<msadsi/22a96700-f85c-48a8-b1b2-e400fc8d5e64> a skos:Concept ;
+    skos:broader <msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.3" ;
+    skos:prefLabel "Textschemata erfassen: z.B. Textsorte, Aufbau des Textes,"@de .
+
+<msadsi/23652b21-9439-4419-9153-d153f4964e57> a skos:Concept ;
+    skos:broader <msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1" ;
+    skos:prefLabel "Leseerwartungen und -erfahrungen bewusst nutzen,"@de .
+
+<msadsi/2458f4c8-31f5-4721-aaf7-8aaa42fd0974> a skos:Concept ;
+    skos:broader <msadsi/78efee00-c537-434a-b669-6de354b5670f> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.1" ;
+    skos:prefLabel "grammatische Proben anwenden: Klang-, Weglass-, Ersatz- und Umstellprobe,"@de .
+
+<msadsi/2b62fdbf-dd49-4e3a-ac8d-609ebdc0a010> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.3" ;
+    skos:prefLabel "Intentionen und Wirkungen erkennen und bewerten,"@de .
+
+<msadsi/2fae4cf7-5bf3-4507-b274-e071000c67d1> a skos:Concept ;
+    skos:broader <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.3" ;
+    skos:prefLabel "Gesprächsregeln einhalten,"@de .
+
+<msadsi/301361ec-9745-4451-953f-3b3628effcdd> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.4" ;
+    skos:prefLabel "zentrale Inhalte erschließen,"@de .
+
+<msadsi/38539cb7-6406-403b-940b-498a3d58da0b> a skos:Concept ;
+    skos:broader <msadsi/e9c88880-b3be-4096-a340-b721b990c07a> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.3" ;
+    skos:prefLabel "Textverarbeitungsprogramme und ihre Möglichkeiten nutzen: z.B. Formatierung, Präsentation,"@de .
+
+<msadsi/39b802d0-ba2c-4535-a8d4-f82b1de0baba> a skos:Concept ;
+    skos:broader <msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.5" ;
+    skos:prefLabel "Verfahren zur Textaufnahme kennen und nutzen: z.B. Aussagen erklären und konkretisieren, Stichwörter formulieren, Texte und Textabschnitte zusammenfassen."@de .
+
+<msadsi/3f003ff8-1d4b-4a91-9fc5-1d6f347774e0> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.10" ;
+    skos:prefLabel "produktive Methoden anwenden: z.B. Perspektivenwechsel: innerer Monolog, Brief in der Rolle einer literarischen Figur; szenische Umsetzung, Paralleltext, weiterschreiben, in eine andere Textsorte umschreiben,"@de .
+
+<msadsi/3fc07394-81eb-41f3-ac54-8dbb0c35adf2> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.3" ;
+    skos:prefLabel "Informationen zielgerichtet entnehmen, ordnen, vergleichen, prüfen und ergänzen,"@de .
+
+<msadsi/402e7551-c57a-4463-8a3c-3443c8b26520> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.5" ;
+    skos:prefLabel "eine Mitschrift anfertigen,"@de .
+
+<msadsi/4156f0fb-54c4-471d-99de-f4c2fa949302> a skos:Concept ;
+    skos:broader <msadsi/e9c88880-b3be-4096-a340-b721b990c07a> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.4" ;
+    skos:prefLabel "Formulare ausfüllen."@de .
+
+<msadsi/424ea538-2f6d-413d-9ab9-6b532b566665> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.2" ;
+    skos:prefLabel "ein breites Spektrum auch längerer und komplexerer Texte verstehen und im Detail erfassen,"@de .
+
+<msadsi/48f2e2a4-d7d3-4a1b-ab3f-2da06690115d> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.5" ;
+    skos:prefLabel "Intention(en) eines Textes erkennen, insbesondere Zusammenhang zwischen Autorintention(en), Textmerkmalen, Leseerwartungen und Wirkungen,"@de .
+
+<msadsi/4c0b6f0e-fe12-4864-8da1-cf655e73b487> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.4" ;
+    skos:prefLabel "wesentliche Darstellungsmittel kennen und deren Wirkungen einschätzen,"@de .
+
+<msadsi/4c2a8d33-a5d8-4048-9530-fced07fd2fba> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.9" ;
+    skos:prefLabel "Portfolio (selbst verfasste und für gut befundene Texte, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) anlegen und nutzen."@de .
+
+<msadsi/4f7d1d69-8dd5-4b03-bbea-73bdb45ca415> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.4" ;
+    skos:prefLabel "sich gezielt sachgerechte Stichwörter aufschreiben,"@de .
+
+<msadsi/50d14836-2a32-4139-8c4e-ead1d3116cee> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.6" ;
+    skos:prefLabel "Texte gliedern und Teilüberschriften finden,"@de .
+
+<msadsi/51c47824-d447-4f85-871a-7765ae8cbb9b> a skos:Concept ;
+    skos:broader <msadsi/253aa7ec-82e9-4cd3-ba9d-197704b1c9db> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1.2" ;
+    skos:prefLabel "Satzebene (syntaktische Mittel): Satzarten; Satzreihe, Satzgefüge,"@de .
+
+<msadsi/52ff03bd-c0fd-4322-8c49-2a696dd229ec> a skos:Concept ;
+    skos:broader <msadsi/b37a995f-4da2-42fe-ba2b-0bd6fc615e65> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.1" ;
+    skos:prefLabel "Gesprächsbeiträge anderer verfolgen und aufnehmen,"@de .
+
+<msadsi/5431b191-a298-4168-bd94-faa1918d682f> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.3" ;
+    skos:prefLabel "grundlegende Textfunktionen erfassen, insbesondere Information (z.B. Zeitungsmeldung), Regulierung (z.B. Gesetzestext), Appell (z.B. Werbeanzeige), Kontakt (z.B. Beschwerde), Selbstdarstellung (z.B. Tagebuch); ästhetische Funktion (z.B. Gedicht),"@de .
+
+<msadsi/5908d8c0-953e-4662-81c9-5b25010f5297> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.5" ;
+    skos:prefLabel "Mehrsprachigkeit (Schülerinnen und Schüler mit anderer Muttersprache und Fremdsprachenlernen) zur Entwicklung der Sprachbewusstheit und zum Sprachvergleich nutzen,"@de .
+
+<msadsi/5a422a44-6311-4a7b-95c4-9f731760947c> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.5" ;
+    skos:prefLabel "Zitate in den eigenen Text integrieren,"@de .
+
+<msadsi/5b181ee0-de01-495e-ad09-19eea69c4132> a skos:Concept ;
+    skos:broader <msadsi/26757f5d-6940-401e-907b-eb374a6ba1d9> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.1" ;
+    skos:prefLabel "wichtige Regeln der Aussprache und der Orthografie kennen und beim Sprachhandeln berücksichtigen."@de .
+
+<msadsi/5b82057a-e39d-4a81-b63f-fbf388a1d578> a skos:Concept ;
+    skos:broader <msadsi/253aa7ec-82e9-4cd3-ba9d-197704b1c9db> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1.1" ;
+    skos:prefLabel "Wortebene (morphologische Mittel): Beziehungswörter (z.B. Konjunktion, Adverb), Zusammensetzung und Ableitung von Wörtern,"@de .
+
+<msadsi/5c8d1ceb-57fd-426b-936a-dc4e14f79386> a skos:Concept ;
+    skos:broader <msadsi/b37a995f-4da2-42fe-ba2b-0bd6fc615e65> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.3" ;
+    skos:prefLabel "Aufmerksamkeit für verbale und nonverbale Äußerungen (z.B. Stimmführung, Körpersprache) entwickeln."@de .
+
+<msadsi/60805877-d10a-4cb0-ab40-0d3ea4db2414> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.2" ;
+    skos:prefLabel "Arbeitspläne/Konzepte entwerfen, Arbeitsschritte festlegen: Informationen sammeln, ordnen, ergänzen,"@de .
+
+<msadsi/6097dfc9-50dd-4f6c-b119-040ef040a279> a skos:Concept ;
+    skos:broader <msadsi/70403325-7186-4f6d-b6f8-467fd0a299ec> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.1" ;
+    skos:prefLabel "Satzstrukturen kennen und funktional verwenden: Hauptsatz, Nebensatz/Gliedsatz, Satzglied, Satzgliedteil,"@de .
+
+<msadsi/62ac99c8-4833-483f-b308-85bab9524696> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.6" ;
+    skos:prefLabel "Informationsmöglichkeiten nutzen: z.B. Informationen zu einem Thema/ Problem in unterschiedlichen Medien suchen, vergleichen, auswählen und bewerten (Suchstrategien),"@de .
+
+<msadsi/68d05d5f-ee21-422c-b098-783f6f9e11a1> a skos:Concept ;
+    skos:broader <msadsi/a85bb529-8798-4896-95e0-6a4591338c1f> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.5" ;
+    skos:prefLabel "unterschiedliche Sprechsituationen gestalten, insbesondere Vorstellungsgespräch/Bewerbungsgespräch; Antragstellung, Beschwerde, Entschuldigung; Gesprächsleitung."@de .
+
+<msadsi/68e29b20-4fc5-474b-b8bf-5547b06b5202> a skos:Concept ;
+    skos:broader <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.4" ;
+    skos:prefLabel "die eigene Meinung begründet und nachvollziehbar vertreten,"@de .
+
+<msadsi/69731329-222b-4249-b626-5b1ff2abd9da> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.7" ;
+    skos:prefLabel "Inhalte veranschaulichen: z. B. durch Mindmap, Flussdiagramm,"@de .
+
+<msadsi/6a7b9209-ad92-45fb-bcd0-91a79b9d66b2> a skos:Concept ;
+    skos:broader <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.2" ;
+    skos:prefLabel "zentrale Schreibformen beherrschen und sachgerecht nutzen: informierende (berichten, beschreiben, schildern), argumentierende (erörtern, kommentieren), appellierende, untersuchende (analysieren, interpretieren), gestaltende (erzählen, kreativ schreiben),"@de .
+
+<msadsi/6bb6aaac-b50a-4d42-85ac-91d5094918fc> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.9" ;
+    skos:prefLabel "analytische Methoden anwenden: z.B. Texte untersuchen, vergleichen, kommentieren,"@de .
+
+<msadsi/6d05a250-1bec-411d-9d57-e26a7c53088b> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.3" ;
+    skos:prefLabel "Fragen und Arbeitshypothesen formulieren,"@de .
+
+<msadsi/6d1e6d56-3dfe-4c27-9daf-fbdad15c31ec> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.6" ;
+    skos:prefLabel "Notizen selbstständig strukturieren und Notizen zur Reproduktion des Gehörten nutzen, dabei sachlogische sprachliche Verknüpfungen herstellen,"@de .
+
+<msadsi/6d90ce9b-d5c8-43a6-851c-271677a9ba48> a skos:Concept ;
+    skos:broader <msadsi/13f7c42c-7e78-4ab8-b89c-6174c2b77a84> ;
+    skos:inScheme <> ;
+    skos:notation "1.5.2" ;
+    skos:prefLabel "Texte (medial unterschiedlich vermittelt) szenisch gestalten."@de .
+
+<msadsi/6df2a19b-5105-493a-b989-3795e7b40f43> a skos:Concept ;
+    skos:broader <msadsi/38d120f0-5f87-4bbc-9980-eb2ed0d45815> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.3" ;
+    skos:prefLabel "verschiedene Medien für die Darstellung von Sachverhalten nutzen (Präsentationstechniken): z.B. Tafel, Folie, Plakat, Moderationskarten."@de .
+
+<msadsi/70696716-df90-44fc-a95b-7e09336f6873> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.11" ;
+    skos:prefLabel "Handlungen, Verhaltensweisen und Verhaltensmotive bewerten."@de .
+
+<msadsi/725bc8bf-c594-4174-8c52-54c737e1bc81> a skos:Concept ;
+    skos:broader <msadsi/253aa7ec-82e9-4cd3-ba9d-197704b1c9db> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1.3" ;
+    skos:prefLabel "Bedeutungsebene (semantische Mittel): z.B. Synonyme, Antonyme; Schlüsselwörter; Oberbegriff/Unterbegriff; ausgewählte rhetorische Mittel,"@de .
+
+<msadsi/74d211f7-3c1d-4e75-9827-a9c4920e7af5> a skos:Concept ;
+    skos:broader <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.3" ;
+    skos:prefLabel "produktive Schreibformen nutzen: z.B. umschreiben, weiterschreiben, ausgestalten,"@de .
+
+<msadsi/75ec3582-37c0-4372-bb68-2e53850aab9f> a skos:Concept ;
+    skos:broader <msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.2" ;
+    skos:prefLabel "Wortbedeutungen klären,"@de .
+
+<msadsi/77398804-8ad3-4c2e-b3fc-7e8cc1952ab0> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.7" ;
+    skos:prefLabel "sprachliche Gestaltungsmittel in ihren Wirkungszusammenhängen und in ihrer historischen Bedingtheit erkennen: z.B. Wort-, Satz- und Gedankenfiguren, Bildsprache (Metaphern),"@de .
+
+<msadsi/77b8a8f9-ab83-4837-be2c-edfa4fa00a26> a skos:Concept ;
+    skos:broader <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.6" ;
+    skos:prefLabel "Texte mit Hilfe von neuen Medien verfassen: z.B. E-Mails, Chatroom."@de .
+
+<msadsi/79c7ef7b-d02e-4a56-8b8c-1d6c3c70fbbf> a skos:Concept ;
+    skos:broader <msadsi/1d1be609-2f36-4703-b440-e7dcc5ec57c2> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.1" ;
+    skos:prefLabel "Grundregeln der Rechtschreibung und Zeichensetzung sicher beherrschen und häufig vorkommende Wörter, Fachbegriffe und Fremdwörter richtig schreiben,"@de .
+
+<msadsi/7d5669f5-24a8-4ff0-9dba-d3cd004ff8ae> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.1" ;
+    skos:prefLabel "verschiedene Textfunktionen und Textsorten unterscheiden: z.B. informieren: Nachricht; appellieren: Kommentar, Rede; regulieren: Gesetz, Vertrag; instruieren: Gebrauchsanweisung,"@de .
+
+<msadsi/7e264b70-f3aa-41a8-a6cd-c61183b68f24> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.2" ;
+    skos:prefLabel "medienspezifische Formen kennen: z.B. Print- und Online-Zeitungen, Infotainment, Hypertexte, Werbekommunikation, Film,"@de .
+
+<msadsi/8423de34-9d07-4397-be84-011941ca4123> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.6" ;
+    skos:prefLabel "aus Sach- und Gebrauchstexten begründete Schlussfolgerungen ziehen,"@de .
+
+<msadsi/88e4e695-1d96-45b9-8740-aefa41311b30> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.7" ;
+    skos:prefLabel "Medien zur Präsentation und ästhetischen Produktion nutzen."@de .
+
+<msadsi/8bd1c722-3335-4582-bcfc-68c96b2961d7> a skos:Concept ;
+    skos:broader <msadsi/78efee00-c537-434a-b669-6de354b5670f> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.2" ;
+    skos:prefLabel "Rechtschreibstrategien anwenden: z.B. Ableitung vom Wortstamm, Wortverlängerung, Ähnlichkeitsschreibung,"@de .
+
+<msadsi/8bef978c-8a6f-4c5f-886c-6ad9a2b9afce> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.6" ;
+    skos:prefLabel "wesentliche Fachbegriffe zur Erschließung von Literatur kennen und anwenden, insbesondere Erzähler, Erzählperspektive, Monolog, Dialog, sprachliche Bilder, Metapher, Reim, lyrisches Ich,"@de .
+
+<msadsi/8cbd7299-6489-4632-9443-da6f2df9ad56> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.8" ;
+    skos:prefLabel "eigene Deutungen des Textes entwickeln, am Text belegen und sich mit anderen darüber verständigen,"@de .
+
+<msadsi/8ee5ef2d-047a-4d66-a779-4d427cacd144> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.1" ;
+    skos:prefLabel "Vorgehensweise aus Aufgabenstellung herleiten,"@de .
+
+<msadsi/8f6e9fe5-b216-4942-a050-d7461bac21b0> a skos:Concept ;
+    skos:broader <msadsi/a85bb529-8798-4896-95e0-6a4591338c1f> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.1" ;
+    skos:prefLabel "sich artikuliert, verständlich, sach- und situationsangemessen äußern,"@de .
+
+<msadsi/94779f9e-94e7-4511-8fad-664e9bdb1c18> a skos:Concept ;
+    skos:broader <msadsi/5494298f-803c-4a93-bd4c-a99bddd6ad7d> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1.1" ;
+    skos:prefLabel "gemäß den Aufgaben und der Zeitvorgabe einen Schreibplan erstellen, sich für die angemessene Textsorte entscheiden und Texte ziel-, adressaten- und situationsbezogen, ggf. materialorientiert konzipieren,"@de .
+
+<msadsi/9486a0e3-0d87-4606-8c70-709203428a67> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.8" ;
+    skos:prefLabel "Schreibkonferenzen/Schreibwerkstatt durchführen,"@de .
+
+<msadsi/96969251-2ed0-47e4-a2c7-99b808ada92c> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.7" ;
+    skos:prefLabel "Information und Wertung in Texten unterscheiden."@de .
+
+<msadsi/99895b78-16f6-4977-92f9-80b822efdef8> a skos:Concept ;
+    skos:broader <msadsi/5494298f-803c-4a93-bd4c-a99bddd6ad7d> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1.2" ;
+    skos:prefLabel "Informationsquellen gezielt nutzen, insbesondere Bibliotheken, Nachschlagewerke, Zeitungen, Internet,"@de .
+
+<msadsi/9a8d83dc-3157-4f91-9cbf-f06861056b75> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.5" ;
+    skos:prefLabel "wesentliche Elemente eines Textes erfassen: z.B. Figuren, Raum- und Zeitdarstellung, Konfliktverlauf,"@de .
+
+<msadsi/9abd3684-b4fa-421c-8715-0519054fd04e> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.1" ;
+    skos:prefLabel "verschiedene Gesprächsformen praktizieren, z.B. Dialoge, Streitgespräche, Diskussionen, Rollendiskussionen, Debatten vorbereiten und durchführen,"@de .
+
+<msadsi/9d267171-a90a-4df9-8c2d-b2dfe31e3465> a skos:Concept ;
+    skos:broader <msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.4" ;
+    skos:prefLabel "Verfahren zur Textstrukturierung kennen und selbstständig anwenden: z.B. Zwischenüberschriften formulieren, wesentliche Textstellen kennzeichnen, Bezüge zwischen Textteilen herstellen, Fragen aus dem Text ableiten und beantworten,"@de .
+
+<msadsi/9eea623b-d28b-4084-a5a0-a4f135b809f8> a skos:Concept ;
+    skos:broader <msadsi/38d120f0-5f87-4bbc-9980-eb2ed0d45815> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.2" ;
+    skos:prefLabel "längere freie Redebeiträge leisten, Kurzdarstellungen und Referate frei vortragen: ggf. mit Hilfe eines Stichwortzettels/einer Gliederung,"@de .
+
+<msadsi/a27b853a-297f-4065-8e93-17383cb808fc> a skos:Concept ;
+    skos:broader <msadsi/5001e6fe-ce1b-44c1-a97a-bf179b02e3e8> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.2" ;
+    skos:prefLabel "Möglichkeiten der Textstrukturierung kennen und nutzen."@de .
+
+<msadsi/a4a9623e-6b34-4207-ab9f-32e1d91e5df0> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.2" ;
+    skos:prefLabel "epische, lyrische, dramatische Texte unterscheiden, insbesondere epische Kleinformen, Novelle, längere Erzählung, Kurzgeschichte, Roman, Schauspiel, Gedichte,"@de .
+
+<msadsi/a822d695-2a04-46a6-a134-8a4f8aedfdb5> a skos:Concept ;
+    skos:broader <msadsi/1d1be609-2f36-4703-b440-e7dcc5ec57c2> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.2" ;
+    skos:prefLabel "individuelle Fehlerschwerpunkte erkennen und mit Hilfe von Rechtschreibstrategien abbauen, insbesondere Nachschlagen, Ableiten, Wortverwandtschaften suchen, grammatisches Wissen anwenden."@de .
+
+<msadsi/ad96029e-0722-4efe-ae12-f306a4db1557> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.3" ;
+    skos:prefLabel "Redestrategien einsetzen: z.B. Fünfsatz, Anknüpfungen formulieren, rhetorische Mittel verwenden,"@de .
+
+<msadsi/af7d3f24-75b8-4d26-8c11-eb6c66ab9ba6> a skos:Concept ;
+    skos:broader <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3.1" ;
+    skos:prefLabel "Informations- und Unterhaltungsfunktion unterscheiden,"@de .
+
+<msadsi/b0423970-fc65-4973-b289-c185d214a60c> a skos:Concept ;
+    skos:broader <msadsi/b37a995f-4da2-42fe-ba2b-0bd6fc615e65> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.2" ;
+    skos:prefLabel "wesentliche Aussagen aus umfangreichen gesprochenen Texten verstehen, diese Informationen sichern und wiedergeben,"@de .
+
+<msadsi/b15336df-7a3f-4730-a269-5911a0e33cc3> a skos:Concept ;
+    skos:broader <msadsi/13f7c42c-7e78-4ab8-b89c-6174c2b77a84> ;
+    skos:inScheme <> ;
+    skos:notation "1.5.1" ;
+    skos:prefLabel "eigene Erlebnisse, Haltungen, Situationen szenisch darstellen,"@de .
+
+<msadsi/b1c19670-e5fa-4117-a13e-c95e9ad3522f> a skos:Concept ;
+    skos:broader <msadsi/56eae45f-fad8-4cc3-bbb9-f52bee95a189> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "über grundlegende Lesefertigkeiten verfügen: flüssig, sinnbezogen, überfliegend, selektiv, navigierend (z.B. Bild-Ton-Text integrierend) lesen."@de .
+
+<msadsi/b1cfe3cc-c335-4aeb-a86a-9c271e0c6761> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.2" ;
+    skos:prefLabel "beim Sprachhandeln einen differenzierten Wortschatz gebrauchen einschließlich umgangssprachlicher und idiomatischer Wendungen in Kenntnis des jeweiligen Zusammenhangs,"@de .
+
+<msadsi/b4819426-cca4-4ba1-9cf0-7872d68a626a> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.8" ;
+    skos:prefLabel "Präsentationstechniken anwenden: Medien zielgerichtet und sachbezogen einsetzen: z.B. Tafel, Folie, Plakat, PC-Präsentationsprogramm."@de .
+
+<msadsi/b5c3da9f-0a3e-4331-be25-940c9a09f8bc> a skos:Concept ;
+    skos:broader <msadsi/38d120f0-5f87-4bbc-9980-eb2ed0d45815> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.1" ;
+    skos:prefLabel "Texte sinngebend und gestaltend vorlesen und (frei) vortragen,"@de .
+
+<msadsi/b63704f3-935d-414f-bd97-e1ef851d67e8> a skos:Concept ;
+    skos:broader <msadsi/e9c88880-b3be-4096-a340-b721b990c07a> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.1" ;
+    skos:prefLabel "Texte in gut lesbarer handschriftlicher Form und in einem der Situation entsprechenden Tempo schreiben,"@de .
+
+<msadsi/b74ddba5-b387-421f-8a67-93c071ecb78a> a skos:Concept ;
+    skos:broader <msadsi/a85bb529-8798-4896-95e0-6a4591338c1f> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.3" ;
+    skos:prefLabel "verschiedene Formen mündlicher Darstellung unterscheiden und anwenden, insbesondere erzählen, berichten, informieren, beschreiben, schildern, appellieren, argumentieren, erörtern,"@de .
+
+<msadsi/ba2eb856-056c-4037-8926-525425fb1e3a> a skos:Concept ;
+    skos:broader <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.6" ;
+    skos:prefLabel "kriterienorientiert das eigene Gesprächsverhalten und das anderer beobachten, reflektieren und bewerten."@de .
+
+<msadsi/c43d0229-9240-43c5-a34d-24e440e88801> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.7" ;
+    skos:prefLabel "mit Textverarbeitungsprogrammen umgehen,"@de .
+
+<msadsi/c6cafa4f-f974-4b8b-9378-4ed8689729a7> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.4" ;
+    skos:prefLabel "„Sprachen in der Sprache“ kennen und in ihrer Funktion unterscheiden: z.B. Standardsprache, Umgangssprache, Dialekt; Gruppensprachen, Fachsprachen; gesprochene und geschriebene Sprache,"@de .
+
+<msadsi/cca7a3b1-5b2d-4639-a8af-79fe88d50481> a skos:Concept ;
+    skos:broader <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2.4" ;
+    skos:prefLabel "nichtlineare Texte auswerten: z.B. Schaubilder,"@de .
+
+<msadsi/ccc9c9c2-043b-4a45-ad84-a14c42ea8fce> a skos:Concept ;
+    skos:broader <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.4" ;
+    skos:prefLabel "Ergebnisse einer Textuntersuchung darstellen: z.B."@de .
+
+<msadsi/cd1dfd09-75b7-4714-bae9-251a91e211c2> a skos:Concept ;
+    skos:broader <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.5" ;
+    skos:prefLabel "Texte sprachlich gestalten"@de .
+
+<msadsi/cd260110-f27e-466e-a909-707aeff92593> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.4" ;
+    skos:prefLabel "Texte inhaltlich und sprachlich überarbeiten: z. B. Textpassagen umstellen, Wirksamkeit und Angemessenheit sprachlicher Gestaltungsmittel prüfen,"@de .
+
+<msadsi/d04ac07e-0d02-47ee-863b-eeef0a0faf83> a skos:Concept ;
+    skos:broader <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.5" ;
+    skos:prefLabel "auf Gegenpositionen sachlich und argumentierend eingehen,"@de .
+
+<msadsi/d47487ba-59e3-4c9a-968a-3cbef25b9787> a skos:Concept ;
+    skos:broader <msadsi/5494298f-803c-4a93-bd4c-a99bddd6ad7d> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.1.3" ;
+    skos:prefLabel "Stoffsammlung erstellen, ordnen und eine Gliederung anfertigen: z.B. numerische Gliederung, Cluster, Ideenstern, Mindmap, Flussdiagramm."@de .
+
+<msadsi/d92f5f4d-8d60-471d-bb36-2ca1c492fd73> a skos:Concept ;
+    skos:broader <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.6" ;
+    skos:prefLabel "Einhaltung orthografischer und grammatischer Normen kontrollieren,"@de .
+
+<msadsi/d981ae82-cd43-4f37-86b5-60ee490ac1f7> a skos:Concept ;
+    skos:broader <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.1" ;
+    skos:prefLabel "sich konstruktiv an einem Gespräch beteiligen,"@de .
+
+<msadsi/dbc41f51-4297-4ab9-a1cd-14a03075240d> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.8" ;
+    skos:prefLabel "Portfolio (Sammlung und Vereinbarungen über Gesprächsregeln, Kriterienlisten, Stichwortkonzepte, Selbsteinschätzungen, Beobachtungsbögen von anderen, vereinbarte Lernziele etc.) nutzen."@de .
+
+<msadsi/e1e9a454-3387-4a57-8746-f25afee2ad15> a skos:Concept ;
+    skos:broader <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> ;
+    skos:inScheme <> ;
+    skos:notation "1.6.7" ;
+    skos:prefLabel "Video-Feedback nutzen,"@de .
+
+<msadsi/e465fe4c-cac4-4759-9504-50746502bc1e> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.1" ;
+    skos:prefLabel "beim Sprachhandeln die Inhalts- und Beziehungsebene im Zusammenhang mit den Grundfaktoren sprachlicher Kommunikation erkennen und berücksichtigen: gelingende bzw. misslingende Kommunikation; öffentliche bzw. private Kommunikationssituationen,"@de .
+
+<msadsi/e70d1efb-da69-4d11-9f05-db4035e2080e> a skos:Concept ;
+    skos:broader <msadsi/70403325-7186-4f6d-b6f8-467fd0a299ec> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.3" ;
+    skos:prefLabel "grammatische Kategorien und ihre Leistungen in situativen und funktionalen Zusammenhängen kennen und nutzen, insbesondere Tempus, Modus (Indikativ, Konjunktiv I/II), Aktiv/Passiv; Genus, Numerus, Kasus; Steigerung."@de .
+
+<msadsi/eb168f03-a7a3-4251-9c6a-226fece04728> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.2" ;
+    skos:prefLabel "Wesentliches hervorheben und Zusammenhänge verdeutlichen,"@de .
+
+<msadsi/ee720b25-3261-457b-b640-99f3abc08afe> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.3" ;
+    skos:prefLabel "Nachschlagewerke zur Klärung von Fachbegriffen, Fremdwörtern und Sachfragen heranziehen,"@de .
+
+<msadsi/eeeb9149-f3ae-4291-a16d-ba9e3c954258> a skos:Concept ;
+    skos:broader <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.6" ;
+    skos:prefLabel "Sprechweisen unterscheiden und beachten: z.B. gehoben, derb; abwertend, ironisch,"@de .
+
+<msadsi/ef65e12e-f993-45a0-9a91-d8ecd1e21acf> a skos:Concept ;
+    skos:broader <msadsi/70403325-7186-4f6d-b6f8-467fd0a299ec> ;
+    skos:inScheme <> ;
+    skos:notation "4.3.2" ;
+    skos:prefLabel "Wortarten kennen und funktional gebrauchen: z.B. Verb: Zeitlichkeit, Modalität; Substantiv/Nomen: Benennung; Adjektiv: Qualität,"@de .
+
+<msadsi/f001eee0-ee2e-4875-86f2-42a35ca99073> a skos:Concept ;
+    skos:broader <msadsi/a85bb529-8798-4896-95e0-6a4591338c1f> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.4" ;
+    skos:prefLabel "Wirkungen der Redeweise kennen, beachten und situations- sowie adressatengerecht anwenden: Lautstärke, Betonung, Sprechtempo, Klangfarbe, Stimmführung; Körpersprache (Gestik, Mimik),"@de .
+
+<msadsi/f0f4d2a3-ed5b-4863-95a3-da38b02441bf> a skos:Concept ;
+    skos:broader <msadsi/78efee00-c537-434a-b669-6de354b5670f> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.3" ;
+    skos:prefLabel "Nachschlagewerke nutzen."@de .
+
+<msadsi/f43d705e-5e82-479a-a9a7-5b3c1c5494c6> a skos:Concept ;
+    skos:broader <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.4" ;
+    skos:prefLabel "Texte zusammenfassen: z.B. im Nominalstil, mit Hilfe von Stichwörtern, Symbolen, Farbmarkierungen, Unterstreichungen,"@de .
+
+<msadsi/f839f5ce-e98b-4d53-bc6b-d808bf70d34a> a skos:Concept ;
+    skos:broader <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.2.1" ;
+    skos:prefLabel "formalisierte lineare Texte/nichtlineare Texte verfassen: z.B. sachlicher Brief, Lebenslauf, Bewerbung, Bewerbungsschreiben, Protokoll, Annonce/Ausfüllen von Formularen, Diagramm, Schaubild, Statistik,"@de .
+
+<msadsi/f9ea4e00-1dc5-4e15-b212-7ce8abc84fed> a skos:Concept ;
+    skos:broader <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1.3" ;
+    skos:prefLabel "Zusammenhänge zwischen Text, Entstehungszeit und Leben des Autors/ der Autorin bei der Arbeit an Texten aus Gegenwart und Vergangenheit herstellen,"@de .
+
+<msadsi/fd34bf5d-9526-4bc8-9aef-fc0b515a56d9> a skos:Concept ;
+    skos:broader <msadsi/acd84a67-c773-4174-8862-478e6d21f578> ;
+    skos:inScheme <> ;
+    skos:notation "2.3.3.2" ;
+    skos:prefLabel "Strategien zur Überprüfung der sprachlichen Richtigkeit und Rechtschreibung anwenden."@de .
+
+<msadsi/26757f5d-6940-401e-907b-eb374a6ba1d9> a skos:Concept ;
+    skos:broader <msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/5b181ee0-de01-495e-ad09-19eea69c4132> ;
     skos:notation "4.4" ;
     skos:prefLabel "Laut-Buchstaben-Beziehungen kennen und reflektieren"@de .
 
-<hsdsi/0d82c62a-c349-446d-8472-61c197711cd5> a skos:Concept ;
-    skos:broader <hsdsi/be641b1f-d269-4dfc-9b14-85d85195533d> ;
+<msadsi/56eae45f-fad8-4cc3-bbb9-f52bee95a189> a skos:Concept ;
+    skos:broader <msadsi/0a560557-5843-4ee6-bbe1-ef05e7f462e3> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/011e6533-c83a-4db6-bac6-1930a4c6776b>,
-        <hsdsi/c6b476c1-2003-4cf9-aae1-5f6453ab54e5> ;
+    skos:narrower <msadsi/b1c19670-e5fa-4117-a13e-c95e9ad3522f> ;
+    skos:notation "3.1" ;
+    skos:prefLabel "verschiedene Lesetechniken beherrschen"@de .
+
+<hsdsi/49e4f9b0-47e3-4a82-ad41-ecf3d28253b8> a skos:Concept ;
+    skos:broader <hsdsi/c23e347d-9d66-4841-8c1e-af509d1c3d1b> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/0e5ee768-e834-4496-8407-e15c3c744d23>,
+        <hsdsi/14cde296-97bf-41d2-81f0-03ca028f1a45> ;
     skos:notation "2.3.3" ;
     skos:prefLabel "Texte überarbeiten"@de .
 
-<hsdsi/600ba16c-b17a-4032-8c83-82f6b6211cac> a skos:Concept ;
-    skos:broader <hsdsi/ebfaf77e-fa68-4a9a-8541-46cecab208b2> ;
+<hsdsi/d27db994-2739-46d2-8ff5-cd653d8734fc> a skos:Concept ;
+    skos:broader <hsdsi/66f26c32-3c91-463b-af20-48cbefb45a79> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/e974d56f-2369-4165-bd3b-710566991c5c>,
-        <hsdsi/ebf005d6-e116-46f2-8739-fb4b169a8180> ;
+    skos:narrower <hsdsi/54e3dbc7-bf0b-4964-a8b9-d1aad73b3b9e>,
+        <hsdsi/cfc9dd9f-bcf2-4654-8371-a84af2ff6a94> ;
     skos:notation "4.3" ;
     skos:prefLabel "Methoden und Arbeitstechniken"@de .
 
-<hsdsi/6689a49b-2462-4a49-8eab-e70f09f1a704> a skos:Concept ;
-    skos:broader <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> ;
+<hsdsi/ed67f6e2-d3fd-473e-826a-e70aff50d599> a skos:Concept ;
+    skos:broader <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/99020313-c0ee-42ae-acad-bfb300114557>,
-        <hsdsi/cd17f6fe-e7c4-4e9a-8aa6-529325f4382e> ;
+    skos:narrower <hsdsi/1f1a1de8-27ba-4474-aff1-910dc39ceeda>,
+        <hsdsi/5b9aba89-dd3f-416d-8be2-a3cba785664c> ;
     skos:notation "1.5" ;
     skos:prefLabel "mit anderen sprechen"@de .
 
-<msadsi/8699a045-d1f6-4338-88d6-82f6a9758e67> a skos:Concept ;
-    skos:broader <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> ;
+<msadsi/13f7c42c-7e78-4ab8-b89c-6174c2b77a84> a skos:Concept ;
+    skos:broader <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/6619e30c-c03d-4fc2-a8fb-570e1aca7842>,
-        <msadsi/8cb4ada3-27c7-484e-bd37-d1012c00be72> ;
+    skos:narrower <msadsi/6d90ce9b-d5c8-43a6-851c-271677a9ba48>,
+        <msadsi/b15336df-7a3f-4730-a269-5911a0e33cc3> ;
     skos:notation "1.5" ;
     skos:prefLabel "szenisch spielen"@de .
 
-<msadsi/8fff5ae5-5c05-410b-9f4d-2d971ba1a331> a skos:Concept ;
-    skos:broader <msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc> ;
+<msadsi/1d1be609-2f36-4703-b440-e7dcc5ec57c2> a skos:Concept ;
+    skos:broader <msadsi/438cca75-71e1-400f-a827-b2a79c268a1f> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/321dd3f0-80a5-48e7-9773-b02831b31fc3>,
-        <msadsi/a25ebb2c-3d54-4ab0-a8d2-867575efc80b> ;
+    skos:narrower <msadsi/79c7ef7b-d02e-4a56-8b8c-1d6c3c70fbbf>,
+        <msadsi/a822d695-2a04-46a6-a134-8a4f8aedfdb5> ;
+    skos:notation "2.2" ;
+    skos:prefLabel "richtig schreiben"@de .
+
+<msadsi/5001e6fe-ce1b-44c1-a97a-bf179b02e3e8> a skos:Concept ;
+    skos:broader <msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/253aa7ec-82e9-4cd3-ba9d-197704b1c9db>,
+        <msadsi/a27b853a-297f-4065-8e93-17383cb808fc> ;
     skos:notation "4.2" ;
     skos:prefLabel "Textbeschaffenheit analysieren und reflektieren"@de .
 
-<msadsi/936b2450-3b28-4c21-989d-5ced80a8d50a> a skos:Concept ;
-    skos:broader <msadsi/86ca1b8c-0931-471d-b0e6-3bcb5a79ce3b> ;
+<msadsi/acd84a67-c773-4174-8862-478e6d21f578> a skos:Concept ;
+    skos:broader <msadsi/9bf34c65-f36c-4638-899c-3b7d7c566097> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/cae8908a-a5f0-42fa-9b12-0ee8489925c0>,
-        <msadsi/fe8e2672-282f-4a0c-b88d-71a9a7d6b2ae> ;
+    skos:narrower <msadsi/0a2af279-d8ec-4fcb-9398-050f39e76deb>,
+        <msadsi/fd34bf5d-9526-4bc8-9aef-fc0b515a56d9> ;
     skos:notation "2.3.3" ;
     skos:prefLabel "Texte überarbeiten"@de .
 
-<msadsi/d0a5a932-fce4-4c23-b449-c0e12d8803e3> a skos:Concept ;
-    skos:broader <msadsi/aaa7287a-d6b5-467d-8442-07bbd1914cee> ;
+<hsdsi/45ba70b3-8b98-4913-ad16-e20152389081> a skos:Concept ;
+    skos:broader <hsdsi/b62a60dd-47eb-491a-ad7f-17d4c2b8be65> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/43c164c5-1df1-4892-a917-ccf413f1fa5e>,
-        <msadsi/c44a7240-1473-4c73-bc2d-aa1dfb2c9833> ;
-    skos:notation "2.2" ;
-    skos:prefLabel "richtig schreiben"@de .
-
-<hsdsi/02540613-2281-4d79-a831-a92236d7987d> a skos:Concept ;
-    skos:broader <hsdsi/df12dbf8-006c-4e54-bb07-cca629bc3d3d> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/928ad33b-aa56-4c80-bac2-d49a739e450d>,
-        <hsdsi/9aaec23e-a6f8-4658-b089-31a3032044e5>,
-        <hsdsi/d2fc40dd-b22b-4b4c-869a-6cb6ac239f86> ;
+    skos:narrower <hsdsi/031d3e51-4e1c-478a-8093-1b619c69f0e6>,
+        <hsdsi/336718be-4aef-4547-8065-992354a8be55>,
+        <hsdsi/610f3703-1962-4139-a1c0-2e9ea50ae44e> ;
     skos:notation "4.2.2" ;
     skos:prefLabel "Leistungen von Sätzen und Wortarten kennen und für Sprechen und Schreiben nutzen:"@de .
 
-<hsdsi/0e2b8f04-fb85-4873-be54-24126b54b439> a skos:Concept ;
+<hsdsi/66f26c32-3c91-463b-af20-48cbefb45a79> a skos:Concept ;
     skos:broader <hsdsi> ;
-    skos:definition "mit Texten und Medien umgehen"@de ;
+    skos:definition ""@de ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/8014418c-9085-487c-933b-d7138754f5af>,
-        <hsdsi/9e43167c-5151-4975-851b-87d2318755c4>,
-        <hsdsi/f8d06079-4b47-488e-ac03-17730336a430> ;
-    skos:notation "3" ;
-    skos:prefLabel "Lesen"@de .
+    skos:narrower <hsdsi/b62a60dd-47eb-491a-ad7f-17d4c2b8be65>,
+        <hsdsi/d27db994-2739-46d2-8ff5-cd653d8734fc>,
+        <hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> ;
+    skos:notation "4" ;
+    skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de .
 
-<hsdsi/6f31e66f-c85c-443b-8ad1-45125756c68b> a skos:Concept ;
-    skos:broader <hsdsi/df12dbf8-006c-4e54-bb07-cca629bc3d3d> ;
+<hsdsi/79d24974-cb45-4e1f-b98b-7cc515539ae5> a skos:Concept ;
+    skos:broader <hsdsi/dbf5b667-b711-489c-9561-cd622244a0cb> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/2d8ed5d0-6010-4e41-b38f-f634e5a347a8>,
-        <hsdsi/a05c61a9-dbde-4fb3-8af3-c663be729cf7>,
-        <hsdsi/f770239f-6543-4dee-9032-044a3a0df6cc> ;
-    skos:notation "4.2.1" ;
-    skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhanges kennen und anwenden:"@de .
+    skos:narrower <hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2>,
+        <hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358>,
+        <hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> ;
+    skos:notation "3.2" ;
+    skos:prefLabel "Texte verstehen und nutzen"@de .
 
-<hsdsi/7cbb461a-20c5-4b11-a79e-2e5583457ac1> a skos:Concept ;
-    skos:broader <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> ;
+<hsdsi/b62a60dd-47eb-491a-ad7f-17d4c2b8be65> a skos:Concept ;
+    skos:broader <hsdsi/66f26c32-3c91-463b-af20-48cbefb45a79> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/65355a3f-6aee-4f23-a858-024d8fc3772e>,
-        <hsdsi/856c1fd9-e0c5-459a-b219-d68c4704a924>,
-        <hsdsi/a1c991b8-f897-4039-8e0b-31dfac3e6604> ;
-    skos:notation "1.4" ;
-    skos:prefLabel "mit anderen sprechen"@de .
-
-<hsdsi/884eb6cd-4517-4e52-a088-e91ee15739a0> a skos:Concept ;
-    skos:broader <hsdsi/4a13226f-2e35-4544-9f69-49afd0e5d06e> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/412fab90-8636-4c6c-8ee8-2d914f5a922d>,
-        <hsdsi/ce2018cb-5517-48c3-a661-d81271d1d90a>,
-        <hsdsi/d61fa4f4-1dc5-41b3-bd95-7e0dda8ba4b1> ;
-    skos:notation "2.2" ;
-    skos:prefLabel "richtig schreiben"@de .
-
-<hsdsi/be641b1f-d269-4dfc-9b14-85d85195533d> a skos:Concept ;
-    skos:broader <hsdsi/4a13226f-2e35-4544-9f69-49afd0e5d06e> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/0d82c62a-c349-446d-8472-61c197711cd5>,
-        <hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135>,
-        <hsdsi/fdcfe52b-6979-4e1b-bec2-c5992e76d38e> ;
-    skos:notation "2.3" ;
-    skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten"@de .
-
-<hsdsi/df12dbf8-006c-4e54-bb07-cca629bc3d3d> a skos:Concept ;
-    skos:broader <hsdsi/ebfaf77e-fa68-4a9a-8541-46cecab208b2> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/02540613-2281-4d79-a831-a92236d7987d>,
-        <hsdsi/6f31e66f-c85c-443b-8ad1-45125756c68b>,
-        <hsdsi/ef649716-37d2-473a-8a18-9906e3188070> ;
+    skos:narrower <hsdsi/45ba70b3-8b98-4913-ad16-e20152389081>,
+        <hsdsi/5454505c-dfc7-4116-98bd-679de7f6af67>,
+        <hsdsi/f1f04261-82ef-45c5-a8cb-815cb15e09be> ;
     skos:notation "4.2" ;
     skos:prefLabel "Textbeschaffenheit analysieren und reflektieren"@de .
 
-<hsdsi/ebfaf77e-fa68-4a9a-8541-46cecab208b2> a skos:Concept ;
-    skos:broader <hsdsi> ;
-    skos:definition ""@de ;
+<hsdsi/baa5c332-5f29-4cc7-83d2-83716a5a5333> a skos:Concept ;
+    skos:broader <hsdsi/8bb7f0cf-3a3c-452a-ac65-2e43e90b00c0> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/600ba16c-b17a-4032-8c83-82f6b6211cac>,
-        <hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02>,
-        <hsdsi/df12dbf8-006c-4e54-bb07-cca629bc3d3d> ;
-    skos:notation "4" ;
-    skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de .
+    skos:narrower <hsdsi/3bf31ba7-7fa0-46a8-a6db-e367df05fb61>,
+        <hsdsi/711cff9a-fc57-44ec-9744-41878e042609>,
+        <hsdsi/f52c0d17-65d0-4c75-b684-c76db748929f> ;
+    skos:notation "2.2" ;
+    skos:prefLabel "richtig schreiben"@de .
 
-<hsdsi/f8d06079-4b47-488e-ac03-17730336a430> a skos:Concept ;
-    skos:broader <hsdsi/0e2b8f04-fb85-4873-be54-24126b54b439> ;
+<hsdsi/c23e347d-9d66-4841-8c1e-af509d1c3d1b> a skos:Concept ;
+    skos:broader <hsdsi/8bb7f0cf-3a3c-452a-ac65-2e43e90b00c0> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274>,
-        <hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3>,
-        <hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> ;
-    skos:notation "3.2" ;
-    skos:prefLabel "Texte verstehen und nutzen"@de .
-
-<msadsi/264be196-875d-42d0-ada6-f4dabd5ecf74> a skos:Concept ;
-    skos:broader <msadsi/c430c75f-2299-43a7-b4b0-3c35e730637d> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa>,
-        <msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70>,
-        <msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> ;
-    skos:notation "3.3" ;
-    skos:prefLabel "Texte verstehen und nutzen"@de .
-
-<msadsi/5e866581-ab5e-49ce-a94f-054f7cffb931> a skos:Concept ;
-    skos:broader <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/091479ba-9cf5-4a82-916b-939b380c0c53>,
-        <msadsi/3ae2f9ea-3698-4e41-a9f7-bbde4d0479a0>,
-        <msadsi/b1d8a6ee-b60f-4bc6-a2a4-db5dbaab3ab1> ;
-    skos:notation "1.4" ;
-    skos:prefLabel "verstehend zuhören"@de .
-
-<msadsi/86ca1b8c-0931-471d-b0e6-3bcb5a79ce3b> a skos:Concept ;
-    skos:broader <msadsi/aaa7287a-d6b5-467d-8442-07bbd1914cee> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/51623104-3afe-473b-a26c-7d9e198caace>,
-        <msadsi/936b2450-3b28-4c21-989d-5ced80a8d50a>,
-        <msadsi/a8e94f27-cd93-4d35-801b-85464028ffa8> ;
+    skos:narrower <hsdsi/0d4259b9-d164-4566-9356-6bba39d3453b>,
+        <hsdsi/49e4f9b0-47e3-4a82-ad41-ecf3d28253b8>,
+        <hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> ;
     skos:notation "2.3" ;
     skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten"@de .
 
-<msadsi/a25ebb2c-3d54-4ab0-a8d2-867575efc80b> a skos:Concept ;
-    skos:broader <msadsi/8fff5ae5-5c05-410b-9f4d-2d971ba1a331> ;
+<hsdsi/c5b0450b-bd89-40b1-9170-9cf154585e35> a skos:Concept ;
+    skos:broader <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/2be9ee08-1ec8-4314-b678-91cd5bfb30e7>,
-        <msadsi/45bf62c1-a5fd-4543-94e2-c79d7bc4c26f>,
-        <msadsi/6fa68d32-4ec5-439e-9af3-8ec10c48b813> ;
+    skos:narrower <hsdsi/17f579ba-bfd9-4e06-87f6-ebbd05c2ec04>,
+        <hsdsi/4bfa530e-bcbb-4f38-87f5-f93e2c365152>,
+        <hsdsi/935b1c70-73e8-4a93-85ed-b4a267659525> ;
+    skos:notation "1.4" ;
+    skos:prefLabel "mit anderen sprechen"@de .
+
+<hsdsi/dbf5b667-b711-489c-9561-cd622244a0cb> a skos:Concept ;
+    skos:broader <hsdsi> ;
+    skos:definition "mit Texten und Medien umgehen"@de ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9>,
+        <hsdsi/79d24974-cb45-4e1f-b98b-7cc515539ae5>,
+        <hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> ;
+    skos:notation "3" ;
+    skos:prefLabel "Lesen"@de .
+
+<hsdsi/f1f04261-82ef-45c5-a8cb-815cb15e09be> a skos:Concept ;
+    skos:broader <hsdsi/b62a60dd-47eb-491a-ad7f-17d4c2b8be65> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/5893767a-9b03-4700-9d43-918b68e6e727>,
+        <hsdsi/8ae18457-386a-42fe-8e59-6fa89ec7ff51>,
+        <hsdsi/c41c009d-ebfc-4920-aa33-f36e9b670a5f> ;
+    skos:notation "4.2.1" ;
+    skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhanges kennen und anwenden:"@de .
+
+<msadsi/10288ab7-f54f-402f-8794-b8879b503082> a skos:Concept ;
+    skos:broader <msadsi/0a560557-5843-4ee6-bbe1-ef05e7f462e3> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988>,
+        <msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff>,
+        <msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> ;
+    skos:notation "3.3" ;
+    skos:prefLabel "Texte verstehen und nutzen"@de .
+
+<msadsi/253aa7ec-82e9-4cd3-ba9d-197704b1c9db> a skos:Concept ;
+    skos:broader <msadsi/5001e6fe-ce1b-44c1-a97a-bf179b02e3e8> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/51c47824-d447-4f85-871a-7765ae8cbb9b>,
+        <msadsi/5b82057a-e39d-4a81-b63f-fbf388a1d578>,
+        <msadsi/725bc8bf-c594-4174-8c52-54c737e1bc81> ;
     skos:notation "4.2.1" ;
     skos:prefLabel "sprachliche Mittel zur Sicherung des Textzusammenhangs (Textkohärenz) kennen und anwenden:"@de .
 
-<msadsi/a2fd7b52-a7f5-47af-84a4-580052bd43f5> a skos:Concept ;
-    skos:broader <msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc> ;
+<msadsi/38d120f0-5f87-4bbc-9980-eb2ed0d45815> a skos:Concept ;
+    skos:broader <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/7392b1ba-e2a0-447d-ad6d-5e0ede1d9dab>,
-        <msadsi/86ada08d-90e7-4e8d-b979-37c9ccea9a25>,
-        <msadsi/936b18b0-321b-4a5a-b556-64816d581223> ;
+    skos:narrower <msadsi/6df2a19b-5105-493a-b989-3795e7b40f43>,
+        <msadsi/9eea623b-d28b-4084-a5a0-a4f135b809f8>,
+        <msadsi/b5c3da9f-0a3e-4331-be25-940c9a09f8bc> ;
+    skos:notation "1.2" ;
+    skos:prefLabel "vor anderen sprechen"@de .
+
+<msadsi/5494298f-803c-4a93-bd4c-a99bddd6ad7d> a skos:Concept ;
+    skos:broader <msadsi/9bf34c65-f36c-4638-899c-3b7d7c566097> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/94779f9e-94e7-4511-8fad-664e9bdb1c18>,
+        <msadsi/99895b78-16f6-4977-92f9-80b822efdef8>,
+        <msadsi/d47487ba-59e3-4c9a-968a-3cbef25b9787> ;
+    skos:notation "2.3.1" ;
+    skos:prefLabel "Texte planen und entwerfen"@de .
+
+<msadsi/70403325-7186-4f6d-b6f8-467fd0a299ec> a skos:Concept ;
+    skos:broader <msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/6097dfc9-50dd-4f6c-b119-040ef040a279>,
+        <msadsi/e70d1efb-da69-4d11-9f05-db4035e2080e>,
+        <msadsi/ef65e12e-f993-45a0-9a91-d8ecd1e21acf> ;
     skos:notation "4.3" ;
     skos:prefLabel "Leistungen von Sätzen und Wortarten kennen und für Sprechen, Schreiben und Textuntersuchung nutzen"@de .
 
-<msadsi/a8e94f27-cd93-4d35-801b-85464028ffa8> a skos:Concept ;
-    skos:broader <msadsi/86ca1b8c-0931-471d-b0e6-3bcb5a79ce3b> ;
+<msadsi/78efee00-c537-434a-b669-6de354b5670f> a skos:Concept ;
+    skos:broader <msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/0eb99592-2a4a-40f5-aa7a-9d9da44d5625>,
-        <msadsi/229861e1-1411-4429-837d-f9ebf8cdb910>,
-        <msadsi/33c95114-74ac-49a5-afe6-5a9384148e03> ;
-    skos:notation "2.3.1" ;
-    skos:prefLabel "Texte planen und entwerfen"@de .
-
-<msadsi/d8003e6c-176f-4ab2-a6a2-51e44e460b60> a skos:Concept ;
-    skos:broader <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/1dd810c9-0461-4511-b2fc-31d7652d6ab9>,
-        <msadsi/649a3c22-f8ae-4bb6-aa6c-6416c2f734f8>,
-        <msadsi/ee0d83ba-509c-4505-8228-72ad8d09f63c> ;
-    skos:notation "1.2" ;
-    skos:prefLabel "vor anderen sprechen"@de .
-
-<msadsi/ee288ca9-0483-43bd-b930-b65e2c1d6507> a skos:Concept ;
-    skos:broader <msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/460ab0b7-ded5-4154-a8f5-e14bf41eab60>,
-        <msadsi/669db217-5333-464e-8e5f-eb0534c0256c>,
-        <msadsi/7f9fa78b-f8c8-4735-a66c-98399e805ee7> ;
+    skos:narrower <msadsi/2458f4c8-31f5-4721-aaf7-8aaa42fd0974>,
+        <msadsi/8bd1c722-3335-4582-bcfc-68c96b2961d7>,
+        <msadsi/f0f4d2a3-ed5b-4863-95a3-da38b02441bf> ;
     skos:notation "4.5" ;
     skos:prefLabel "Methoden und Arbeitstechniken"@de .
 
+<msadsi/9bf34c65-f36c-4638-899c-3b7d7c566097> a skos:Concept ;
+    skos:broader <msadsi/438cca75-71e1-400f-a827-b2a79c268a1f> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/5494298f-803c-4a93-bd4c-a99bddd6ad7d>,
+        <msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2>,
+        <msadsi/acd84a67-c773-4174-8862-478e6d21f578> ;
+    skos:notation "2.3" ;
+    skos:prefLabel "einen Schreibprozess eigenverantwortlich gestalten"@de .
+
+<msadsi/b37a995f-4da2-42fe-ba2b-0bd6fc615e65> a skos:Concept ;
+    skos:broader <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/52ff03bd-c0fd-4322-8c49-2a696dd229ec>,
+        <msadsi/5c8d1ceb-57fd-426b-936a-dc4e14f79386>,
+        <msadsi/b0423970-fc65-4973-b289-c185d214a60c> ;
+    skos:notation "1.4" ;
+    skos:prefLabel "verstehend zuhören"@de .
+
 <hsdsi> a skos:Concept ;
     skos:definition "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden: (I) Reproduzieren, (II) Zusammenhänge herstellen sowie (III) Verallgemeinern und Reflektieren. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:"@de ;
-    skos:narrower <hsdsi/0e2b8f04-fb85-4873-be54-24126b54b439>,
-        <hsdsi/4a13226f-2e35-4544-9f69-49afd0e5d06e>,
-        <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1>,
-        <hsdsi/ebfaf77e-fa68-4a9a-8541-46cecab208b2> ;
+    skos:narrower <hsdsi/66f26c32-3c91-463b-af20-48cbefb45a79>,
+        <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95>,
+        <hsdsi/8bb7f0cf-3a3c-452a-ac65-2e43e90b00c0>,
+        <hsdsi/dbf5b667-b711-489c-9561-cd622244a0cb> ;
     skos:prefLabel "Hauptschule"@de ;
     skos:topConceptOf <> .
 
-<hsdsi/4a13226f-2e35-4544-9f69-49afd0e5d06e> a skos:Concept ;
-    skos:broader <hsdsi> ;
-    skos:definition ""@de ;
+<hsdsi/0b822cb1-01bd-41f6-8e19-a97c49bb9d74> a skos:Concept ;
+    skos:broader <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149>,
-        <hsdsi/884eb6cd-4517-4e52-a088-e91ee15739a0>,
-        <hsdsi/be641b1f-d269-4dfc-9b14-85d85195533d>,
-        <hsdsi/f6121e52-9bc9-4cf6-9a32-9b634be0352d> ;
-    skos:notation "2" ;
-    skos:prefLabel "Schreiben"@de .
-
-<hsdsi/abfbbfaf-0d71-44bf-b318-8048431ba0d9> a skos:Concept ;
-    skos:broader <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/3d79126e-94bd-4b9c-a5ef-2d357a850352>,
-        <hsdsi/95bd0c84-8fe6-45c7-92e1-37a682dda810>,
-        <hsdsi/e4e50072-7f24-47b5-b89a-094439413972>,
-        <hsdsi/f67be7ee-1e3e-4847-8bf8-4ac13d6e0b32> ;
+    skos:narrower <hsdsi/2147afe5-f64e-4918-8772-aa505e0b2815>,
+        <hsdsi/8f922073-c28d-4067-89e4-beff640bc5e7>,
+        <hsdsi/cdb6b991-ce70-41eb-8b4b-dac7ef56271c>,
+        <hsdsi/d82e3694-89af-4a1d-b584-4c27fe98db5d> ;
     skos:notation "1.2" ;
     skos:prefLabel "vor anderen sprechen"@de .
 
-<hsdsi/f6121e52-9bc9-4cf6-9a32-9b634be0352d> a skos:Concept ;
-    skos:broader <hsdsi/4a13226f-2e35-4544-9f69-49afd0e5d06e> ;
+<hsdsi/0d4259b9-d164-4566-9356-6bba39d3453b> a skos:Concept ;
+    skos:broader <hsdsi/c23e347d-9d66-4841-8c1e-af509d1c3d1b> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/1f450aff-fe51-4e8c-9993-f6f5d8fbb815>,
-        <hsdsi/6ed769bc-2855-4f14-b073-192737307a6b>,
-        <hsdsi/82f2a514-de2d-4438-ba45-79f7eecfc38d>,
-        <hsdsi/fef39670-0a77-45e1-b900-e7ccc994a441> ;
-    skos:notation "2.1" ;
-    skos:prefLabel "über Schreibfertigkeiten verfügen"@de .
-
-<hsdsi/fdcfe52b-6979-4e1b-bec2-c5992e76d38e> a skos:Concept ;
-    skos:broader <hsdsi/be641b1f-d269-4dfc-9b14-85d85195533d> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/2f1b877b-36e2-4c46-b39a-08c84cd9aa74>,
-        <hsdsi/92ac5181-a352-46f0-b159-cb5ab68a2fe6>,
-        <hsdsi/ad32af9f-741e-4ed9-8bee-bb4a0d1ac359>,
-        <hsdsi/b3e58c34-ad35-43ff-a87d-882a8b3f2100> ;
+    skos:narrower <hsdsi/000290d5-914f-4109-af98-b8ef19c41b57>,
+        <hsdsi/23f2979d-f955-4de4-b832-329a655a7eb2>,
+        <hsdsi/e10dde40-2db7-48b0-b190-21a18da5e6c6>,
+        <hsdsi/e15839f4-cdcd-4516-bc3e-248e36876ab6> ;
     skos:notation "2.3.1" ;
     skos:prefLabel "Texte planen und entwerfen"@de .
 
-<msadsi> a skos:Concept ;
-    skos:narrower <msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc>,
-        <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83>,
-        <msadsi/aaa7287a-d6b5-467d-8442-07bbd1914cee>,
-        <msadsi/c430c75f-2299-43a7-b4b0-3c35e730637d> ;
-    skos:prefLabel "Mittlerer Schulabschluss"@de ;
-    skos:topConceptOf <> .
-
-<msadsi/aaa7287a-d6b5-467d-8442-07bbd1914cee> a skos:Concept ;
-    skos:broader <msadsi> ;
-    skos:definition ""@de ;
+<hsdsi/5d7ebdf0-d825-461e-ad0d-02849de28cc8> a skos:Concept ;
+    skos:broader <hsdsi/8bb7f0cf-3a3c-452a-ac65-2e43e90b00c0> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3>,
-        <msadsi/86ca1b8c-0931-471d-b0e6-3bcb5a79ce3b>,
-        <msadsi/d0a5a932-fce4-4c23-b449-c0e12d8803e3>,
-        <msadsi/f7f5bffa-66d0-4e63-a05c-b01fdeceeee8> ;
-    skos:notation "2" ;
-    skos:prefLabel "Schreiben"@de .
-
-<msadsi/c430c75f-2299-43a7-b4b0-3c35e730637d> a skos:Concept ;
-    skos:broader <msadsi> ;
-    skos:definition ""@de ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/264be196-875d-42d0-ada6-f4dabd5ecf74>,
-        <msadsi/3166ed30-7f92-4727-ade0-5afccc939a1e>,
-        <msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91>,
-        <msadsi/aa4d9345-e383-4721-991c-d775e2a34279> ;
-    skos:notation "3" ;
-    skos:prefLabel "Lesen – mit Texten und Medien umgehen"@de .
-
-<msadsi/f7f5bffa-66d0-4e63-a05c-b01fdeceeee8> a skos:Concept ;
-    skos:broader <msadsi/aaa7287a-d6b5-467d-8442-07bbd1914cee> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/40d9f334-bb84-4e99-b9d1-e4ae06673756>,
-        <msadsi/4ed6c7fe-a8f5-4c83-a4fe-fb386d075843>,
-        <msadsi/52dec730-5017-4ca6-aa29-23fb515f06c1>,
-        <msadsi/8aedeb84-68b8-48eb-b84a-7f67c88db62f> ;
+    skos:narrower <hsdsi/4a1772b8-2502-438e-b931-57edcc05f8ea>,
+        <hsdsi/cc89b85c-29ef-4a0e-b929-033563a961ab>,
+        <hsdsi/d0f2849c-9ffb-4e7f-90a1-d866b0648896>,
+        <hsdsi/f05eac5d-06fc-45b6-b87d-5a7f037a83d4> ;
     skos:notation "2.1" ;
     skos:prefLabel "über Schreibfertigkeiten verfügen"@de .
 
-<hsdsi/310bbe14-a401-4bed-8311-d14e379297ee> a skos:Concept ;
-    skos:broader <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/55c876a0-c74a-4e01-93a5-7a225138c0ed>,
-        <hsdsi/7762ee87-c5e2-438d-863a-7d1b818c7a98>,
-        <hsdsi/77f8e44a-c6a0-4dea-9222-b97b6346f405>,
-        <hsdsi/8a986ac6-7848-4e6f-8067-aacb7fea2f63>,
-        <hsdsi/ebc6172d-9659-4efb-8633-743454e9717c> ;
-    skos:notation "1.1" ;
-    skos:prefLabel "zu anderen sprechen"@de .
-
-<msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5> a skos:Concept ;
-    skos:broader <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/39558ffd-7136-42fc-8a46-7e6ce3faab98>,
-        <msadsi/c20a4eca-7aaa-44b1-a381-a3421642b40b>,
-        <msadsi/c6ca9fd2-077b-49f8-9a3e-589eb6efa5d4>,
-        <msadsi/e73b7fb2-616c-4e64-913d-dad561e7e8da>,
-        <msadsi/f06548cd-3389-4c46-aa52-a64e5719e1ee> ;
-    skos:notation "1.1" ;
-    skos:prefLabel "zu anderen sprechen"@de .
-
-<msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc> a skos:Concept ;
-    skos:broader <msadsi> ;
-    skos:definition ""@de ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/8fff5ae5-5c05-410b-9f4d-2d971ba1a331>,
-        <msadsi/a2fd7b52-a7f5-47af-84a4-580052bd43f5>,
-        <msadsi/e09b068f-c87e-4efe-97f7-af112acf762d>,
-        <msadsi/ee288ca9-0483-43bd-b930-b65e2c1d6507>,
-        <msadsi/eebc1b6e-a882-4ed4-b790-3afe81c2d11d> ;
-    skos:notation "4" ;
-    skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de .
-
-<msadsi/4ef5e85f-2095-4193-80dd-4a9784effb91> a skos:Concept ;
-    skos:broader <msadsi/c430c75f-2299-43a7-b4b0-3c35e730637d> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/27661767-d667-42c0-a743-8cb36a2c6e3b>,
-        <msadsi/6810baa8-8ec9-4367-a19c-98f63efa7de0>,
-        <msadsi/9c556f6f-b71c-41a4-89a4-cfd43bc89139>,
-        <msadsi/f28754d0-2a71-4fe9-9cbd-28e808398c02>,
-        <msadsi/fb138a16-c3b2-415c-b196-88c4fbbf4568> ;
-    skos:notation "3.2" ;
-    skos:prefLabel "Strategien zum Leseverstehen kennen und anwenden"@de .
-
-<hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81> a skos:Concept ;
-    skos:broader <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/03395028-025d-4743-ad6d-9ea0f51c28b3>,
-        <hsdsi/2894329a-2f7e-43d9-ae96-4610688f390b>,
-        <hsdsi/55bf3ef5-ab30-4d71-9f50-94b2731cb306>,
-        <hsdsi/64b26213-cb55-4274-b7fe-eb8f6e4ab688>,
-        <hsdsi/bbf3c35f-a818-47b4-a903-6a3cbd2e1d0e>,
-        <hsdsi/e0e9a615-5cd2-4c95-a9f5-c21e0c63ee80> ;
-    skos:notation "1.3" ;
-    skos:prefLabel "mit anderen sprechen"@de .
-
-<hsdsi/28f69471-2e4a-48dc-9ecb-ab2b2246b274> a skos:Concept ;
-    skos:broader <hsdsi/f8d06079-4b47-488e-ac03-17730336a430> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/0e6201b6-2392-4572-b91a-96786e8804b6>,
-        <hsdsi/14a63f0c-fe14-4cee-b2e4-c1c3ad656b38>,
-        <hsdsi/25ec0c96-4e38-4c13-9a9b-ef2664308f12>,
-        <hsdsi/33198c29-f6d5-4c00-88d8-6d9c3be47e86>,
-        <hsdsi/7aaa94c8-0265-4da1-84ce-a8283b838610>,
-        <hsdsi/ddbca04a-61c3-45d3-a822-97242985d883> ;
-    skos:notation "3.2.2" ;
-    skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen"@de .
-
-<hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> a skos:Concept ;
+<hsdsi/8bb7f0cf-3a3c-452a-ac65-2e43e90b00c0> a skos:Concept ;
     skos:broader <hsdsi> ;
     skos:definition ""@de ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/14bdbb40-95ef-4e4c-8b75-600af58a0b81>,
-        <hsdsi/310bbe14-a401-4bed-8311-d14e379297ee>,
-        <hsdsi/6689a49b-2462-4a49-8eab-e70f09f1a704>,
-        <hsdsi/7cbb461a-20c5-4b11-a79e-2e5583457ac1>,
-        <hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a>,
-        <hsdsi/abfbbfaf-0d71-44bf-b318-8048431ba0d9> ;
-    skos:notation "1" ;
-    skos:prefLabel "Sprechen und Zuhören"@de .
+    skos:narrower <hsdsi/5d7ebdf0-d825-461e-ad0d-02849de28cc8>,
+        <hsdsi/baa5c332-5f29-4cc7-83d2-83716a5a5333>,
+        <hsdsi/c23e347d-9d66-4841-8c1e-af509d1c3d1b>,
+        <hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> ;
+    skos:notation "2" ;
+    skos:prefLabel "Schreiben"@de .
 
-<hsdsi/f9298ea7-b2c8-4dde-87fa-a3cac9a94579> a skos:Concept ;
-    skos:broader <hsdsi/f8d06079-4b47-488e-ac03-17730336a430> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/743e01d0-d646-4acd-8b9d-80d8d71cb47c>,
-        <hsdsi/856912c0-aeb1-43fe-a662-b785c84dc102>,
-        <hsdsi/a9d0dc4b-0df3-480c-8d77-e0ae23d2384c>,
-        <hsdsi/bd4f10d0-41ff-4a58-9550-6a657d585f7f>,
-        <hsdsi/e6e34070-da1c-4df2-a3a5-3292de47df54>,
-        <hsdsi/f996a7db-06f6-4d35-84a0-d0562b0edc27> ;
-    skos:notation "3.2.3" ;
-    skos:prefLabel "Medien verstehen und nutzen"@de .
+<msadsi> a skos:Concept ;
+    skos:narrower <msadsi/0a560557-5843-4ee6-bbe1-ef05e7f462e3>,
+        <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919>,
+        <msadsi/438cca75-71e1-400f-a827-b2a79c268a1f>,
+        <msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> ;
+    skos:prefLabel "Mittlerer Schulabschluss"@de ;
+    skos:topConceptOf <> .
 
-<msadsi/51623104-3afe-473b-a26c-7d9e198caace> a skos:Concept ;
-    skos:broader <msadsi/86ca1b8c-0931-471d-b0e6-3bcb5a79ce3b> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/0c82dacf-2e29-49b2-926b-1738e82f0666>,
-        <msadsi/12b91b7e-3725-4fd0-b08c-7a96e58686f2>,
-        <msadsi/2b1f2dc3-d35b-4dd2-857a-1482cc28e136>,
-        <msadsi/508ec5f6-df0f-42cc-b63c-1b782f0eb2f0>,
-        <msadsi/d3c6dd7f-1db2-4c94-a262-995c76dccf3e>,
-        <msadsi/f1d1010a-ae8c-44ee-97d7-6553089a66f3> ;
-    skos:notation "2.3.2" ;
-    skos:prefLabel "Texte schreiben"@de .
-
-<msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> a skos:Concept ;
+<msadsi/0a560557-5843-4ee6-bbe1-ef05e7f462e3> a skos:Concept ;
     skos:broader <msadsi> ;
     skos:definition ""@de ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/06c43aac-304a-4051-9c05-07bedcc5b6b5>,
-        <msadsi/5e866581-ab5e-49ce-a94f-054f7cffb931>,
-        <msadsi/8699a045-d1f6-4338-88d6-82f6a9758e67>,
-        <msadsi/b37a8f9e-36b7-4d41-806c-69379a480036>,
-        <msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f>,
-        <msadsi/d8003e6c-176f-4ab2-a6a2-51e44e460b60> ;
-    skos:notation "1" ;
-    skos:prefLabel "Sprechen und Zuhören"@de .
+    skos:narrower <msadsi/10288ab7-f54f-402f-8794-b8879b503082>,
+        <msadsi/4f45be79-181e-43c3-998c-3c9e94c00803>,
+        <msadsi/56eae45f-fad8-4cc3-bbb9-f52bee95a189>,
+        <msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> ;
+    skos:notation "3" ;
+    skos:prefLabel "Lesen – mit Texten und Medien umgehen"@de .
 
-<msadsi/cb3078e2-7208-4cad-b1ff-8471ad55068f> a skos:Concept ;
-    skos:broader <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> ;
+<msadsi/438cca75-71e1-400f-a827-b2a79c268a1f> a skos:Concept ;
+    skos:broader <msadsi> ;
+    skos:definition ""@de ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/13ad0b90-c845-4598-af8e-973a89d51a72>,
-        <msadsi/7226e6a6-f1e6-48f0-8d15-8d20a33e0d80>,
-        <msadsi/92ade65a-5e04-493c-b144-a5101f8c8613>,
-        <msadsi/a20b9012-0f4f-4e63-88fc-6b2d06c1e58c>,
-        <msadsi/c1f30364-747c-4acf-b572-996d26d0c567>,
-        <msadsi/db1aebb7-ca1d-43b1-8142-a0cbf5b4ad33> ;
+    skos:narrower <msadsi/1d1be609-2f36-4703-b440-e7dcc5ec57c2>,
+        <msadsi/9bf34c65-f36c-4638-899c-3b7d7c566097>,
+        <msadsi/d062cf26-dde2-49c0-9854-5a259b320a98>,
+        <msadsi/e9c88880-b3be-4096-a340-b721b990c07a> ;
+    skos:notation "2" ;
+    skos:prefLabel "Schreiben"@de .
+
+<msadsi/e9c88880-b3be-4096-a340-b721b990c07a> a skos:Concept ;
+    skos:broader <msadsi/438cca75-71e1-400f-a827-b2a79c268a1f> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/13878fdb-5876-41f2-a778-a60ce03f3aa1>,
+        <msadsi/38539cb7-6406-403b-940b-498a3d58da0b>,
+        <msadsi/4156f0fb-54c4-471d-99de-f4c2fa949302>,
+        <msadsi/b63704f3-935d-414f-bd97-e1ef851d67e8> ;
+    skos:notation "2.1" ;
+    skos:prefLabel "über Schreibfertigkeiten verfügen"@de .
+
+<hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327> a skos:Concept ;
+    skos:broader <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/4d8bd529-e510-43c8-a456-4c0a3732d6ed>,
+        <hsdsi/56cb0039-21d6-431e-9159-fc5eb50f6df9>,
+        <hsdsi/609b5e30-e6af-4846-91f7-a9bad5938b4f>,
+        <hsdsi/d2c1e3fc-0ed9-4e38-8aeb-971addc0b6cd>,
+        <hsdsi/f900142e-1713-47e4-801e-948d5b5acb86> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "zu anderen sprechen"@de .
+
+<msadsi/5872c148-caf1-48b4-a289-ccad4c2eb710> a skos:Concept ;
+    skos:broader <msadsi/0a560557-5843-4ee6-bbe1-ef05e7f462e3> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/22a96700-f85c-48a8-b1b2-e400fc8d5e64>,
+        <msadsi/23652b21-9439-4419-9153-d153f4964e57>,
+        <msadsi/39b802d0-ba2c-4535-a8d4-f82b1de0baba>,
+        <msadsi/75ec3582-37c0-4372-bb68-2e53850aab9f>,
+        <msadsi/9d267171-a90a-4df9-8c2d-b2dfe31e3465> ;
+    skos:notation "3.2" ;
+    skos:prefLabel "Strategien zum Leseverstehen kennen und anwenden"@de .
+
+<msadsi/a85bb529-8798-4896-95e0-6a4591338c1f> a skos:Concept ;
+    skos:broader <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/14352e27-5f8f-402d-a5a6-ceec13f1c3f0>,
+        <msadsi/68d05d5f-ee21-422c-b098-783f6f9e11a1>,
+        <msadsi/8f6e9fe5-b216-4942-a050-d7461bac21b0>,
+        <msadsi/b74ddba5-b387-421f-8a67-93c071ecb78a>,
+        <msadsi/f001eee0-ee2e-4875-86f2-42a35ca99073> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "zu anderen sprechen"@de .
+
+<msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> a skos:Concept ;
+    skos:broader <msadsi> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/26757f5d-6940-401e-907b-eb374a6ba1d9>,
+        <msadsi/5001e6fe-ce1b-44c1-a97a-bf179b02e3e8>,
+        <msadsi/70403325-7186-4f6d-b6f8-467fd0a299ec>,
+        <msadsi/78efee00-c537-434a-b669-6de354b5670f>,
+        <msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> ;
+    skos:notation "4" ;
+    skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de .
+
+<hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5> a skos:Concept ;
+    skos:broader <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/42ac4d17-d11a-4e27-bdab-e287bc410f8b>,
+        <hsdsi/6d761347-d59e-4ded-8096-0b23d712c218>,
+        <hsdsi/bbd2d919-3ed8-416c-9b5b-9566d34cbdc5>,
+        <hsdsi/c564cf50-28c0-42ba-b0d0-90957f5c832b>,
+        <hsdsi/c997178a-e829-4adf-ab7f-6a6ad96c0287>,
+        <hsdsi/ece10919-fea1-440b-995c-295b534c840f> ;
     skos:notation "1.3" ;
     skos:prefLabel "mit anderen sprechen"@de .
 
-<hsdsi/9e6e7da4-3cf0-4752-bf9a-b6407ae2913a> a skos:Concept ;
-    skos:broader <hsdsi/4eddcb54-0f89-42e1-80a4-4e6d4c67fae1> ;
+<hsdsi/3c8c3191-106e-4e7c-b858-66f032a1e358> a skos:Concept ;
+    skos:broader <hsdsi/79d24974-cb45-4e1f-b98b-7cc515539ae5> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/06dfd8a4-6f11-4897-a904-3b7d5068b8f1>,
-        <hsdsi/53d4b284-e1c8-4596-a4f0-9c5d40d260c1>,
-        <hsdsi/7442117c-307f-4372-b6d0-885b3f1364a4>,
-        <hsdsi/7f8aa12f-b676-4de0-b8b8-5ff35a356f95>,
-        <hsdsi/89236d23-a4b3-46bf-85b6-3e043f279c25>,
-        <hsdsi/b91136f4-8ea5-40bb-8acd-13b568a4393d>,
-        <hsdsi/db7ed1a4-0f2b-48e3-b0ee-239e7ea6f7e9> ;
+    skos:narrower <hsdsi/0f401711-caf9-4f8a-9df1-de9c4b546144>,
+        <hsdsi/38b1e923-e6d6-4018-ade4-a500ca382d25>,
+        <hsdsi/6759c491-bad9-4c7f-b1d8-1a03d03f1561>,
+        <hsdsi/80fa7fed-be1e-471f-b252-1bd4c3afd13d>,
+        <hsdsi/efb5b57c-ba0d-4e40-b4a3-9a45ed7fa453>,
+        <hsdsi/fbc5231b-9b06-4c25-83e2-7ba530319570> ;
+    skos:notation "3.2.2" ;
+    skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen"@de .
+
+<hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> a skos:Concept ;
+    skos:broader <hsdsi> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/08e5c86b-58be-495d-9a3c-048fe3171ce5>,
+        <hsdsi/0b822cb1-01bd-41f6-8e19-a97c49bb9d74>,
+        <hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7>,
+        <hsdsi/c5b0450b-bd89-40b1-9170-9cf154585e35>,
+        <hsdsi/d08c3d05-65e8-46ac-bad2-96a66ba4e327>,
+        <hsdsi/ed67f6e2-d3fd-473e-826a-e70aff50d599> ;
+    skos:notation "1" ;
+    skos:prefLabel "Sprechen und Zuhören"@de .
+
+<hsdsi/c10e4cfb-68d7-4730-bb7e-11e276feedb9> a skos:Concept ;
+    skos:broader <hsdsi/79d24974-cb45-4e1f-b98b-7cc515539ae5> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/08690694-71a6-4697-b94c-e454dc8dedca>,
+        <hsdsi/58cb7623-0557-423e-b253-a824a0fb0ac2>,
+        <hsdsi/7462abde-13c2-48dd-9fc2-d989916e0b91>,
+        <hsdsi/7649ec60-0900-43c3-b621-bc79bd1d14ad>,
+        <hsdsi/7d5f3dec-c501-49da-af29-b453ac0e3671>,
+        <hsdsi/82ec488c-8d43-4628-a63e-341b001a7c44> ;
+    skos:notation "3.2.3" ;
+    skos:prefLabel "Medien verstehen und nutzen"@de .
+
+<msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> a skos:Concept ;
+    skos:broader <msadsi> ;
+    skos:definition ""@de ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/13f7c42c-7e78-4ab8-b89c-6174c2b77a84>,
+        <msadsi/38d120f0-5f87-4bbc-9980-eb2ed0d45815>,
+        <msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0>,
+        <msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd>,
+        <msadsi/a85bb529-8798-4896-95e0-6a4591338c1f>,
+        <msadsi/b37a995f-4da2-42fe-ba2b-0bd6fc615e65> ;
+    skos:notation "1" ;
+    skos:prefLabel "Sprechen und Zuhören"@de .
+
+<msadsi/5fc2319f-57fc-428e-acec-46db7cfbeee2> a skos:Concept ;
+    skos:broader <msadsi/9bf34c65-f36c-4638-899c-3b7d7c566097> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/6a7b9209-ad92-45fb-bcd0-91a79b9d66b2>,
+        <msadsi/74d211f7-3c1d-4e75-9827-a9c4920e7af5>,
+        <msadsi/77b8a8f9-ab83-4837-be2c-edfa4fa00a26>,
+        <msadsi/ccc9c9c2-043b-4a45-ad84-a14c42ea8fce>,
+        <msadsi/cd1dfd09-75b7-4714-bae9-251a91e211c2>,
+        <msadsi/f839f5ce-e98b-4d53-bc6b-d808bf70d34a> ;
+    skos:notation "2.3.2" ;
+    skos:prefLabel "Texte schreiben"@de .
+
+<msadsi/6ede6385-add9-4285-b2fe-e4f50cd7d5a0> a skos:Concept ;
+    skos:broader <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/0bdc995c-0f6a-498a-b8dc-43994eb3e0ef>,
+        <msadsi/2fae4cf7-5bf3-4507-b274-e071000c67d1>,
+        <msadsi/68e29b20-4fc5-474b-b8bf-5547b06b5202>,
+        <msadsi/ba2eb856-056c-4037-8926-525425fb1e3a>,
+        <msadsi/d04ac07e-0d02-47ee-863b-eeef0a0faf83>,
+        <msadsi/d981ae82-cd43-4f37-86b5-60ee490ac1f7> ;
+    skos:notation "1.3" ;
+    skos:prefLabel "mit anderen sprechen"@de .
+
+<hsdsi/8122047b-245f-4d70-ad8c-0dc5e5bf5fb7> a skos:Concept ;
+    skos:broader <hsdsi/7d3b0f25-022d-49a5-bb71-736cd8a68c95> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/1539422e-25d4-436c-972f-83d9c82aee81>,
+        <hsdsi/5112e3b4-94f9-407b-8de6-b661a872408c>,
+        <hsdsi/51e9412c-e70a-4a46-8d50-5d8f06475fe0>,
+        <hsdsi/7df7f28e-2869-4bf5-bb1a-1300cbf09786>,
+        <hsdsi/8dcf71f8-b7ba-4d32-af59-b55926dbc62e>,
+        <hsdsi/f20698ac-4f30-4972-ba0b-5990e62ba5ee>,
+        <hsdsi/fc09c1f4-8ed3-4a91-af68-049c0813f347> ;
     skos:notation "1.6" ;
     skos:prefLabel "mit anderen sprechen"@de .
 
-<hsdsi/bcfb12ba-cd7c-452e-9885-799fb7f08c02> a skos:Concept ;
-    skos:broader <hsdsi/ebfaf77e-fa68-4a9a-8541-46cecab208b2> ;
+<hsdsi/f9dfbecc-0a58-4fcd-8eb4-b38dd2382196> a skos:Concept ;
+    skos:broader <hsdsi/66f26c32-3c91-463b-af20-48cbefb45a79> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/098046f4-3431-4841-af07-3c3143112ff1>,
-        <hsdsi/1848a344-490a-41d7-865f-7c25f63ce2d0>,
-        <hsdsi/319711df-6d7b-43a2-8bda-066e680cf52f>,
-        <hsdsi/470de006-136a-41a8-afe1-4bbd606dafed>,
-        <hsdsi/52957cda-6726-487f-be07-5d3dee962c34>,
-        <hsdsi/ea7a0a49-a29b-44ad-9470-d0ef7452ae86>,
-        <hsdsi/ef37c326-b463-4e47-be26-55ba8e294c59> ;
+    skos:narrower <hsdsi/099c6702-8f10-46ef-a977-8eec6b5f5adb>,
+        <hsdsi/674498ed-6796-4d28-ba3c-4b7263b4b5df>,
+        <hsdsi/818635b8-d7f7-4ca1-9ad2-13be15b0d48c>,
+        <hsdsi/c1b7f8d8-60fc-47ea-bc59-3d91a0eebef6>,
+        <hsdsi/ceabfc30-de67-4c0c-8d49-8617436139ec>,
+        <hsdsi/ec95af14-1da6-4ab5-bbc2-a54b00fbf880>,
+        <hsdsi/fa6d4a78-34b5-4e92-8cbb-9b27904e7f3e> ;
     skos:notation "4.1" ;
     skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten"@de .
 
-<msadsi/20ebf29b-ddf8-40c5-9301-0199413987aa> a skos:Concept ;
-    skos:broader <msadsi/264be196-875d-42d0-ada6-f4dabd5ecf74> ;
+<msadsi/06ac3627-dc87-4469-9df7-f581b5bf3988> a skos:Concept ;
+    skos:broader <msadsi/10288ab7-f54f-402f-8794-b8879b503082> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/1fa045c7-91ac-4b09-8559-44a40ded402c>,
-        <msadsi/2511cd53-1c06-4ac9-a955-af5aa075b467>,
-        <msadsi/5e470a5d-b6dd-4fb1-bd6a-bb469a8c21db>,
-        <msadsi/85307cce-aa71-417b-aae8-6601f9c6827a>,
-        <msadsi/8bc94c98-e1f2-4b63-a6a5-264bf3164775>,
-        <msadsi/9b03e9d8-db30-4f7c-8509-601622c271c9>,
-        <msadsi/bac0e014-0259-4b68-9e4a-dfa393ee2a47> ;
-    skos:notation "3.3.3" ;
-    skos:prefLabel "Medien verstehen und nutzen"@de .
-
-<msadsi/e09b068f-c87e-4efe-97f7-af112acf762d> a skos:Concept ;
-    skos:broader <msadsi/09eeadd0-46ec-4be7-ad2b-f83862b284dc> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/0618ed4e-4e23-4c34-83ff-f01daf6b548e>,
-        <msadsi/196d3ada-b9da-42c6-b886-d915397fa698>,
-        <msadsi/1fb4119a-2163-40c0-ac08-e8eaa9124824>,
-        <msadsi/28c8c14b-6224-4da0-88cc-cb91ee5545b4>,
-        <msadsi/2e9edec8-a469-415a-8b1d-be5f6cb30524>,
-        <msadsi/6d923af3-9942-4349-9e09-a4e5dc4b0b54>,
-        <msadsi/ce79cfad-a74a-4f2b-88b1-85532688be84> ;
-    skos:notation "4.1" ;
-    skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten"@de .
-
-<msadsi/e65680e9-d281-4dbf-8504-0e7fdfc12477> a skos:Concept ;
-    skos:broader <msadsi/264be196-875d-42d0-ada6-f4dabd5ecf74> ;
-    skos:inScheme <> ;
-    skos:narrower <msadsi/09f220d1-7c52-4136-8ecc-07ca65872a9f>,
-        <msadsi/2ccfd781-5e85-456b-a749-89dcc8fd7bff>,
-        <msadsi/2f4f387c-4d88-441e-8ff1-d061ca72b640>,
-        <msadsi/6b668c58-5676-4e2e-9f0d-04d8226dcfaa>,
-        <msadsi/b06c8d92-30fc-4d53-9251-82f1288d91c6>,
-        <msadsi/d888cc1b-80e3-4b45-a9e4-354098b6222a>,
-        <msadsi/dde30d17-3af3-4612-b9eb-e952aa339c1f> ;
+    skos:narrower <msadsi/3fc07394-81eb-41f3-ac54-8dbb0c35adf2>,
+        <msadsi/424ea538-2f6d-413d-9ab9-6b532b566665>,
+        <msadsi/48f2e2a4-d7d3-4a1b-ab3f-2da06690115d>,
+        <msadsi/7d5669f5-24a8-4ff0-9dba-d3cd004ff8ae>,
+        <msadsi/8423de34-9d07-4397-be84-011941ca4123>,
+        <msadsi/96969251-2ed0-47e4-a2c7-99b808ada92c>,
+        <msadsi/cca7a3b1-5b2d-4639-a8af-79fe88d50481> ;
     skos:notation "3.3.2" ;
     skos:prefLabel "Sach- und Gebrauchstexte verstehen und nutzen"@de .
 
-<hsdsi/8014418c-9085-487c-933b-d7138754f5af> a skos:Concept ;
-    skos:broader <hsdsi/0e2b8f04-fb85-4873-be54-24126b54b439> ;
+<msadsi/31f0af8e-3da8-4eb1-a7ae-9ff9b72fecff> a skos:Concept ;
+    skos:broader <msadsi/10288ab7-f54f-402f-8794-b8879b503082> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/0536d25f-aaf8-4805-9342-5c7fa002ebee>,
-        <hsdsi/0c540d3e-7392-4d31-a70a-c69c4445b772>,
-        <hsdsi/48d80b69-2526-40c1-b442-74b1f2348ffe>,
-        <hsdsi/71411fb8-4d37-4028-86e4-2af68679bfc4>,
-        <hsdsi/81f7263e-e932-4669-a10b-b3c917cbb515>,
-        <hsdsi/a6896082-a2b9-45f9-953a-0f3c03ef2716>,
-        <hsdsi/f14076d3-5285-4a30-9c3d-858218ee7501>,
-        <hsdsi/f5ad126e-0ba5-4ad5-a820-6f3d25a343f8> ;
-    skos:notation "3.3" ;
-    skos:prefLabel "Methoden und Arbeitstechniken"@de .
+    skos:narrower <msadsi/0e3fc2e0-f1c0-4999-87b4-043266800479>,
+        <msadsi/2b62fdbf-dd49-4e3a-ac8d-609ebdc0a010>,
+        <msadsi/4c0b6f0e-fe12-4864-8da1-cf655e73b487>,
+        <msadsi/62ac99c8-4833-483f-b308-85bab9524696>,
+        <msadsi/7e264b70-f3aa-41a8-a6cd-c61183b68f24>,
+        <msadsi/88e4e695-1d96-45b9-8740-aefa41311b30>,
+        <msadsi/af7d3f24-75b8-4d26-8c11-eb6c66ab9ba6> ;
+    skos:notation "3.3.3" ;
+    skos:prefLabel "Medien verstehen und nutzen"@de .
 
-<hsdsi/9e43167c-5151-4975-851b-87d2318755c4> a skos:Concept ;
-    skos:broader <hsdsi/0e2b8f04-fb85-4873-be54-24126b54b439> ;
+<msadsi/7bfec9a2-21a4-4190-b312-1c48229dc6dd> a skos:Concept ;
+    skos:broader <msadsi/c78784a7-4181-4364-916d-9b68d0f05b98> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/12847935-927c-4f57-bf1d-c54842196136>,
-        <hsdsi/174c41b5-63c0-4931-bc71-8c722fbf4ccc>,
-        <hsdsi/2dedf321-8ee1-4c7f-9a5b-1c076278cf87>,
-        <hsdsi/31af665f-7865-4069-b70f-e58c0d5b84e1>,
-        <hsdsi/4f61b4f9-a26b-41ce-acc3-b82e17a757cc>,
-        <hsdsi/6257a7e5-d86d-4fbb-8785-8a8bea34ec55>,
-        <hsdsi/8abc7b79-b177-4a4b-a6e0-d08b256b2f37>,
-        <hsdsi/e605a0dc-5639-408e-9568-723f40c244bd> ;
+    skos:narrower <msadsi/0a77e885-0ef2-42cc-9dcb-bf455a627afe>,
+        <msadsi/5431b191-a298-4168-bd94-faa1918d682f>,
+        <msadsi/5908d8c0-953e-4662-81c9-5b25010f5297>,
+        <msadsi/b1cfe3cc-c335-4aeb-a86a-9c271e0c6761>,
+        <msadsi/c6cafa4f-f974-4b8b-9378-4ed8689729a7>,
+        <msadsi/e465fe4c-cac4-4759-9504-50746502bc1e>,
+        <msadsi/eeeb9149-f3ae-4291-a16d-ba9e3c954258> ;
+    skos:notation "4.1" ;
+    skos:prefLabel "Äußerungen/Texte in Verwendungszusammenhängen reflektieren und bewusst gestalten"@de .
+
+<hsdsi/3c2c3e5f-652f-461c-8aef-c02c42a52ae9> a skos:Concept ;
+    skos:broader <hsdsi/dbf5b667-b711-489c-9561-cd622244a0cb> ;
+    skos:inScheme <> ;
+    skos:narrower <hsdsi/2d94e8ce-3053-461f-a348-680384f075eb>,
+        <hsdsi/334c4770-6889-4612-9d1f-639e3970b9ed>,
+        <hsdsi/58171e6a-c750-4ae6-a884-9db7ce488557>,
+        <hsdsi/588fec8d-ed28-4161-8485-890de92e05ac>,
+        <hsdsi/ae704471-62c8-4851-982e-958bb5502ebb>,
+        <hsdsi/c17361b8-6920-4d96-99f6-cb725c9fba5d>,
+        <hsdsi/c90ab6a4-13b5-45bc-b954-d2b5a254a437>,
+        <hsdsi/e06d3168-20d4-447d-b1c7-74b3347df54a> ;
     skos:notation "3.1" ;
     skos:prefLabel "mit Texten und Medien umgehen"@de .
 
-<msadsi/aa4d9345-e383-4721-991c-d775e2a34279> a skos:Concept ;
-    skos:broader <msadsi/c430c75f-2299-43a7-b4b0-3c35e730637d> ;
+<hsdsi/c3330a62-7d31-4e96-8633-ce150f8092be> a skos:Concept ;
+    skos:broader <hsdsi/dbf5b667-b711-489c-9561-cd622244a0cb> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/0f8d36ea-7e9c-4469-8dec-cf85cf734c9f>,
-        <msadsi/25a3f1d1-8837-46a7-9414-8187cd959263>,
-        <msadsi/374f6f0d-70ba-4274-abb1-7e98646dba78>,
-        <msadsi/5f931034-13e7-44d8-b6d3-ee0b4ef62463>,
-        <msadsi/81024d3d-2069-43f5-b15c-f12953c95349>,
-        <msadsi/869eafa0-1e3f-4571-a79e-83aec87c2653>,
-        <msadsi/8896ba2e-0c57-4f36-a5e6-c937907f5cf5>,
-        <msadsi/a0b182ca-b177-4dba-9823-31c3e4c02677> ;
+    skos:narrower <hsdsi/091f0106-0090-49ed-9b45-732f628db920>,
+        <hsdsi/16ef84e5-bae0-4d96-947a-3080e18f7179>,
+        <hsdsi/3c7f10f6-1b32-4e6e-8a07-a222ee6d809f>,
+        <hsdsi/3efcca6d-0aa2-442c-a5d3-7cc0a2948f9e>,
+        <hsdsi/968da512-c06f-46f6-9600-3d59c45b039d>,
+        <hsdsi/d965eb36-6be5-466f-bad4-4fdf6a7c8f87>,
+        <hsdsi/de90c88c-f9f9-43d0-84b9-7e911b769df6>,
+        <hsdsi/efb894c0-a444-4779-b221-9c64741c417f> ;
+    skos:notation "3.3" ;
+    skos:prefLabel "Methoden und Arbeitstechniken"@de .
+
+<msadsi/4f45be79-181e-43c3-998c-3c9e94c00803> a skos:Concept ;
+    skos:broader <msadsi/0a560557-5843-4ee6-bbe1-ef05e7f462e3> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/07adaf6d-5cd7-4222-ab1b-565bbebd1e02>,
+        <msadsi/11080822-dda9-4643-9c78-a4a8e0583d94>,
+        <msadsi/50d14836-2a32-4139-8c4e-ead1d3116cee>,
+        <msadsi/69731329-222b-4249-b626-5b1ff2abd9da>,
+        <msadsi/b4819426-cca4-4ba1-9cf0-7872d68a626a>,
+        <msadsi/eb168f03-a7a3-4251-9c6a-226fece04728>,
+        <msadsi/ee720b25-3261-457b-b640-99f3abc08afe>,
+        <msadsi/f43d705e-5e82-479a-a9a7-5b3c1c5494c6> ;
     skos:notation "3.4" ;
     skos:prefLabel "Methoden und Arbeitstechniken"@de .
 
-<msadsi/b37a8f9e-36b7-4d41-806c-69379a480036> a skos:Concept ;
-    skos:broader <msadsi/5b5ef490-ef58-413e-9805-2f6ea1b54b83> ;
+<msadsi/95fee3c8-9cd6-4cab-931b-1499c47dc5bd> a skos:Concept ;
+    skos:broader <msadsi/20f802e1-ba9e-452d-93fc-0afcfe9fa919> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/073475af-1f36-4182-97af-26b7fb5c6e83>,
-        <msadsi/10cedb16-3f48-44a7-a6cc-e1eabcfec613>,
-        <msadsi/1450464b-f29f-47c7-8579-1b2e7d47302e>,
-        <msadsi/1835f4c0-7656-49e1-bf5b-27eacbe433df>,
-        <msadsi/60133c95-9cdb-4c08-9ace-94a9231b1e9c>,
-        <msadsi/be14970b-115a-4db2-ba26-730dc0cedb82>,
-        <msadsi/cbff51f9-dc25-40b8-aa33-25a72f1d193e>,
-        <msadsi/fc8c774a-52f9-43c2-9c41-ebb972acca72> ;
+    skos:narrower <msadsi/0372f075-7aaf-4793-885c-8da00098eec3>,
+        <msadsi/402e7551-c57a-4463-8a3c-3443c8b26520>,
+        <msadsi/4f7d1d69-8dd5-4b03-bbea-73bdb45ca415>,
+        <msadsi/6d1e6d56-3dfe-4c27-9daf-fbdad15c31ec>,
+        <msadsi/9abd3684-b4fa-421c-8715-0519054fd04e>,
+        <msadsi/ad96029e-0722-4efe-ae12-f306a4db1557>,
+        <msadsi/dbc41f51-4297-4ab9-a1cd-14a03075240d>,
+        <msadsi/e1e9a454-3387-4a57-8746-f25afee2ad15> ;
     skos:notation "1.6" ;
     skos:prefLabel "Methoden und Arbeitstechniken"@de .
 
-<msadsi/032ad9f1-fce7-4120-9fcd-30856e305cb3> a skos:Concept ;
-    skos:broader <msadsi/aaa7287a-d6b5-467d-8442-07bbd1914cee> ;
+<msadsi/d062cf26-dde2-49c0-9854-5a259b320a98> a skos:Concept ;
+    skos:broader <msadsi/438cca75-71e1-400f-a827-b2a79c268a1f> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/1189f0a1-275b-4900-88ca-fd4251204056>,
-        <msadsi/33c0daf5-791b-4ffd-983b-78e00d178b79>,
-        <msadsi/6147d70d-4b7d-4a92-ad05-db5f755758b6>,
-        <msadsi/674bd4d5-b448-4fd6-8651-a56a921af657>,
-        <msadsi/858c659b-61fc-4ade-a34e-5c17c4b7cb5b>,
-        <msadsi/8a66947f-b6ac-4833-9e43-1f482cb135b8>,
-        <msadsi/915374c2-46af-4d7e-ad47-3b8a83db34fe>,
-        <msadsi/9ade7ec8-8b66-40fb-ba34-003a70853474>,
-        <msadsi/b1c225ef-a911-45ec-9d12-41d581156109> ;
+    skos:narrower <msadsi/4c2a8d33-a5d8-4048-9530-fced07fd2fba>,
+        <msadsi/5a422a44-6311-4a7b-95c4-9f731760947c>,
+        <msadsi/60805877-d10a-4cb0-ab40-0d3ea4db2414>,
+        <msadsi/6d05a250-1bec-411d-9d57-e26a7c53088b>,
+        <msadsi/8ee5ef2d-047a-4d66-a779-4d427cacd144>,
+        <msadsi/9486a0e3-0d87-4606-8c70-709203428a67>,
+        <msadsi/c43d0229-9240-43c5-a34d-24e440e88801>,
+        <msadsi/cd260110-f27e-466e-a909-707aeff92593>,
+        <msadsi/d92f5f4d-8d60-471d-bb36-2ca1c492fd73> ;
     skos:notation "2.4" ;
     skos:prefLabel "Methoden und Arbeitstechniken"@de .
 
-<hsdsi/2e7cf4cb-b8fb-4805-96b5-a3a9651e5149> a skos:Concept ;
-    skos:broader <hsdsi/4a13226f-2e35-4544-9f69-49afd0e5d06e> ;
+<hsdsi/3afe36f6-5ffb-48bd-b065-36a4141ba2d2> a skos:Concept ;
+    skos:broader <hsdsi/79d24974-cb45-4e1f-b98b-7cc515539ae5> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/00717c17-b637-439f-b767-4997e58444f4>,
-        <hsdsi/06e5ae9d-e8d8-44d8-975e-bfcc6d6fb72c>,
-        <hsdsi/154b242d-f040-4d70-a034-634d83c926d3>,
-        <hsdsi/15d33cc8-e353-4fff-8cd6-7096978225f6>,
-        <hsdsi/2486c573-e668-4efd-9a65-b57352f78aa5>,
-        <hsdsi/2c6072d7-f2fd-43d1-a46f-f1ea4157d644>,
-        <hsdsi/3c296685-86a7-47ff-9559-ec23c4cf0413>,
-        <hsdsi/4d13c4b3-17ee-47ba-bafa-2469d8d020be>,
-        <hsdsi/842b226b-ed62-4e68-b21d-4e01aac40345>,
-        <hsdsi/845830a1-bb96-460f-842c-bf6852a9d8b6> ;
-    skos:notation "2.4" ;
-    skos:prefLabel "Methoden und Arbeitstechniken"@de .
-
-<hsdsi/56cc706e-61db-4fe6-9100-ad32f936bbc3> a skos:Concept ;
-    skos:broader <hsdsi/f8d06079-4b47-488e-ac03-17730336a430> ;
-    skos:inScheme <> ;
-    skos:narrower <hsdsi/1e34c6dd-c77d-4f9a-bbdb-0623034c3a40>,
-        <hsdsi/45edac50-cc0c-4949-81d0-f6a373cc6cfd>,
-        <hsdsi/4cc407af-b244-4df1-9fb7-d39e3d5e83c0>,
-        <hsdsi/5083d94b-10f3-43c0-b72d-9576f421a5b1>,
-        <hsdsi/95a7b502-43e3-4869-adc3-99baa9a0afdc>,
-        <hsdsi/b8d81e60-ccb0-43ab-ab0b-1fcddf460ae8>,
-        <hsdsi/cb565f65-4f9f-4270-a712-0723ad46b756>,
-        <hsdsi/cd02295d-5169-402b-9843-95a83a2633f2>,
-        <hsdsi/e767b207-1a5d-45e9-84c6-8d0829ad0e3f>,
-        <hsdsi/f7cb3c34-8ffc-4a59-a1c8-8405911cae0d> ;
+    skos:narrower <hsdsi/287418da-48f7-440c-b4d1-ae37ba680b3e>,
+        <hsdsi/2ed84991-da3c-4cac-889c-20ab50abcec7>,
+        <hsdsi/469f5ddd-c3d8-43a8-8945-e4b3634867f8>,
+        <hsdsi/55632c9c-9205-4a4d-a22d-f8f50f17a84a>,
+        <hsdsi/70f8a33d-05a8-4451-9c38-058fd243dc3c>,
+        <hsdsi/84d89ff0-b310-403a-ac3b-99d8838c0911>,
+        <hsdsi/9f783364-7f3d-476d-ac99-e2363e478262>,
+        <hsdsi/dd6bbfed-6f26-4877-87f2-bf4af6de02c0>,
+        <hsdsi/e0580577-d4f9-4d4a-bf3c-fe3d5ff6d3b4>,
+        <hsdsi/e94acbfa-3574-4b70-9faa-1b034ad6ccac> ;
     skos:notation "3.2.1" ;
     skos:prefLabel "Literarische Texte verstehen und nutzen"@de .
 
-<msadsi/3697b6c8-2ab1-4eca-b099-7d1ec90dfd70> a skos:Concept ;
-    skos:broader <msadsi/264be196-875d-42d0-ada6-f4dabd5ecf74> ;
+<hsdsi/ff4606ab-7d1b-4e41-a44e-2045598a8304> a skos:Concept ;
+    skos:broader <hsdsi/8bb7f0cf-3a3c-452a-ac65-2e43e90b00c0> ;
     skos:inScheme <> ;
-    skos:narrower <msadsi/0e2fb0e8-dc7c-4bfb-aaa4-d6b4852f1305>,
-        <msadsi/2d5670c4-c041-41ab-a56d-e805e8bd2b7c>,
-        <msadsi/325b21c7-1e20-4de9-b3c9-b821253ba6f0>,
-        <msadsi/377544c5-2e54-4673-b5f8-444365c3c55c>,
-        <msadsi/50309758-9fb0-45d6-a25a-400f7ff2c9f5>,
-        <msadsi/5827f231-4f9e-49f1-9aad-b76a85e522cc>,
-        <msadsi/59f18cbd-0597-4a43-8375-bbfc8f4e45f9>,
-        <msadsi/7d85f003-6b46-48b7-8174-7d5b72b543bc>,
-        <msadsi/8a1b8ce9-eebb-4717-a638-5c5b2b2f601c>,
-        <msadsi/94492765-b6df-4a56-8b1d-306aed8554a6>,
-        <msadsi/b1079274-3649-477d-871f-7c231a23e66a> ;
+    skos:narrower <hsdsi/01b06c83-55c7-4480-8b23-f5d9b9e7d9f1>,
+        <hsdsi/1503b17d-59bc-4dc4-8bc2-769eec23fb68>,
+        <hsdsi/28137304-f2f6-4067-8540-c5aa491cb06c>,
+        <hsdsi/286ebd03-bf35-4046-bf90-d45198a2fb07>,
+        <hsdsi/974a12b5-f9cc-4aad-92b3-7b6a398e164c>,
+        <hsdsi/bae0940a-a857-4754-9642-88607d1f64a4>,
+        <hsdsi/c85d8652-c308-4c9a-ae89-cbce8e9b2df1>,
+        <hsdsi/d6f067ab-27ad-4ae4-8605-d4525cff5c03>,
+        <hsdsi/dcd3e0af-39d2-4fd1-8f7e-7932f35746cc>,
+        <hsdsi/f45bc559-8e34-40e7-8dd8-c678ebec58f8> ;
+    skos:notation "2.4" ;
+    skos:prefLabel "Methoden und Arbeitstechniken"@de .
+
+<msadsi/6406e0c8-1b65-4e50-addb-b24f686daca3> a skos:Concept ;
+    skos:broader <msadsi/10288ab7-f54f-402f-8794-b8879b503082> ;
+    skos:inScheme <> ;
+    skos:narrower <msadsi/1d69cf69-4705-4ca8-a660-8d4b05d08c48>,
+        <msadsi/301361ec-9745-4451-953f-3b3628effcdd>,
+        <msadsi/3f003ff8-1d4b-4a91-9fc5-1d6f347774e0>,
+        <msadsi/6bb6aaac-b50a-4d42-85ac-91d5094918fc>,
+        <msadsi/70696716-df90-44fc-a95b-7e09336f6873>,
+        <msadsi/77398804-8ad3-4c2e-b3fc-7e8cc1952ab0>,
+        <msadsi/8bef978c-8a6f-4c5f-886c-6ad9a2b9afce>,
+        <msadsi/8cbd7299-6489-4632-9443-da6f2df9ad56>,
+        <msadsi/9a8d83dc-3157-4f91-9cbf-f06861056b75>,
+        <msadsi/a4a9623e-6b34-4207-ab9f-32e1d91e5df0>,
+        <msadsi/f9ea4e00-1dc5-4e15-b212-7ce8abc84fed> ;
     skos:notation "3.3.1" ;
     skos:prefLabel "literarische Texte verstehen und nutzen"@de .
 
-<hsdsi/8b0e920a-f45d-42e0-bacb-99ca0307b135> a skos:Concept ;
-    skos:broader <hsdsi/be641b1f-d269-4dfc-9b14-85d85195533d> ;
+<hsdsi/8d4fc225-2c53-4d7e-b540-599733e995c5> a skos:Concept ;
+    skos:broader <hsdsi/c23e347d-9d66-4841-8c1e-af509d1c3d1b> ;
     skos:inScheme <> ;
-    skos:narrower <hsdsi/012e185a-2221-4bc0-8fe6-e3ce1695b467>,
-        <hsdsi/0b4eb086-af2d-4096-a2b6-59fc5813d0ff>,
-        <hsdsi/0e5d3c65-b7c4-47ba-9f35-1e691c068ebc>,
-        <hsdsi/1e4cb647-1438-4068-8053-9262152fb5d5>,
-        <hsdsi/3616d469-f582-4170-88a0-64c0086507e6>,
-        <hsdsi/45af36a3-e71f-43a7-8f6d-bde922a4ab63>,
-        <hsdsi/48e00e7b-278e-4473-a11b-1a71754e9bed>,
-        <hsdsi/64ff2512-a66a-48c5-a041-1c45d65c5574>,
-        <hsdsi/67ac8545-0b88-42fb-a7a0-165e4988b8b7>,
-        <hsdsi/73b8b899-d5c3-4d35-b92e-ec4af828d143>,
-        <hsdsi/b5259ea3-2edf-451e-871d-83ebb956c143>,
-        <hsdsi/b53e0957-1bdd-48a8-bd69-0362289be2d0>,
-        <hsdsi/d876ef8a-22fa-4e00-b143-adbda923c30c> ;
+    skos:narrower <hsdsi/0030f9b5-1cb9-4a15-a1f1-ede581788d0d>,
+        <hsdsi/07b43e51-aa9d-4a17-a10a-b181fc9dfde5>,
+        <hsdsi/08dc1667-ac92-45e9-a36e-483c767d4b71>,
+        <hsdsi/336af9bf-5232-4c42-9dca-5113472be28e>,
+        <hsdsi/43a41053-11b7-484e-b3f8-4e2751b3b83d>,
+        <hsdsi/43ba2f50-6503-47ce-90a5-f8c8ba993550>,
+        <hsdsi/78036dfe-9979-4292-aaec-941516cb2162>,
+        <hsdsi/78fd7005-913e-46c0-8465-6979b312ac3a>,
+        <hsdsi/890c87f9-3f5b-4645-ab87-a14f1714ed8a>,
+        <hsdsi/98afd24a-4ded-43a3-affb-c5271758925e>,
+        <hsdsi/9ef4a608-afe0-4dd6-b97b-f4f3e18197d7>,
+        <hsdsi/a69e1d01-ff81-43c9-988a-7fa0353542a8>,
+        <hsdsi/b8621986-2a82-40ac-8c32-89956c9b9f40> ;
     skos:notation "2.3.2" ;
     skos:prefLabel "Texte schreiben"@de .
 
